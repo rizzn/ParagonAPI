@@ -153,7 +153,7 @@
 		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/master.webp"
 	},
 	{
-		"RankId":17,
+		"RankId":18,
 		"RankName":"Grand Master",
 		"Promotion":false,
 		"Demotion":true,
