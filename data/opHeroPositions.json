@@ -1,0 +1,32 @@
+[
+	{
+		"PositionId":1,
+		"PositionName":"Jungle",
+		"PositionDescription":"The Jungler not only has to farm the Jungle to go ahead in Gold, he also has to gank enemies on their lanes, help in or initiate team fights and support the Offlaner to hold the tower for a longer time.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/positions/1.webp"
+	},
+	{
+		"PositionId":2,
+		"PositionName":"Midlane",
+		"PositionDescription":false,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/positions/2.webp"
+	},
+	{
+		"PositionId":3,
+		"PositionName":"Duo Lane (Carry)",
+		"PositionDescription":"The Duo-Lane (or Safelane) is the lane on the side with the Prime Spirit. Usually the ranged Carry and the Support of both teams face each other in a symmetrical setup on this lane.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/positions/3.webp"
+	},
+	{
+		"PositionId":4,
+		"PositionName":"Duo Lane (Support)",
+		"PositionDescription":"The Duo-Lane (or Safelane) is the lane on the side with the Prime Spirit. Usually the ranged Carry and the Support of both teams face each other in a symmetrical setup on this lane.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/positions/4.webp"
+	},
+	{
+		"PositionId":5,
+		"PositionName":"Solo Lane",
+		"PositionDescription":"The Offlane (Solo Lane) is the lane near the Prime Guardian.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/positions/5.webp"
+	}
+]

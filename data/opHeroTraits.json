@@ -1,0 +1,80 @@
+[
+	{
+		"TraitId":1,
+		"TraitName":"Elusive",
+		"TraitDescription":"Heroes with this trait have abilities that make it hard for enemies to pin you down and you are able peel off from fights more easily than heroes without the trait.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/1.webp"
+	},
+	{
+		"TraitId":2,
+		"TraitName":"Controller",
+		"TraitDescription":"Controller heroes provide abilities that affects a heroe's mobility or otherwise their positioning. You can also use crowd control for this term also.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/2.webp"
+	},
+	{
+		"TraitId":3,
+		"TraitName":"Attacker",
+		"TraitDescription":"Heroes with this trait can dish a lot of damage with auto attacks alone. Their basic damage has good scaling as a result.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/3.webp"
+	},
+	{
+		"TraitId":4,
+		"TraitName":"Burst",
+		"TraitDescription":"Heroes with this trait are able to deal a large amount of damage in a small time frame usually with abilities or even auto attacks if invested in.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/4.webp"
+	},
+	{
+		"TraitId":5,
+		"TraitName":"Zoner",
+		"TraitDescription":"Heroes untilizing this trait means that they have tools which enable them to zone out, limit, or make space for their own utilization.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/5.webp"
+	},
+	{
+		"TraitId":6,
+		"TraitName":"Assassin",
+		"TraitDescription":"Heroes with this trait excel at killing heroes caught out of position and solo heroes. They have great brust damage as a result.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/6.webp"
+	},
+	{
+		"TraitId":7,
+		"TraitName":"Sieger",
+		"TraitDescription":"Heroes classified as this have good wave clear and can handle with minions more easily than other heroes.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/7.webp"
+	},
+	{
+		"TraitId":8,
+		"TraitName":"Ganker",
+		"TraitDescription":"Heroes with this trait are perfect at catching overextended heroes in lane or catching a hero off guard and securing the kill safely.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/8.webp"
+	},
+	{
+		"TraitId":9,
+		"TraitName":"Durable",
+		"TraitDescription":"Heroes with this trait are naturally tough through armor, health, regeneration, or any other means of keeping itself alive.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/9.webp"
+	},
+	{
+		"TraitId":10,
+		"TraitName":"Initiatior",
+		"TraitDescription":"These heroes with the trait are great at starting fights. Specially good in team fights.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/10.webp"
+	},
+	{
+		"TraitId":11,
+		"TraitName":"Wild",
+		"TraitDescription":"Heroes with this trait means that they are effective at jungling and clearing camps.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/11.webp"
+	},
+	{
+		"TraitId":12,
+		"TraitName":"Guardian",
+		"TraitDescription":"Heroes with this trait excel at keeping teammates alive and are best in the early game to help out the carry.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/12.webp"
+	},
+	{
+		"TraitId":13,
+		"TraitName":"Marauder",
+		"TraitDescription":"This classifies heroes with the potential for the greatest end game power via itemization. These are also known as the Carries.",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/traits/13.webp"
+	}
+]

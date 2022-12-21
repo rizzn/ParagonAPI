@@ -1,0 +1,1163 @@
+[
+	{
+		"HeroId":1016,
+		"HeroName":"Aurora",
+		"HeroTitle":"The Frozen Heart",
+		"HeroDescription":{
+			"Lore":"Captain of the Ventus Mercenaries, widely renowned throughout the galaxy. She uses ice magic with incredibly destructive power. She was once Queen of the prosperous Kingdom of Vinea, but she was cursed by a spirit after being deceived by someone she loved. Because of the curse, she was dethroned and exiled from the kingdom, which was then overtaken by neighboring kingdoms. She now fights alone to restore Vinea to its former glory.",
+			"Specification":"Aurora is an elusive Crowd-Control Specialist, whose abilities allow her to manipulate the cold. A powerful frontline initiator, Aurora uses the cold to freeze her enemies and take what she pleases. Aurora's abilities make her a powerful laner, allowing her to farm more safely and aggressively than others. But do not get too aggressive without a team to back you up. Use her mobility to remain elusive and set up powerful initiations. Get ready to give your enemies the cold shoulder with Aurora.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"50"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"60"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"35"
+				},
+				{
+					"Description":"Health",
+					"Value":"60"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"45"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10160103,10160104,10160105,10160101,10160102]
+		},
+		"RoleId":4,
+		"PositionId":5,
+		"Traits":[1,2,3,4,5],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1016.webp"
+	},
+	{
+		"HeroId":1019,
+		"HeroName":"Belica",
+		"HeroTitle":"The Falcon of Shakkad",
+		"HeroDescription":{
+			"Lore":"The only daughter of the aristocratic Farsene family of the Shakkadian Empire and an excellent soldier. In battle, she mainly uses grenades, guns, and drones to rain chaos upon the enemy from afar. She now commands the empire's Black Falcon Army and fights alongside Murdock to make the empire's greatness known across the galaxy. It is said she came to the battlefield to look for her old comrade, Herald.",
+			"Specification":"Belica is a Caster Support that utilizes special weapons to disrupt the battlefield in unique ways. With her array of tools, Lt. Belica can provide means of crowd control and control areas. With her arsenal of advanced weapons, Lt. Belica is a powerful threat to her enemies. Call in Void Drone at the start of a fight to deplete your enemies' resources and zap them when they try to fight back. Drop a Void Bomb and follow-up with Seismic Assault to neutralize enemies, and when you found your target, pacify them with Neural Disruptor and bring swift justice to your enemies.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"85"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"25"
+				},
+				{
+					"Description":"Health",
+					"Value":"40"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"20"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10190103,10190104,10190105,10190101,10190102]
+		},
+		"RoleId":4,
+		"PositionId":2,
+		"Traits":[2,5,4,7,12],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1019.webp"
+	},
+	{
+		"HeroId":1027,
+		"HeroName":"Countess",
+		"HeroTitle":"The Hidden Breath",
+		"HeroDescription":{
+			"Lore":"From a young age, she's been trained to kill. This dual-wielding assassin moves through shadows to quickly end enemies. Due to her bloody combat style, she is called the Crimson Assassin or the Assassin of the Dark. In the past, she worked for a criminal organization, but now she assists Sevarog in reviving Mateth.",
+			"Specification":"The Countess is a burst caster whose greatest strengths are misdirection and unpredictability. Utilizing her abilities, Countess can quickly single out and assassinate a key target and vanish into the darkness.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"35"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"80"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"40"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"15"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10270103,10270104,10270105,10270101,10270102]
+		},
+		"RoleId":3,
+		"PositionId":5,
+		"Traits":[6,4,7,8,9],
+		"Difficulty":"Hard",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1027.webp"
+	},
+	{
+		"HeroId":1031,
+		"HeroName":"Dekker",
+		"HeroTitle":"The Mad Researcher",
+		"HeroDescription":{
+			"Lore":"The former Chief Researcher of Biotechnology and Physics for the Haileen Royal Research Institute of Rutas, Dekker spent most of her life in a lab studying the weaponization of plasma. Her dedication to this research has been successful, enabling her to throw plasma balls and create plasma walls to disrupt the enemy. She now searches for new research material on the battlefield.",
+			"Specification":"Dekker is a ranged Support who uses her abilities to disrupt enemy movement. Using her abilities, she can split an enemy team allowing her teammates to isolate targets. Use your abilities to stun and slow enemies down so your damage dealers can get in position to finish the job.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"15"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"75"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"15"
+				},
+				{
+					"Description":"Health",
+					"Value":"30"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"10"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"40"
+				}
+			],
+			"Abilities":[10310103,10310104,10310105,10310101,10310102]
+		},
+		"RoleId":6,
+		"PositionId":4,
+		"Traits":[12,2,5,1],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1031.webp"
+	},
+	{
+		"HeroId":1020,
+		"HeroName":"Feng Mao",
+		"HeroTitle":"The Noble Balancer",
+		"HeroDescription":{
+			"Lore":"An elder of the ancient Huahn tribe with purple skin and unique eyes. Using Kai, an indestructible spear that only elders can possess, he slashes his enemies without mercy to influence the tide of battle. He made his escape during the invasion of the Shakkadian Empire, but recently reappeared. His reappearance fuels the desire for independence in the hearts of the Etanus tribes.",
+			"Specification":"Feng Mao is a melee Fighter capable of engaging enemies at range, diving enemy back lines, and bursting down key targets. Late game your primary job is to engage the enemy damage dealers. Look to dash in and slow your target down to ensure you land your ult, which can be devastating to squishy Heroes.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"90"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"60"
+				},
+				{
+					"Description":"Health",
+					"Value":"70"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"60"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"60"
+				}
+			],
+			"Abilities":[10200103,10200104,10200105,10200101,10200102]
+		},
+		"RoleId":1,
+		"PositionId":5,
+		"Traits":[3,9,6,1,11,8],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1020.webp"
+	},
+	{
+		"HeroId":1026,
+		"HeroName":"Gadget",
+		"HeroTitle":"The Hermit Engineer",
+		"HeroDescription":{
+			"Lore":"A promising engineer on Setar, Gadget entered college at the age of sixteen and graduated a year early. She was hired as Chief Researcher of Setricta, but ended up returning home and opening a small repair store. She likes to try out her inventions, such as movement speed boosters and sticky bombs, on the battlefield. She is adept at helping her team by distracting the enemy.",
+			"Specification":"Gadget is a ranged Caster who uses her trusty bots to control and deny large areas. When engaging team fights, drop your Ultimate in the middle of the enemy team and they'll have to split up, allowing your team to pick off targets.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"25"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"90"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"20"
+				},
+				{
+					"Description":"Health",
+					"Value":"40"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"10"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"40"
+				}
+			],
+			"Abilities":[10260103,10260104,10260105,10260101,10260102]
+		},
+		"RoleId":4,
+		"PositionId":2,
+		"Traits":[7,5,4,12,1],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1026.webp"
+	},
+	{
+		"HeroId":1012,
+		"HeroName":"Gideon",
+		"HeroTitle":"The Truth Seeker",
+		"HeroDescription":{
+			"Lore":"A scholar and Caster who studied ancient magic in the Veron Desert. He employs powerful attack magic using instruments such as circles and globes. In his quest for truth, he began to show a psychopathic greed. He broke away from a typical academic path to disseminate his own truth and fights to declare himself the absolute ruler of humanity.",
+			"Specification":"Gideon is a high-mobility Caster adept in wave clearing and burst damage. Using his abilities, Gideon can control fights and be a dominant threat with or without a team.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"90"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"40"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"10"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"40"
+				}
+			],
+			"Abilities":[10120103,10120104,10120105,10120101,10120102]
+		},
+		"RoleId":4,
+		"PositionId":2,
+		"Traits":[4,6,1,7],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1012.webp"
+	},
+	{
+		"HeroId":1006,
+		"HeroName":"Grux",
+		"HeroTitle":"The Great Chieftain",
+		"HeroDescription":{
+			"Lore":"The chieftain of the Ectasia tribe that valiantly fights for honor. He strides over the battlefield with his enormous blunt weapons and quickly subdues any enemy he encounters. He is recognized as the greatest chieftain among the numerous tribes of Etanus for his wisdom and ferocity. Together with Rampage, he fights for the independence of his homeland.",
+			"Specification":"Grux is a melee fighter who uses his abilities to tear through his opponents. His versatility allows him to lock down enemies and terrorize the battlefield.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"100"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"75"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"65"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"60"
+				}
+			],
+			"Abilities":[10060103,10060104,10060105,10060101,10060102]
+		},
+		"RoleId":1,
+		"PositionId":1,
+		"Traits":[3,8,10,11,7,2],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1006.webp"
+	},
+	{
+		"HeroId":1022,
+		"HeroName":"Howitzer",
+		"HeroTitle":"The Veteran Pilot",
+		"HeroDescription":{
+			"Lore":"Howitzer is a self-proclaimed genius pilot who likes to blow things up with his rockets and missiles. Known as a combat maniac, he causes damage in a wide area and disorients enemies. He prefers to live a simple, carefree life rather than waste time chasing dreams, achievements, or false hope. He lights up the battlefield and aims to eventually bombard the entire world.",
+			"Specification":"Howitzer is a ranged Caster with an explosive arsenal at his disposal. Using Rockets, Land Mines and Slow Grenades, Howitzer is able to deal area of effect damage, control large areas and even disrupt and slow down his enemies. When in teamfights use your abilities to rain heavy artillery down on your enemies or your Slow Grenades to control the fight. Late game, Howitzer can easily take out minions, making it difficult for enemies to push in to your base or push you out of theirs. Use your abilities to disrupt the enemy team and zone out the enemy damage dealers.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"75"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"25"
+				},
+				{
+					"Description":"Health",
+					"Value":"50"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"40"
+				}
+			],
+			"Abilities":[10220103,10220104,10220105,10220101,10220102]
+		},
+		"RoleId":4,
+		"PositionId":2,
+		"Traits":[7,1,4,5],
+		"Difficulty":"Hard",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1022.webp"
+	},
+	{
+		"HeroId":1005,
+		"HeroName":"Kallari",
+		"HeroTitle":"The Genesis of Dusk",
+		"HeroDescription":{
+			"Lore":"A cyborg assassin who corners enemies, making them cower in fear. She uses her daggers to leave critical wounds or stealthily digs behind the enemy to quickly overpower them. She is called the Optimized Cyborg for her outstanding attack power and quick judgment. She was previously an archbishop who guarded the Sacred Ground of Armonia on Etanus, but became a cyborg to fulfill her dream of achieving her motherland's independence.",
+			"Specification":"Kallari is a high risk high reward melee Assassin and a global threat to her enemies. Kallari is more mechanically demanding than other heroes and relies on stealth and guerilla tactics to catch enemies off guard. Be smart about your engagements and look for opportunities to surprise your enemies. Use your abilities to set the tempo of the match, by applying pressure to lanes on the other side of the map. When the time is right, join the fight with Death Sentence and help your team pick off stragglers.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"80"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"80"
+				},
+				{
+					"Description":"Health",
+					"Value":"50"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10050103,10050104,10050105,10050101,10050102]
+		},
+		"RoleId":3,
+		"PositionId":1,
+		"Traits":[6,1,8,3,10],
+		"Difficulty":"Hard",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1005.webp"
+	},
+	{
+		"HeroId":1023,
+		"HeroName":"Khaimera",
+		"HeroTitle":"The Chosen Nata",
+		"HeroDescription":{
+			"Lore":"Known as the legendary warrior of the Nata, Khaimera has been protecting the forest since he was abandoned there at the age of thirteen. His movement resembles a wild beast charging at an enemy without hesitation. He eliminates anything in the way with his axes. His agility allows him to swiftly move across the battlefield, disrupting the enemy. Some think of him as a troublemaker. He has come to the battlefield to show the greatness of the Nata.",
+			"Specification":"Khaimera is a high risk, high reward melee fighter and a powerful duelist. Possessed by the Spirit of a wild beast, Khaimera excels at ganking enemies and isolating prey. His feral instincts and thirst for battle makes him an absolute savage in skirmishes. Khaimera excels at ganking and isolating prey. When hunting, his \"Ambush\" allows him to quickly close the gap or to keep his target from escaping. His ultimate \"Cull\", will channel the full power of the beast, devastating his target and knocking enemies away, isolating his victim. When playing Khaimera look for opportunities to gank enemies out of position. Use \"Ambush\" to dive enemy backlines and single out key targets. Khaimera's ability to isolate targets, dueling power, sustain and ferocity make him a menace in teamfights.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"85"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"60"
+				},
+				{
+					"Description":"Health",
+					"Value":"70"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"65"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"60"
+				}
+			],
+			"Abilities":[10230103,10230104,10230105,10230101,10230102]
+		},
+		"RoleId":1,
+		"PositionId":1,
+		"Traits":[6,3,11,8],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1023.webp"
+	},
+	{
+		"HeroId":1011,
+		"HeroName":"Kwang",
+		"HeroTitle":"The True Heir",
+		"HeroDescription":{
+			"Lore":"A Warrior who wields his Celestial Blade to mercilessly cuts down enemies. He leads from the front line with his heavy sword in one hand. Formerly the third prince of the Kingdom of Rinn on the planet Elkima, he lost his entire family in the Rebellion of Houses. He fights to return the world to its rightful order.",
+			"Specification":"Kwang is a durable fighter that excels at initiating fights. A master swordsman, Kwang can utilize his Legendary Blade to change how and where he uses his abilities. When playing Kwang, utilize your legendary blade to approach engagements on your own terms. Use \"Judgement of the Heavens\" to isolate and lock targets in place, this is especially useful when combo'd with allied AoE abilties and ultimates. If you need to get back into the fight use \"Fury of the Heavens\" to teleport back to your sword and catch enemies off guard.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"60"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"60"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"0"
+				},
+				{
+					"Description":"Health",
+					"Value":"60"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"45"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10110103,10110104,10110105,10110101,10110102]
+		},
+		"RoleId":1,
+		"PositionId":5,
+		"Traits":[10,11,9,3,8],
+		"Difficulty":"Hard",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1011.webp"
+	},
+	{
+		"HeroId":1001,
+		"HeroName":"Murdock",
+		"HeroTitle":"The Outlaw of the Battlefield",
+		"HeroDescription":{
+			"Lore":"A member of the Shakkadian Empire's Black Falcon Army. He is a quick shot with his gun Kelte and excels in both strategy and technique. He is called the Outlaw of the Battlefield or Loose Cannon. He was originally the second son and favored heir of the empire's state-run defense company, Grail Corporation, but chose the military due to his disillusionment with capitalism.",
+			"Specification":"Murdock is a Ranger who relies on his basic attacks to deal high single target damage. Murdock's abilities offer different types of utility and allow him to lane safely. Use your Ultimate to pick off low-health targets, push enemies back or even support allies in a teamfight. Late game, approach fights carefully, analyze the threat and eliminate the enemy. Plan your attacks to get the upper hand on your enemy.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"50"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"55"
+				},
+				{
+					"Description":"Health",
+					"Value":"50"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10010103,10010104,10010105,10010101,10010102]
+		},
+		"RoleId":5,
+		"PositionId":3,
+		"Traits":[13,3,4,5],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1001.webp"
+	},
+	{
+		"HeroId":1003,
+		"HeroName":"Muriel",
+		"HeroTitle":"The Created Archangel",
+		"HeroDescription":{
+			"Lore":"A talented cyborg Support who uses her divine power to protect her allies and save countless lives. Thanks to her actions, people call her the Battlefield Angel or Shining Goddess. She was a faithful priestess of Osyne and protector of the Sacred Ground of Armonia, but she later chose to become a cyborg to be with her dear sister.",
+			"Specification":"Muriel is a ranged support who uses her abilities to shield her allies. Her Ultimate allows her to fly to target ally allowing her to change the flow of battle. Late game, Muriel becomes a pure support Hero. Alacrity will speed up your allies to get in or out of combat. And make sure to layer your shields to keep your Damage Dealers alive.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"15"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"75"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"15"
+				},
+				{
+					"Description":"Health",
+					"Value":"30"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"10"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"40"
+				}
+			],
+			"Abilities":[10030103,10030104,10030105,10030101,10030102]
+		},
+		"RoleId":6,
+		"PositionId":4,
+		"Traits":[12,9,5],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1003.webp"
+	},
+	{
+		"HeroId":1025,
+		"HeroName":"Narbash",
+		"HeroTitle":"The Successor of Eralkum",
+		"HeroDescription":{
+			"Lore":"The first son of Eralkum held in high esteem as a Kalyma sage. He is a powerful hero who beats a large drum in battle to inspire his allies and heal them in moments of crisis. He's set to become the next chief due to his outstanding battle prowess and the great love he has for his people. He intends to make known the \"Third Enemy\" whose coming is foretold in ancient prophecies.",
+			"Specification":"Narbash is a melee caster who uses the power of his drums to support his allies. Utilizing different types of utility and a variety of melodies, Narbash inspires his team to march into combat and overtake his enemies. When playing Narbash be ready to lead your team into glorious combat. Use March to overtake enemies or to make a quick escape. Save Thunk to interrupt key enemy ultimates or to stun an incoming threat. And when you're ready to stop the show, lay down the beat with Crash Bang Boom to disrupt teamfights.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"65"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"65"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"60"
+				}
+			],
+			"Abilities":[10250103,10250104,10250105,10250101,10250102]
+		},
+		"RoleId":6,
+		"PositionId":4,
+		"Traits":[12,2,9],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1025.webp"
+	},
+	{
+		"HeroId":1017,
+		"HeroName":"Phase",
+		"HeroTitle":"The Super Hero",
+		"HeroDescription":{
+			"Lore":"A cute girl born with a superpower. She used to only use her power to drive out local thieves. After an awakening, she joined a superhuman organization called Flares. She uses telekinesis to block the enemy's vision and distract them. She is always a reliable ally on the battlefield. She believes she is the greatest and is confident she will become the superhero who saves humanity.",
+			"Specification":"Phase is a powerful telepath, who manipulates energy waves to protect her allies. A well known music aficionado, Phase scoured Omeda for talent and discovered Shinbi, guiding the singer in a rise to fame. Phase is all about getting allies out of bad situations, and turning the tide of battle. In teamfights, you can easily move your link to whoever needs it the most. Attaching your link to an ally with hard engage could create opportunities for you to blind and disorient several enemies. Know your limits when playing Phase. If you try to dive too deep to save an ally, it could result in your death.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"75"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"25"
+				},
+				{
+					"Description":"Health",
+					"Value":"50"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10170103,10170104,10170105,10170101,10170102]
+		},
+		"RoleId":4,
+		"PositionId":2,
+		"Traits":[12,2,9,1],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1017.webp"
+	},
+	{
+		"HeroId":1004,
+		"HeroName":"Rampage",
+		"HeroTitle":"The Liberated",
+		"HeroDescription":{
+			"Lore":"A renowned general of the Ediaca tribe on the planet Etanus. He overpowers opponents with his huge beastly body and unexpected agility. He uses his fierce grip to throw rocks which can knock out enemies. He fights for Ediaca's revival and independence and for a world free of invasions.",
+			"Specification":"Rampage is a high mobility melee Tank that operates best as a close-range, aggressive, heavy assault unit. Rampage can engage enemies with ease and even when it looks like he's about to die, he can Enrage to gain bonus health and continue fighting. Rampage becomes ridiculously tanky late game and because Enrage gives you bonus health regen, you'll be able to fight for long periods of time while your enemies waste their abilities on you and not your team.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"65"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"20"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"40"
+				},
+				{
+					"Description":"Health",
+					"Value":"85"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"95"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"60"
+				}
+			],
+			"Abilities":[10040103,10040104,10040105,10040101,10040102]
+		},
+		"RoleId":2,
+		"PositionId":1,
+		"Traits":[9,11,3,10,1,8],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1004.webp"
+	},
+	{
+		"HeroId":1015,
+		"HeroName":"Revenant",
+		"HeroTitle":"The Liberated",
+		"HeroDescription":{
+			"Lore":"A red-eyed shooter who deals devastating damage with his powerful gun. He lies in wait behind his allies until the perfect chance comes to fire with deadly accuracy. He was an ordinary human being who grew up in an orphanage, but his dealings with darkness robbed him of his body and turned him into a shadow. He fights to personally punish the forces of evil and regain his physical form.",
+			"Specification":"Revenant is an unholy melding of a malevolent spirit, and a vicious bounty hunter. An ability carry, Revenant relies on isolating targets and collecting bounties in order to snowball past the enemy Carry. Revenant relies on Reckoning to collect bounties and come online sooner than other carries. Building pure power will make your abilities deal more damage, allowing you to nuke down high-value targets. When engaging enemies, always be mindful of your cooldowns and how many rounds you have in the chamber, even one small miscalculation could cost you your bounty.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"70"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"60"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"45"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"60"
+				}
+			],
+			"Abilities":[10150103,10150104,10150105,10150101,10150102]
+		},
+		"RoleId":5,
+		"PositionId":3,
+		"Traits":[13,6,4,3,8],
+		"Difficulty":"Hard",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1015.webp"
+	},
+	{
+		"HeroId":1028,
+		"HeroName":"Serath",
+		"HeroTitle":"The Pure Darkness",
+		"HeroDescription":{
+			"Lore":"Serath is an archmage known for her ability to control two opposite powers at the same time. She used to lead a cult called Xarakua, and is now an elder of the Black Magic League. Her iron mace earned her the nickname the Inquisitor of Battlefield. She hopes to return everything back to the way it was in the beginning.",
+			"Specification":"Serath is a melee carry that trades out the safety of being able to attack from range for increased damage and mobility. Serath hides an inner darkness, but has trained to balance her two natures, hoping to one day claim justice for her fallen comrades. Serath can dish out large amounts of damage on her enemies, but she must be within melee range to do so. To maximize your damage, skirt the edges of teamfights and deal damage safely. Your job is to deal damage, not chase down and kill the first enemy you see. Utilize your abilities to remain elusive in fights, mobility is the key to your success. Channel your inner darkness and find balance to overcome your enemies.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"90"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"65"
+				},
+				{
+					"Description":"Health",
+					"Value":"70"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"50"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10280103,10280104,10280105,10280101,10280102]
+		},
+		"RoleId":1,
+		"PositionId":5,
+		"Traits":[13,3,1,6,9],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1028.webp"
+	},
+	{
+		"HeroId":1010,
+		"HeroName":"Sevarog",
+		"HeroTitle":"The Empty Darkness",
+		"HeroDescription":{
+			"Lore":"A vassal of Mateth and being of the void hidden in the dark corners of the Dekima Galaxy. He uses his frightening skills to steal the lives of others and bring chaos to his enemies. Because of these unique skills, he is called the Creature of Darkness on the battlefield. He plans to gather all the dark energy scattered throughout the galaxy to revive Mateth.",
+			"Specification":"Sevarog is a melee tank capable of stealing the souls of his enemies to make himself stronger. Sevarog can manipulate fights with different forms of Crowd Control and isolate targets. Late game, Sevarog is a very strong frontline tank. Use your abilities to control the tempo of fights. If the enemy gets too close to your carries, use Colossal Blow to knock them away. You can also use your Ultimate to isolate an enemy, knocking them into your team and using Subjugate to keep them there.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"55"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"35"
+				},
+				{
+					"Description":"Health",
+					"Value":"75"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"80"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"60"
+				}
+			],
+			"Abilities":[10100103,10100104,10100105,10100101,10100102]
+		},
+		"RoleId":2,
+		"PositionId":5,
+		"Traits":[3,10,9,2,7],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1010.webp"
+	},
+	{
+		"HeroId":1014,
+		"HeroName":"Shinbi",
+		"HeroTitle":"The Heavenly Agent",
+		"HeroDescription":{
+			"Lore":"Heir to the House of Ryeong, one of the 12 powerful families of the Kingdom of Rinn, and the only blade dancer in the empire. She attacks enemies in various ways using her phantom wolves and shaman sword. She moves swiftly to corner and Taunt enemies. Since the loss of her mother in the Rebellion of Houses, she has been working together with her childhood friend, Kwang.",
+			"Specification":"In Omeda City, Shinbi is a famous pop star, well known for conjuring wolves and using them in her performances. In the battles of Agora, she is a deceptive melee assassin who uses her wolves to dazzle her enemies and rip them to shreds. Shinbi can very fluidly navigate teamfights, to isolate and take down high value targets. Though she is mobile, she is very susceptible to crowd control, so only go in when you’re sure you can get the kill. Look for opportunities to safely pick off enemies and always know your limit.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"70"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"50"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"35"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10140103,10140104,10140105,10140101,10140102]
+		},
+		"RoleId":3,
+		"PositionId":5,
+		"Traits":[6,4,8,1,7],
+		"Difficulty":"Hard",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1014.webp"
+	},
+	{
+		"HeroId":1009,
+		"HeroName":"Sparrow",
+		"HeroTitle":"The Heavenly Agent",
+		"HeroDescription":{
+			"Lore":"An expert archer who aims her sharp arrows at enemies' heads, Sparrow utilizes her nimble bow and quick movement to block and overpower enemies with deadly shots. She grew up in an orphanage after losing her family to a plague, then faced tragedy once more when she lost her friends as well. She fights for justice and to avenge her lost loved ones.",
+			"Specification":"Sparrow is a low mobility Ranger capable of becoming a high damage carry late game. Sparrow depends on her teammates for protection, while she devastates enemies with her attacks. Sparrow has no escape abilities so positioning is key. Don't push too far forward without backup. In teamfights stay behind your tanks and focus down targets from afar.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"50"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"50"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10090103,10090104,10090105,10090101,10090102]
+		},
+		"RoleId":5,
+		"PositionId":3,
+		"Traits":[13,3,7],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1009.webp"
+	},
+	{
+		"HeroId":1007,
+		"HeroName":"Steel",
+		"HeroTitle":"The Guardian of the Titans",
+		"HeroDescription":{
+			"Lore":"A powerful soldier of the Titans, a small tribe on the planet Etanus. He leads allies from the front with his strong physique and great strength, and he does not hesitate to offer support in emergencies. His skills were recognized when he rose to a high position in Shakkad's Imperial Army. He has since fought to restore the Titans' prosperity and status.",
+			"Specification":"Steel is a melee tank who uses his shield to protect his allies. Steel can use his shield defensively to block incoming damage or offensively as a means of crowd control. Late game your ability to lock enemies down is crucial. When initiating a fight, target the enemy damage dealers and don't forget Bulwarks block enemy projectiles.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"70"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"80"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"85"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"60"
+				}
+			],
+			"Abilities":[10070103,10070104,10070105,10070101,10070102]
+		},
+		"RoleId":6,
+		"PositionId":4,
+		"Traits":[10,12,9,3,5],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1007.webp"
+	},
+	{
+		"HeroId":1013,
+		"HeroName":"The Fey",
+		"HeroTitle":"The Guardian of the Fountain",
+		"HeroDescription":{
+			"Lore":"The guardian fairy of the Fountain of Wisdom in Euphera Forest on Etanus. She uses natural resources like vines and seeds to wield the power of the forest to Root enemies and deal damage over time. She traveled to the center of the galaxy with the intent of punishing those who destroyed the forest and reviving the spring. She is ready to risk her own life for the sake of the forest.",
+			"Specification":"The Fey is a ranged support who brings dynamic utility to the battlefield. Using the power of nature itself, the Fey utilizes her powerful area control abilities to disrupt enemy movement. Look for opportunities to combo Ultimates with your allies. Fly Trap followed up by a Shield Slam can easily neutralize enemies and allow your team to get the upper hand in fights. Be a force of nature the enemy can't overcome and take over Agora.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"85"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"35"
+				},
+				{
+					"Description":"Health",
+					"Value":"35"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"10"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"40"
+				}
+			],
+			"Abilities":[10130103,10130104,10130105,10130101,10130102]
+		},
+		"RoleId":4,
+		"PositionId":2,
+		"Traits":[2,12,7,4],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1013.webp"
+	},
+	{
+		"HeroId":1002,
+		"HeroName":"Twinblast",
+		"HeroTitle":"The Unwelcomed",
+		"HeroDescription":{
+			"Lore":"A bounty hunter who suddenly appeared some time ago and made the world take notice. He stealthily disorients the enemy from a distance with two pistols. His weapons and combat style are known to resemble those of Herald, the Reaper of Shakkad, who disappeared several years ago, but it's unclear whether Twinblast and Herald are the same person.",
+			"Specification":"TwinBlast is a dual-wielding gunslinger, built to be self-reliant and evasive. Using his abilities, TwinBlast can create opportunities to output high amounts of burst damage. When playing TwinBlast, look for opportunities to quickly burst down targets. Rapid fire can give you the upper hand when engaging an enemy, taking a chunk of their health before the enemy knows what hit them. Rocket Dash will allow you to reposition during team fights, but consider saving it for the perfect moment. It can easily get you out of bad situations, or allow you to close the gap to finish off an enemy.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"60"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"90"
+				},
+				{
+					"Description":"Health",
+					"Value":"40"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"20"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10020103,10020104,10020105,10020101,10020102]
+		},
+		"RoleId":5,
+		"PositionId":3,
+		"Traits":[13,3,1,4],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1002.webp"
+	},
+	{
+		"HeroId":1033,
+		"HeroName":"Wraith",
+		"HeroTitle":"The High-Tech Scout",
+		"HeroDescription":{
+			"Lore":"Born on Rutas as the son of a famous politician of the Shakkadian Empire, Wraith suffered from a critical burn during an accident. His undamaged nerves had to be connected to a high-tech machine, transforming him into a mechanical scout. His new body has scouting, scanning, and long-range attack abilities, making him effective in general recon and combat. He has joined the battlefield to show off his greatness to the world.",
+			"Specification":"Wraith is a graduate of Echelon, a special operations program, and was apprenticed to the only other graduate, Kallari. Though she specializes in assassination, he specializes in surveillance. Wraith is a recon specialist, who uses high tech tools to gather intel on his targets and outmaneuver his enemies.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"45"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"55"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"45"
+				},
+				{
+					"Description":"Health",
+					"Value":"45"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"25"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10330103,10330104,10330105,10330101,10330102]
+		},
+		"RoleId":5,
+		"PositionId":3,
+		"Traits":[3,2,8,1],
+		"Difficulty":"Average",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1033.webp"
+	},
+	{
+		"HeroId":1030,
+		"HeroName":"Zena",
+		"HeroTitle":"The Light Bringer",
+		"HeroDescription":{
+			"Lore":"Zena is a virtual idol trainee from another dimension who was summoned by Shinbi's phantom wolves to the planet Prime. Her sword is perfectly optimized for virtual humans like herself, allowing her to show off flashy skill combos and disrupt enemy formations. Together with Shinbi, Zena works to prevent an impending disaster from occurring in the galaxy.",
+			"Specification":"",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"80"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"75"
+				},
+				{
+					"Description":"Health",
+					"Value":"55"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"40"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				}
+			],
+			"Abilities":[10300103,10300104,10300105,10300101,10300102]
+		},
+		"RoleId":1,
+		"PositionId":1,
+		"Traits":[13,3,6,8],
+		"Difficulty":"Average",
+		"PriceGems":210,
+		"PriceGold":6000,
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1030.webp"
+	}
+]

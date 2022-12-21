@@ -1,0 +1,4192 @@
+[
+	{
+		"AbilityId":10160103,
+		"AbilityName":"Frozen Track",
+		"AbilityDescription":{
+			"Description":"Charges forward, leaving an ice trail behind that lasts for 7 sec",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"65"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"18/17/16/15/14"
+				}
+			]
+		},
+		"HeroId":1016,
+		"DefaultKey":"Q",
+		"YoutubeId":"ZUX_B0RxJSw",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10160103.webp"
+	},
+	{
+		"AbilityId":10160104,
+		"AbilityName":"Glacial Barrier",
+		"AbilityDescription":{
+			"Description":"Creates ice rings in the surrounding area for 1.22 sec. The rings inflict Root on enemies that touch them for 0.5 sec and deal 125(115+65%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"115/140/165/190/215"
+				},
+				{
+					"Description":"Root Duration",
+					"Value":"0.5/0.8/1/1.2/1.5"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"65%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"75/80/85/90/95"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10/9.5/9/8.5/8"
+				}
+			]
+		},
+		"HeroId":1016,
+		"DefaultKey":"E",
+		"YoutubeId":"ZW1uvgn778c",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10160104.webp"
+	},
+	{
+		"AbilityId":10160105,
+		"AbilityName":"Glacier Explosion",
+		"AbilityDescription":{
+			"Description":"Freezes nearby enemies, Slowing them by 20% for 2 sec. In 2 sec, the ice explodes to Stun targets for 1 sec and deal 177(165+80%) Magical Damage. When Stun ends, it deals 86(80+40%) Bonus Magical Damage to enemies within range and Stuns them for 0.5 sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"165/300/435"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"80/95/110"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"140/125/110"
+				}
+			]
+		},
+		"HeroId":1016,
+		"DefaultKey":"R",
+		"YoutubeId":"EiTGIFIyGMg",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10160105.webp"
+	},
+	{
+		"AbilityId":10160101,
+		"AbilityName":"Frost Sword",
+		"AbilityDescription":{
+			"Description":"Swings a frost sword to deal 60 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1016,
+		"DefaultKey":"LMB",
+		"YoutubeId":"-bsQLHRruAk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10160101.webp"
+	},
+	{
+		"AbilityId":10160102,
+		"AbilityName":"Frigid Illusion",
+		"AbilityDescription":{
+			"Description":"Leaps in the direction the hero is facing and leaves behind an ice statue that lasts for 3.5 sec. The statue Taunts T-ons and enemy buildings and Slows nearby enemies by 35%.",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"40"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"13.5/12.5/11.5/10.5/9.5"
+				}
+			]
+		},
+		"HeroId":1016,
+		"DefaultKey":"RMB",
+		"YoutubeId":"-bsQLHRruAk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10160102.webp"
+	},
+	{
+		"AbilityId":10190103,
+		"AbilityName":"Ground Collapse",
+		"AbilityDescription":{
+			"Description":"Creates a pulse wave on the ground which travels in a straight line, launching enemies within range Airborne and dealing 100(90+50%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"90/120/150/180/210"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60/70/80/90/100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"13/12.5/12/11.5/11"
+				}
+			]
+		},
+		"HeroId":1019,
+		"DefaultKey":"Q",
+		"YoutubeId":"IKUCLms8MkI",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10190103.webp"
+	},
+	{
+		"AbilityId":10190104,
+		"AbilityName":"Commander's Eye",
+		"AbilityDescription":{
+			"Description":"Deploys a Mana drainer in a selected location for 11 sec, which continuously depletes Mana by 2% per sec from enemies within range. Deals 28(20+40%) Magical Damage each time an enemy uses a skill.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"20/50/80/110/140"
+				},
+				{
+					"Description":"Mana Drain",
+					"Value":"2/2.5/3/3.5/4%"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100/115/130/145/160"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"35"
+				}
+			]
+		},
+		"HeroId":1019,
+		"DefaultKey":"E",
+		"YoutubeId":"N7l1V5R3ssY",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10190104.webp"
+	},
+	{
+		"AbilityId":10190105,
+		"AbilityName":"Paralyzing Shot",
+		"AbilityDescription":{
+			"Description":"Fires a paralyzing shot at a selected enemy hero, dealing 50 True Damage and 0.6 Bonus True Damage per 1 Mana consumed by the target.",
+			"BaseValues":[
+				{
+					"Description":"True Damage",
+					"Value":"50/100/150"
+				},
+				{
+					"Description":"Bonus True Damage",
+					"Value":"0.6/0.8/1"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"per consumed mana"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"100"
+				}
+			]
+		},
+		"HeroId":1019,
+		"DefaultKey":"R",
+		"YoutubeId":"FgpvDgRGONQ",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10190105.webp"
+	},
+	{
+		"AbilityId":10190101,
+		"AbilityName":"Expert Tactics",
+		"AbilityDescription":{
+			"Description":"Fires a pulse rifle to deal 56 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1019,
+		"DefaultKey":"LMB",
+		"YoutubeId":"RH1rfuCATq0",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10190101.webp"
+	},
+	{
+		"AbilityId":10190102,
+		"AbilityName":"Suppress",
+		"AbilityDescription":{
+			"Description":"Throws a pulse bomb at an area, dealing 118(100+85%) Magical Damage to enemies within range. Recovers 5 Mana per enemy hit.",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60/70/80/90/100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"6"
+				}
+			]
+		},
+		"HeroId":1019,
+		"DefaultKey":"RMB",
+		"YoutubeId":"l748JyYdgjk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10190102.webp"
+	},
+	{
+		"AbilityId":10270103,
+		"AbilityName":"Shadow Ripple",
+		"AbilityDescription":{
+			"Description":"Teleports to a selected target's location, Slowing the enemy by 50% for 1.5 sec and dealing 63(55+40%) Magical Damage. Using Shadow Ripple again within 4 sec teleports the hero back to their original location. This skill kills T-ons instantly.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"55/85/115/145/175"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11.5/11/10.5/10/9.5"
+				}
+			]
+		},
+		"HeroId":1027,
+		"DefaultKey":"Q",
+		"YoutubeId":"OMyXcu9_oeM",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10270103.webp"
+	},
+	{
+		"AbilityId":10270104,
+		"AbilityName":"Blood Ripple",
+		"AbilityDescription":{
+			"Description":"Fires sword energy forward to deal 133(115+90%) Magical Damage to enemies in front. The enemies' Healing is decreased by 20% for 3 sec, affecting both Regeneration and Recovery.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"115/165/215/265/315"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"90%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"80/90/100/110/120"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"13/12/11/10/9"
+				}
+			]
+		},
+		"HeroId":1027,
+		"DefaultKey":"E",
+		"YoutubeId":"h601Rtq2BXI",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10270104.webp"
+	},
+	{
+		"AbilityId":10270105,
+		"AbilityName":"Thirst",
+		"AbilityDescription":{
+			"Description":"Ambushes a selected enemy hero, Stunning them for 2 sec and dealing 371(350+100%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"350/450/550"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"100/85/70"
+				}
+			]
+		},
+		"HeroId":1027,
+		"DefaultKey":"R",
+		"YoutubeId":"_saPY-Roaik",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10270105.webp"
+	},
+	{
+		"AbilityId":10270101,
+		"AbilityName":"Ruthless Dagger",
+		"AbilityDescription":{
+			"Description":"Swings a dagger to deal 57 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1027,
+		"DefaultKey":"LMB",
+		"YoutubeId":"h6x7j2HmUTM",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10270101.webp"
+	},
+	{
+		"AbilityId":10270102,
+		"AbilityName":"Spin Slash",
+		"AbilityDescription":{
+			"Description":"Passive: Defeating an enemy hero with Spin Slash recovers 10% of the hero's Max Health. Defeating enemy T-ons or monsters recovers 2% of the hero's Max Health.\n\nActive: Spins quickly to deal 91(80+icon55%) Magical Damage to enemies.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/125/170/215/260"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"55%"
+				},
+				{
+					"Description":"Hero kill Recover",
+					"Value":"10/15/20/25/30%"
+				},
+				{
+					"Description":"T-on kill Recover",
+					"Value":"2/3/4/5/6%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60/70/80/90/100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"6"
+				}
+			]
+		},
+		"HeroId":1027,
+		"DefaultKey":"RMB",
+		"YoutubeId":"QlduWC9aOF4",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10270102.webp"
+	},
+	{
+		"AbilityId":10310103,
+		"AbilityName":"High Elasticity Plasma Ball",
+		"AbilityDescription":{
+			"Description":"Throws a High Elasticity Plasma Ball in a desired direction. When the Plasma Ball hits an enemy, it explodes, dealing 89(80+50%) Magical Damage and Stunning enemies within range for 0.9 sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/120/160/200/240"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"75/80/85/90/95"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12/11.5/11/10.5/10"
+				}
+			]
+		},
+		"HeroId":1031,
+		"DefaultKey":"Q",
+		"YoutubeId":"PDgn77LkgBw",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10310103.webp"
+	},
+	{
+		"AbilityId":10310104,
+		"AbilityName":"Plasma Dome",
+		"AbilityDescription":{
+			"Description":"Throws a Plasma Ball in a selected location to create a Plasma Dome that Slows all enemies within range by 10% and decreases their Attack Speed by 10%. After 4 sec, the Dome explodes to deal 129(120+50%) Magical Damage. Use the skill again before the automatic Dome explosion for earlier detonation with 50% less Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"120/160/200/240/280"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"80/90/100/110/120"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12/11/10/9/8"
+				}
+			]
+		},
+		"HeroId":1031,
+		"DefaultKey":"E",
+		"YoutubeId":"nXo0WRdJCeY",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10310104.webp"
+	},
+	{
+		"AbilityId":10310105,
+		"AbilityName":"Enclosing Bulwarks",
+		"AbilityDescription":{
+			"Description":"Raises Plasma Bulwarks in a selected location, creating an enclosed area for 4 sec. Allies outside of the Bulwarks can enter, but the enemy heroes can't leave the enclosed area once they're inside. The Bulwarks block all projectiles. Use the skill again within 3 sec to remove the Bulwarks immediately.",
+			"BaseValues":[
+				{
+					"Description":"Duration",
+					"Value":"4/5/6"
+				}
+			],
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"130/115/100"
+				}
+			]
+		},
+		"HeroId":1031,
+		"DefaultKey":"R",
+		"YoutubeId":"K6mIjPGAWSU",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10310105.webp"
+	},
+	{
+		"AbilityId":10310101,
+		"AbilityName":"Plasma Ball",
+		"AbilityDescription":{
+			"Description":"Fires a Plasma Ball to deal 53 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1031,
+		"DefaultKey":"LMB",
+		"YoutubeId":"zrpS8wnEqIY",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10310101.webp"
+	},
+	{
+		"AbilityId":10310102,
+		"AbilityName":"Ignition Boots",
+		"AbilityDescription":{
+			"Description":"Jumps high in a desired direction.",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"25"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12.5/11.5/10.5/9.5/8.5"
+				}
+			]
+		},
+		"HeroId":1031,
+		"DefaultKey":"RMB",
+		"YoutubeId":"2NXU_-xp42Y",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10310102.webp"
+	},
+	{
+		"AbilityId":10200103,
+		"AbilityName":"Auspicious Spirit",
+		"AbilityDescription":{
+			"Description":"Grants the hero a Shield that absorbs 50(50+15%) Damage for 3 sec. While the Shield lasts, the hero obtains the Skill Immunity effect once.",
+			"BaseValues":[
+				{
+					"Description":"Shield",
+					"Value":"50/90/130/180/210"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Shield",
+					"Value":"15%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"16/15/14/13/12"
+				}
+			]
+		},
+		"HeroId":1020,
+		"DefaultKey":"Q",
+		"YoutubeId":"GurkmGUSc6k",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10200103.webp"
+	},
+	{
+		"AbilityId":10200104,
+		"AbilityName":"Spear of Dawn",
+		"AbilityDescription":{
+			"Description":"Swings a spear to Slow nearby enemies by 30% for 2 sec and deal 111(70+60%) Physical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"70/115/150/195/240"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60%"
+				},
+				{
+					"Description":"Slow",
+					"Value":"30/35/40/45/50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"70"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10/9/8/7/6"
+				}
+			]
+		},
+		"HeroId":1020,
+		"DefaultKey":"E",
+		"YoutubeId":"-lciY3g_yhA",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10200104.webp"
+	},
+	{
+		"AbilityId":10200105,
+		"AbilityName":"Strong Determination",
+		"AbilityDescription":{
+			"Description":"Leaps ferociously, smashing the ground to deal 279(225+80%) Physical Damage to enemies in front. Instantly uses Execution if the enemy hero's Health is below 350, and resets the skill's cooldown. If the skill is not used again within 6 sec after using Execution, the default cooldown is applied.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"225/400/575"
+				},
+				{
+					"Description":"Execution",
+					"Value":"350/525/700"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"80/70/60"
+				}
+			]
+		},
+		"HeroId":1020,
+		"DefaultKey":"R",
+		"YoutubeId":"APZr8kRM2wY",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10200105.webp"
+	},
+	{
+		"AbilityId":10200101,
+		"AbilityName":"Firm Will",
+		"AbilityDescription":{
+			"Description":"Swings a massive spear to deal 68 Physical Damage to the enemy.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1020,
+		"DefaultKey":"LMB",
+		"YoutubeId":"m3tocPnVgcw",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10200101.webp"
+	},
+	{
+		"AbilityId":10200102,
+		"AbilityName":"Great Leap",
+		"AbilityDescription":{
+			"Description":"Teleports to a selected location to deal 111(70+60%) Physical Damage to nearby enemies.",
+			"BaseValues":[
+				{
+					"Description":"Shield",
+					"Value":"70/100/130/160/190"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Shield",
+					"Value":"60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11.5/11/10.5/10/9.5"
+				}
+			]
+		},
+		"HeroId":1020,
+		"DefaultKey":"RMB",
+		"YoutubeId":"iUS9UzvaTYo",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10200102.webp"
+	},
+	{
+		"AbilityId":10260103,
+		"AbilityName":"Obsessive Bombs",
+		"AbilityDescription":{
+			"Description":"Fires Obsessive Bombs that stick to all targets. Obsessive Bombs explode after 2.5 sec, dealing 135(120+65%) Magical Damage to all enemies within range.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"120/190/260/330/400"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"65%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"55/65/75/85/95"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"8"
+				}
+			]
+		},
+		"HeroId":1026,
+		"DefaultKey":"Q",
+		"YoutubeId":"iULxoBkvThs",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10260103.webp"
+	},
+	{
+		"AbilityId":10260104,
+		"AbilityName":"Speed Gate",
+		"AbilityDescription":{
+			"Description":"Throws a circular device to install an Electric Line that increases Movement Speed by 25% for all allies passing through for 4 sec and deals 57(50+ 30%) Magical Damage to enemies.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"50/75/100/125/150"
+				},
+				{
+					"Description":"Movement Speed",
+					"Value":"25/30/35/40/45%"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"30%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"75"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12"
+				}
+			]
+		},
+		"HeroId":1026,
+		"DefaultKey":"E",
+		"YoutubeId":"BZeph8-Nnfk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10260104.webp"
+	},
+	{
+		"AbilityId":10260105,
+		"AbilityName":"Magnetic Field",
+		"AbilityDescription":{
+			"Description":"Installs a Magnetic Field in a selected location to deal 468(400+300%) Magical Damage to all enemies within range up to 5 times for 4.2 sec. Each attack Slows enemies by 75% for 0.3 sec, and deals Bonus Magical Damage equal to 75% of Skill Damage per hit.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"400/570/740"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"300%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"110/95/80"
+				}
+			]
+		},
+		"HeroId":1026,
+		"DefaultKey":"R",
+		"YoutubeId":"Fd37U9Imcos",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10260105.webp"
+	},
+	{
+		"AbilityId":10260101,
+		"AbilityName":"Galvanic Wave",
+		"AbilityDescription":{
+			"Description":"Sends out a powerful electric wave in a selected direction to deal 56 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1026,
+		"DefaultKey":"LMB",
+		"YoutubeId":"98ro_6jjj4A",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10260101.webp"
+	},
+	{
+		"AbilityId":10260102,
+		"AbilityName":"Electric Beam",
+		"AbilityDescription":{
+			"Description":"Throws a small device to place a combat robot in the air above the first enemy who is hit by the device. The combat robot shoots an Electric Beam to Slow all enemies within range by 46% and deal up to 147(120+120%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"120/190/260/330/400"
+				},
+				{
+					"Description":"Slow",
+					"Value":"46/48/50/52/54%"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"120%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"80/90/100/110/120"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10"
+				}
+			]
+		},
+		"HeroId":1026,
+		"DefaultKey":"RMB",
+		"YoutubeId":"kLCGkT9ad38",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10260102.webp"
+	},
+	{
+		"AbilityId":10120103,
+		"AbilityName":"Summon Meteor",
+		"AbilityDescription":{
+			"Description":"Drops a meteorite at a selected location, dealing 127(110+80%) Magical Damage to enemies.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"110/160/210/260/310"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"55/65/75/85/95"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"7"
+				}
+			]
+		},
+		"HeroId":1012,
+		"DefaultKey":"Q",
+		"YoutubeId":"tEMCF7xhpAc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10120103.webp"
+	},
+	{
+		"AbilityId":10120104,
+		"AbilityName":"Dimensional Rift",
+		"AbilityDescription":{
+			"Description":"Creates a dimensional rift in a selected location and teleports. The dimensional rift lasts for 3 sec and can also be used by allies.",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"85"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"16/15/14/13/12"
+				}
+			]
+		},
+		"HeroId":1012,
+		"DefaultKey":"E",
+		"YoutubeId":"Yyb6-kCYLlI",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10120104.webp"
+	},
+	{
+		"AbilityId":10120105,
+		"AbilityName":"Devour",
+		"AbilityDescription":{
+			"Description":"Creates a massive black hole, Pulling all enemies within range toward the center for 4 sec and dealing 27(20+30%) Magical Damage every 0.5 sec. While casting this skill, gains Immunity against an enemy hero's skill attack 1 time.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"20/30/40"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"30%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"130/120/110"
+				}
+			]
+		},
+		"HeroId":1012,
+		"DefaultKey":"R",
+		"YoutubeId":"yvpKm9noKF0",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10120105.webp"
+	},
+	{
+		"AbilityId":10120101,
+		"AbilityName":"Magical Mass",
+		"AbilityDescription":{
+			"Description":"Shoots magic orbs at an enemy to deal 56 Physical Damage.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1012,
+		"DefaultKey":"LMB",
+		"YoutubeId":"oAyPpNczKfA",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10120101.webp"
+	},
+	{
+		"AbilityId":10120102,
+		"AbilityName":"Distortion",
+		"AbilityDescription":{
+			"Description":"Throws a miniature black hole at a selected location to Pull the enemy toward the center and deal 81(70+50%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"70/100/130/160/190"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60/70/80/90/100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"15/14.5/14/13.5/13"
+				}
+			]
+		},
+		"HeroId":1012,
+		"DefaultKey":"RMB",
+		"YoutubeId":"qW38jtx984I",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10120102.webp"
+	},
+	{
+		"AbilityId":10060103,
+		"AbilityName":"Primal Grip",
+		"AbilityDescription":{
+			"Description":"Slams the ground and Pulls enemies in front, dealing 113(85+40%) Physical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"85/115/145/175/205"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"70"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11"
+				}
+			]
+		},
+		"HeroId":1006,
+		"DefaultKey":"Q",
+		"YoutubeId":"WMR5qCwyme4",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10060103.webp"
+	},
+	{
+		"AbilityId":10060104,
+		"AbilityName":"Unrivaled Momentum",
+		"AbilityDescription":{
+			"Description":"Fiercely charges forward to deal 80(80+60%) Magical Damage to enemies in front.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/110/140/170/200"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12.5/12/11.5/11/10.5"
+				}
+			]
+		},
+		"HeroId":1006,
+		"DefaultKey":"E",
+		"YoutubeId":"e7vveJz4XGc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10060104.webp"
+	},
+	{
+		"AbilityId":10060105,
+		"AbilityName":"Fury of the Great Chieftain",
+		"AbilityDescription":{
+			"Description":"Becomes enraged, Stunning nearby enemies for 1.5 sec and increasing the hero's Physical Power by 30% for 8 sec.",
+			"BaseValues":[
+				{
+					"Description":"Duration",
+					"Value":"8/10/12sec"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"30/45/60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"90/80/70"
+				}
+			]
+		},
+		"HeroId":1006,
+		"DefaultKey":"R",
+		"YoutubeId":"dkLWWsn2cF4",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10060105.webp"
+	},
+	{
+		"AbilityId":10060101,
+		"AbilityName":"Ferocity",
+		"AbilityDescription":{
+			"Description":"Swings a blunt weapon to deal 70 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1006,
+		"DefaultKey":"LMB",
+		"YoutubeId":"hn_qY0_-mig",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10060101.webp"
+	},
+	{
+		"AbilityId":10060102,
+		"AbilityName":"Rage",
+		"AbilityDescription":{
+			"Description":"Swings two blunt weapons, dealing 116(60+80%) Physical Damage to enemies and decreasing an enemy hero's Healing by 10% for 3 sec, affecting both Regeneration and Recovery.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/90/120/150/180"
+				},
+				{
+					"Description":"Heal Reduction",
+					"Value":"10/15/20/25/30%"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"40"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"6"
+				}
+			]
+		},
+		"HeroId":1006,
+		"DefaultKey":"RMB",
+		"YoutubeId":"sdp17Oa9ZLA",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10060102.webp"
+	},
+	{
+		"AbilityId":10220103,
+		"AbilityName":"Super Powerful Missile",
+		"AbilityDescription":{
+			"Description":"Launches a missile that's Super Powerful according to Howitzer's standards. When the missile explodes, it deals 132(120+65%) Magical Damage to all nearby enemies.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"120/190/260/330/400"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"65%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"55/65/75/85/95"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"8"
+				}
+			]
+		},
+		"HeroId":1022,
+		"DefaultKey":"Q",
+		"YoutubeId":"0V70o_oJaSs",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10220103.webp"
+	},
+	{
+		"AbilityId":10220104,
+		"AbilityName":"This Is Mine!",
+		"AbilityDescription":{
+			"Description":"Installs an explosive mine in a selected location. After 5 sec, the mine automatically explodes, dealing 68(60+40%) Magical Damage and Pushing the hero and all enemies within range. Use the skill again before the automatic explosion for earlier detonation.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/90/120/150/180"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"13"
+				}
+			]
+		},
+		"HeroId":1022,
+		"DefaultKey":"E",
+		"YoutubeId":"s2WZDaYTLzQ",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10220104.webp"
+	},
+	{
+		"AbilityId":10220105,
+		"AbilityName":"Howitzer's Showtime!",
+		"AbilityDescription":{
+			"Description":"Soars up in the air and mercilessly rains missiles on a selected location for 2.8 sec, dealing 480(455+130%) Magical Damage to all enemies within range. The last missile explosion deals 50% Bonus Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"455/650/845"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"50%"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"130%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"110/95/80"
+				}
+			]
+		},
+		"HeroId":1022,
+		"DefaultKey":"R",
+		"YoutubeId":"IvP1wtoSfsw",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10220105.webp"
+	},
+	{
+		"AbilityId":10220101,
+		"AbilityName":"Fire Rocket!",
+		"AbilityDescription":{
+			"Description":"Fires a rocket at an enemy to deal 57 Physical Damage.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1022,
+		"DefaultKey":"LMB",
+		"YoutubeId":"770w3g1NM1A",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10220101.webp"
+	},
+	{
+		"AbilityId":10220102,
+		"AbilityName":"Slow Bomb",
+		"AbilityDescription":{
+			"Description":"Drops a bomb on a selected location to Slow all enemies within range by 15% for 1.5 sec and deal 90(80+50%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/120/160/200/240"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				},
+				{
+					"Description":"Slow",
+					"Value":"15/20/25/30/35%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Cost",
+					"Value":"80"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10"
+				}
+			]
+		},
+		"HeroId":1022,
+		"DefaultKey":"RMB",
+		"YoutubeId":"Jm_CK7hiSJQ",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10220102.webp"
+	},
+	{
+		"AbilityId":10050103,
+		"AbilityName":"Faded Light",
+		"AbilityDescription":{
+			"Description":"Passive: Attacking enemies from behind with Basic Attacks deals 25(15+15%) Bonus Physical Damage.\n\nActive: Stealths for 6 sec, increasing Movement Speed by 20%. Attacking enemies from behind while Stealthed has a 100% chance of dealing a Critical Hit.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"15/18/21/24/27"
+				},
+				{
+					"Description":"Stealth",
+					"Value":"6/8/10/12/14s"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"15%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Cost",
+					"Value":"60"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"14/13.5/13/12.5/12"
+				}
+			]
+		},
+		"HeroId":1005,
+		"DefaultKey":"Q",
+		"YoutubeId":"VTiW73YsrpI",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10050103.webp"
+	},
+	{
+		"AbilityId":10050104,
+		"AbilityName":"Twilight Guide",
+		"AbilityDescription":{
+			"Description":"Teleports to a selected target's location, Slowing the enemy by 20% for 1 sec and dealing 50(50+60%) Magical Damage. Using Twilight Guide on an enemy with a Brand Roots the enemy for 0.5 sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"50/80/110/140/170"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Cost",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12/11.5/11/10.5/10"
+				}
+			]
+		},
+		"HeroId":1005,
+		"DefaultKey":"E",
+		"YoutubeId":"ZX2mc-wnbM4",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10050104.webp"
+	},
+	{
+		"AbilityId":10050105,
+		"AbilityName":"Evil Vow",
+		"AbilityDescription":{
+			"Description":"Slashes wildly to Stun an enemy within range for 2 sec and deal 338(200+210%) Physical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"200/350/500"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"210%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Cost",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"100/90/80"
+				}
+			]
+		},
+		"HeroId":1005,
+		"DefaultKey":"R",
+		"YoutubeId":"U0o-oz2yACA",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10050105.webp"
+	},
+	{
+		"AbilityId":10050101,
+		"AbilityName":"Dusk's Teeth",
+		"AbilityDescription":{
+			"Description":"Slashes with two daggers, dealing 66 Physical Damage to the enemy.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1005,
+		"DefaultKey":"LMB",
+		"YoutubeId":"HtqzYeDi7bs",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10050101.webp"
+	},
+	{
+		"AbilityId":10050102,
+		"AbilityName":"Brand",
+		"AbilityDescription":{
+			"Description":"Throws a dagger to Slow the enemy by 15% for 1 sec and deal 137(85+80%) Physical Damage, leaving a Brand on an enemy. Dealing Damage to an enemy with a Brand causes the Brand to explode, dealing 48(35+20%) Physical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"85/110/135/160/185"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"35/45/55/65/75"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"80%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Cost",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"5"
+				}
+			]
+		},
+		"HeroId":1005,
+		"DefaultKey":"RMB",
+		"YoutubeId":"ucfnjjR5jvE",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10050102.webp"
+	},
+	{
+		"AbilityId":10230103,
+		"AbilityName":"Quick Swing",
+		"AbilityDescription":{
+			"Description":"Increases Attack Speed to the maximum for the next 5 Basic Attacks for 3 sec. Each Basic Attack deals Physical Damage equal to 60% of the hero's Physical Power.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60/65/70/75/80%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Cost",
+					"Value":"45"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"8"
+				}
+			]
+		},
+		"HeroId":1023,
+		"DefaultKey":"Q",
+		"YoutubeId":"28l2XzhQA9Q",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10230103.webp"
+	},
+	{
+		"AbilityId":10230104,
+		"AbilityName":"Orb of Recovery",
+		"AbilityDescription":{
+			"Description":"Increases the amount of Health Regen by 0.65 every time the hero attacks an enemy. The Health Regen effect stacks up to 25 times and will eventually reset if the hero doesn't attack any enemies for 2.5 sec.",
+			"BaseValues":[
+				{
+					"Description":"Recovery",
+					"Value":"0.6/1.3/2/2.6/3.2"
+				}
+			],
+			"Scaling":false,
+			"Misc":false
+		},
+		"HeroId":1023,
+		"DefaultKey":"E",
+		"YoutubeId":"BR-YCprkRFA",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10230104.webp"
+	},
+	{
+		"AbilityId":10230105,
+		"AbilityName":"Axe of Insanity",
+		"AbilityDescription":{
+			"Description":"Swings an axe wide at a selected enemy hero, Stunning the target for 1.5 sec and dealing 360(320+60%) Physical Damage. All affected enemy heroes within range are Slowed by 60% for 3 sec and Pushed. Landing this skill grants 6 Orbs of Recovery.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"320/450/580"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Cost",
+					"Value":"75/100/125"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"90/70/50"
+				}
+			]
+		},
+		"HeroId":1023,
+		"DefaultKey":"R",
+		"YoutubeId":"vTif-d4AW7s",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10230105.webp"
+	},
+	{
+		"AbilityId":10230101,
+		"AbilityName":"Rough Swing",
+		"AbilityDescription":{
+			"Description":"Swings a stone axe to deal 68 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1023,
+		"DefaultKey":"LMB",
+		"YoutubeId":"v_0pPMehfGo",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10230101.webp"
+	},
+	{
+		"AbilityId":10230102,
+		"AbilityName":"Soar 'n' Smash",
+		"AbilityDescription":{
+			"Description":"Soars up in the air and lands on a selected target, Slowing them by 25% for 2 sec and dealing 107(80+40%) Physical Damage to the enemy. Landing this skill grants 3 Orbs of Recovery.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/110/140/170/200"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%"
+				},
+				{
+					"Description":"Slow",
+					"Value":"25/32/39/46/53%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"40"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11.5/11/10.5/10/9.5"
+				}
+			]
+		},
+		"HeroId":1023,
+		"DefaultKey":"RMB",
+		"YoutubeId":"C-JFSXqpX60",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10230102.webp"
+	},
+	{
+		"AbilityId":10110103,
+		"AbilityName":"Rumble",
+		"AbilityDescription":{
+			"Description":"Plunges a sword that lasts for 6 sec into the ground at a selected location. The sword summons a lightning field in the surrounding area for 1.5 sec, Holding enemies in range and dealing 121(90+40%/40%) Magical Damage. Use the skill again to teleport to the plunged sword.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"90/130/170/210/250"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%/40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"70"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12"
+				}
+			]
+		},
+		"HeroId":1011,
+		"DefaultKey":"Q",
+		"YoutubeId":"NmQ9Ch1yi9U",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10110103.webp"
+	},
+	{
+		"AbilityId":10110104,
+		"AbilityName":"Fierce Battle",
+		"AbilityDescription":{
+			"Description":"Charges quick and low and becomes Invincible for 1 sec.\nIncreases the New Moon Swing stage by 1 and resets the next New Moon Swing's cooldown.\nKilling an enemy hero or assisting in a kill after acquiring Fierce Battle resets Fierce Battle's cooldown.",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"15/14/13/12/11"
+				}
+			]
+		},
+		"HeroId":1011,
+		"DefaultKey":"E",
+		"YoutubeId":"toKUSsIXb3M",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10110104.webp"
+	},
+	{
+		"AbilityId":10110105,
+		"AbilityName":"New Moon Kwang",
+		"AbilityDescription":{
+			"Description":"Becomes a New Moon Warrior who emits concentrated lightning energy for 10 sec. While in this form, the hero gains all effects granted by the Thunder and Lightning status and can use the effects unlimitedly.\nIn this state, using the Crescent Moon skill on an enemy also Stuns the enemy for 1 sec.",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"80/65/50"
+				}
+			]
+		},
+		"HeroId":1011,
+		"DefaultKey":"R",
+		"YoutubeId":"NWwrDcoF13E",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10110105.webp"
+	},
+	{
+		"AbilityId":10110101,
+		"AbilityName":"New Moon Swing",
+		"AbilityDescription":{
+			"Description":"Slashes the enemy in the order of Sky/Earth/New/Moon, dealing Physical Damage equal to 120%/100%/110%/140% of the hero's Physical Power.\nLanding New on an enemy launches them Airborne. When Moon lands on an enemy hit with New, deals Bonus True Damage equal to 30% of Physical Power. Using the skill while in Thunder and Lightning state changes Physical Damage to Magical Damage. This skill is not affected by Attack Speed.",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":false
+		},
+		"HeroId":1011,
+		"DefaultKey":"LMB",
+		"YoutubeId":"E2ePjKgemxM",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10110101.webp"
+	},
+	{
+		"AbilityId":10110102,
+		"AbilityName":"Rumble",
+		"AbilityDescription":{
+			"Description":"Deals 89(80+60%) Magical Damage to enemies within range and resets the next Basic Attack's cooldown. Using Crescent Moon while the Rumble sword is still plunged in the ground deals the same amount of Damage in the area.\nThe hero gains Thunder and Lightning status, allowing the hero to deal 39(30+65%) Bonus Magical Damage when the next Basic Attack hits an enemy.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/105/130/155/180"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"30/35/40/45/50"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60%"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"65%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"45/50/55/60/65"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10/9.5/9/8.5/8"
+				}
+			]
+		},
+		"HeroId":1011,
+		"DefaultKey":"RMB",
+		"YoutubeId":"NmQ9Ch1yi9U",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10110102.webp"
+	},
+	{
+		"AbilityId":10010103,
+		"AbilityName":"Target Check",
+		"AbilityDescription":{
+			"Description":"Fires 10 homing bullets to deal 9(5+6%) Physical Damage per bullet.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"5/10/15/20/25"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"6%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11.5/11/10.5/10/9.5"
+				}
+			]
+		},
+		"HeroId":1001,
+		"DefaultKey":"Q",
+		"YoutubeId":"cC4tTpdNo_s",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10010103.webp"
+	},
+	{
+		"AbilityId":10010104,
+		"AbilityName":"Commence Bombardment",
+		"AbilityDescription":{
+			"Description":"Takes a stance to prepare an AoE grenade, then fires it to deal 62(20+70%) Physical Damage to enemies within the area.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"20/65/110/155/190"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"70%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"10"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"3"
+				}
+			]
+		},
+		"HeroId":1001,
+		"DefaultKey":"E",
+		"YoutubeId":"R8YA-IHBkv8",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10010104.webp"
+	},
+	{
+		"AbilityId":10010105,
+		"AbilityName":"Ultra-Precise Shot",
+		"AbilityDescription":{
+			"Description":"Precisely aims at a target and fires a laser that deals 340(280+100%) Physical Damage. The laser penetrates all objects in its way.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"280/360/420"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"120/110/100"
+				}
+			]
+		},
+		"HeroId":1001,
+		"DefaultKey":"R",
+		"YoutubeId":"Yf-8RQ2UVjk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10010105.webp"
+	},
+	{
+		"AbilityId":10010101,
+		"AbilityName":"Enhanced Pulse Bullet",
+		"AbilityDescription":{
+			"Description":"Fires a pulse bullet to deal 61 Physical Damage to the enemy.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1001,
+		"DefaultKey":"LMB",
+		"YoutubeId":"dWHXhPtdpHw",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10010101.webp"
+	},
+	{
+		"AbilityId":10010102,
+		"AbilityName":"Shock Bullet",
+		"AbilityDescription":{
+			"Description":"Fires a shock bullet to Push the enemy, dealing 90(60+50%) Physical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/90/120/150/180"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10"
+				}
+			]
+		},
+		"HeroId":1001,
+		"DefaultKey":"RMB",
+		"YoutubeId":"PQIqQa0Idt8",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10010102.webp"
+	},
+	{
+		"AbilityId":10030103,
+		"AbilityName":"Final Judgment",
+		"AbilityDescription":{
+			"Description":"Summons a pillar of light which lasts for 4 sec, Slowing enemies within range by 10% and increasing allies' Movement Speed by 10%. Using Final Judgment in the same area as Glowing Light Stuns enemies within range for 0.5 sec.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Movement Speed",
+					"Value":"10/15/20/25/30%"
+				},
+				{
+					"Description":"Slow",
+					"Value":"10/15/20/25/30%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50/55/60/65/70"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11"
+				}
+			]
+		},
+		"HeroId":1003,
+		"DefaultKey":"Q",
+		"YoutubeId":"eeHiHw8eoVQ",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10030103.webp"
+	},
+	{
+		"AbilityId":10030104,
+		"AbilityName":"Glowing Light",
+		"AbilityDescription":{
+			"Description":"Grants a Shield that absorbs 93(80+70%) Damage for a selected ally for 4 sec. The Shield can last for 4 sec and will explode when it's expired, dealing 57(50+40%) Magical Damage to enemies within range. Using Glowing Light in the same area as Final Judgment Stuns enemies within range for 0.5 sec.",
+			"BaseValues":[
+				{
+					"Description":"Shield",
+					"Value":"80/110/140/170/200"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"50/75/100/125/150"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Shield",
+					"Value":"70%"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"65/75/85/95/105"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11"
+				}
+			]
+		},
+		"HeroId":1003,
+		"DefaultKey":"E",
+		"YoutubeId":"2AfS_qDHURg",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10030104.webp"
+	},
+	{
+		"AbilityId":10030105,
+		"AbilityName":"Faithful Vow",
+		"AbilityDescription":{
+			"Description":"Uses wings to fly over to a selected ally's location and launches a nearby enemy hero Airborne, dealing 106(100+30%) Magical Damage. The selected ally receives a Shield that absorbs 259(250+50%) Damage for 4 sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"100/125/150"
+				},
+				{
+					"Description":"Shield",
+					"Value":"250/450/650"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"30%"
+				},
+				{
+					"Description":"Shield",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"140/125/110"
+				}
+			]
+		},
+		"HeroId":1003,
+		"DefaultKey":"R",
+		"YoutubeId":"nXcytcOW42Y",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10030105.webp"
+	},
+	{
+		"AbilityId":10030101,
+		"AbilityName":"Divine Shot",
+		"AbilityDescription":{
+			"Description":"Fires a divine shot to deal 54 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1003,
+		"DefaultKey":"LMB",
+		"YoutubeId":"K9uj-m-SzU0",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10030101.webp"
+	},
+	{
+		"AbilityId":10030102,
+		"AbilityName":"Glory of Osyne",
+		"AbilityDescription":{
+			"Description":"Propels a holy crystal toward an ally to increase Movement Speed by 15% for 3 sec and creates a Shield that absorbs 113(100+70%) Damage.",
+			"BaseValues":[
+				{
+					"Description":"Shield",
+					"Value":"100/140/180/220/260"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Shield",
+					"Value":"70%"
+				},
+				{
+					"Description":"Movement Speed",
+					"Value":"15/20/25/30/35%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"45"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10/9.5/9/8.5/8"
+				},
+				{
+					"Description":"Duration",
+					"Value":"3/3.25/3.5/3.75/4"
+				}
+			]
+		},
+		"HeroId":1003,
+		"DefaultKey":"RMB",
+		"YoutubeId":"lHdsIWKntXM",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10030102.webp"
+	},
+	{
+		"AbilityId":10250103,
+		"AbilityName":"Marching Anthem",
+		"AbilityDescription":{
+			"Description":"Plays a Marching Anthem to increase Attack Speed by 10% and Movement Speed by 10% for the hero and nearby allies for 4 sec.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Movement Speed",
+					"Value":"10/15/20/25/30%"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"10/15/20/25/30%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"65"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12"
+				}
+			]
+		},
+		"HeroId":1025,
+		"DefaultKey":"Q",
+		"YoutubeId":"uwQcksrkA08",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10250103.webp"
+	},
+	{
+		"AbilityId":10250104,
+		"AbilityName":"Inspirational Anthem",
+		"AbilityDescription":{
+			"Description":"Plays an Inspirational Anthem to recover 21(20+10%) Health per sec for the hero and nearby allies. This skill can be toggled on or off.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"20/30/40/50/60"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"10%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"15/17/19/21/23"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"0.5"
+				}
+			]
+		},
+		"HeroId":1025,
+		"DefaultKey":"E",
+		"YoutubeId":"HRFvok9omqQ",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10250104.webp"
+	},
+	{
+		"AbilityId":10250101,
+		"AbilityName":"Ba Dum!",
+		"AbilityDescription":{
+			"Description":"Strikes an enemy with a drumstick to deal 59 Physical Damage.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"10%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1025,
+		"DefaultKey":"LMB",
+		"YoutubeId":"oqEaC3oeNDk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10250101.webp"
+	},
+	{
+		"AbilityId":10250102,
+		"AbilityName":"Pew!",
+		"AbilityDescription":{
+			"Description":"Throws a drumstick in a straight line to deal 87(80+65%) Magical Damage and Stun enemies for 1.5 sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/125/170/215/260"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"65%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60/70/80/90/100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10"
+				}
+			]
+		},
+		"HeroId":1025,
+		"DefaultKey":"RMB",
+		"YoutubeId":"BpsrQFtobMg",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10250102.webp"
+	},
+	{
+		"AbilityId":10170103,
+		"AbilityName":"Flash Burst",
+		"AbilityDescription":{
+			"Description":"Explodes the energy surrounding the hero and an enemy hero linked with Synchronizer, dealing 96(85+60%) Magical Damage and Blinding enemies within range for 1 sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"85/135/175/225/275"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"65"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10/9.5/9/8.5/8"
+				}
+			]
+		},
+		"HeroId":1017,
+		"DefaultKey":"Q",
+		"YoutubeId":"vuSyQ7JsH5A",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10170103.webp"
+	},
+	{
+		"AbilityId":10170104,
+		"AbilityName":"Light Flux",
+		"AbilityDescription":{
+			"Description":"Continuously fires supernatural energy for 2.5 sec to deal 11(10+5%) Magical Damage per hit. Slows enemies hit multiple times by 15% for 1 sec. When Slow stacks 10 times, enemies are Rooted for 1.5 sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"10/14/18/22/26"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"5%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"80/90/100/110/120"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"14"
+				}
+			]
+		},
+		"HeroId":1017,
+		"DefaultKey":"E",
+		"YoutubeId":"sbV8XPXwLv4",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10170104.webp"
+	},
+	{
+		"AbilityId":10170105,
+		"AbilityName":"Super Explosion",
+		"AbilityDescription":{
+			"Description":"Explodes the energy surrounding the hero and an enemy hero linked with Synchronizer, Pushing nearby enemies and dealing 275(260+80%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"260/340/420"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"120/105/90"
+				}
+			]
+		},
+		"HeroId":1017,
+		"DefaultKey":"R",
+		"YoutubeId":"Dkr6CPC6LA8",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10170105.webp"
+	},
+	{
+		"AbilityId":10170101,
+		"AbilityName":"Shooting Energy",
+		"AbilityDescription":{
+			"Description":"Fires a supernatural energy sphere to deal 57 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1017,
+		"DefaultKey":"LMB",
+		"YoutubeId":"-9JaYVReG6k",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10170101.webp"
+	},
+	{
+		"AbilityId":10170102,
+		"AbilityName":"Synchronizer",
+		"AbilityDescription":{
+			"Description":"Links the hero to an enemy hero to deal 15(12+15%) Magical Damage per sec and recover the hero's Health by a portion of the Damage. Using the skill again while linked to an enemy hero Pulls the enemy hero towards the hero. The Synchronizer link lasts up to 25 sec, and ends if the enemy hero moves a certain distance away.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"12/16/20/24/28"
+				},
+				{
+					"Description":"Recovery",
+					"Value":"12/16/20/24/28"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"15%"
+				},
+				{
+					"Description":"Recovery",
+					"Value":"15%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"40 (+6/8/10/12/14)"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"20/19/18/17/16"
+				}
+			]
+		},
+		"HeroId":1017,
+		"DefaultKey":"RMB",
+		"YoutubeId":"t0twSijoeYg",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10170102.webp"
+	},
+	{
+		"AbilityId":10040103,
+		"AbilityName":"Savage Heave",
+		"AbilityDescription":{
+			"Description":"Pulls a boulder out of the ground. Using the skill again throws the boulder, Stunning the hit enemy for 2 sec and dealing 103(100+50%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"100/150/200/250/300"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60/70/80/90/100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"16/15/14/13/12"
+				}
+			]
+		},
+		"HeroId":1004,
+		"DefaultKey":"Q",
+		"YoutubeId":"FyYho_AALRw",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10040103.webp"
+	},
+	{
+		"AbilityId":10040104,
+		"AbilityName":"Earthquake Smash",
+		"AbilityDescription":{
+			"Description":"Slams the ground twice, Slowing nearby enemies by 30% for 3 sec and dealing 66(50+50%/30%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"50/90/130/170/210"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%/50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"7"
+				}
+			]
+		},
+		"HeroId":1004,
+		"DefaultKey":"E",
+		"YoutubeId":"X7729OY5nsc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10040104.webp"
+	},
+	{
+		"AbilityId":10040105,
+		"AbilityName":"The Liberated",
+		"AbilityDescription":{
+			"Description":"Grows in size and increases Max Health by 300, instantly recovering Health equal to the increased amount. Deals 21(20+20%) Magical Damage per sec to enemies within range. Recovers 30 Health per sec for 10 sec. Can use Savage Heave without a pre-animation.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"20/25/30"
+				},
+				{
+					"Description":"max Health",
+					"Value":"300/600/900"
+				},
+				{
+					"Description":"Recovery",
+					"Value":"30/60/90"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"20%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"110/95/80"
+				}
+			]
+		},
+		"HeroId":1004,
+		"DefaultKey":"R",
+		"YoutubeId":"x0qi7kRD9zg",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10040105.webp"
+	},
+	{
+		"AbilityId":10040101,
+		"AbilityName":"Furious Claw",
+		"AbilityDescription":{
+			"Description":"Slashes with claws to deal 64 Physical Damage to the enemy.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1004,
+		"DefaultKey":"LMB",
+		"YoutubeId":"8pGOhyDYCv8",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10040101.webp"
+	},
+	{
+		"AbilityId":10040102,
+		"AbilityName":"Menacing Arrival",
+		"AbilityDescription":{
+			"Description":"Slashes with claws to deal 64 Physical Damage to the enemy.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/100/140/180/220"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"30/45/60/75/90"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11.5/11/10.5/10/9.5"
+				}
+			]
+		},
+		"HeroId":1004,
+		"DefaultKey":"RMB",
+		"YoutubeId":"T7S9HFKhSf4",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10040102.webp"
+	},
+	{
+		"AbilityId":10150103,
+		"AbilityName":"Storm of Bullets",
+		"AbilityDescription":{
+			"Description":"Fires 10 flurries of rounds forward, dealing 13(10+5%) Physical Damage per hit. The more targets there are, the wider the range of fire.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"10/16/22/28/34"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"5%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60/70/80/90/100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"15/14/13/12/11"
+				}
+			]
+		},
+		"HeroId":1015,
+		"DefaultKey":"Q",
+		"YoutubeId":"tb6EvtNFkWs",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10150103.webp"
+	},
+	{
+		"AbilityId":10150104,
+		"AbilityName":"Vital Wound",
+		"AbilityDescription":{
+			"Description":"Inflicts Vital Wound on a selected enemy hero to decrease Healing by 20% for 3 sec, affecting both Regeneration and Recovery. Deals True Damage equal to 1% of the enemy hero's Max Health every time the hero's Basic Attack deals Damage. The target is additionally Slowed by 5% for 1 sec and the Slow effect stacks up to 6 times.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"True Damage",
+					"Value":"1/1.2/1.5/1.8/2%"
+				},
+				{
+					"Description":"Slow",
+					"Value":"5/10/15/20/25%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"45"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"8"
+				}
+			]
+		},
+		"HeroId":1015,
+		"DefaultKey":"E",
+		"YoutubeId":"PreV0eQHZFc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10150104.webp"
+	},
+	{
+		"AbilityId":10150105,
+		"AbilityName":"Abysmal Prison",
+		"AbilityDescription":{
+			"Description":"Teleports with a selected enemy hero to another world for 6 sec. While isolated from the main world, the target is Rooted for 1.5 sec and takes True Damage equal to 10% of the enemy hero's current Health. Killing an enemy hero in the other world grants 100 Bonus Gold.",
+			"BaseValues":[
+				{
+					"Description":"Duration",
+					"Value":"6/7/8"
+				}
+			],
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"130/110/90"
+				}
+			]
+		},
+		"HeroId":1015,
+		"DefaultKey":"R",
+		"YoutubeId":"6hjdz5EPMwI",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10150105.webp"
+	},
+	{
+		"AbilityId":10150101,
+		"AbilityName":"Wild Revolver",
+		"AbilityDescription":{
+			"Description":"Fires a handgun to deal 64 Physical Damage to the enemy.\nThe following skill is not affected by changes in Attack Speed.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1015,
+		"DefaultKey":"LMB",
+		"YoutubeId":"0fjGDrlEKQY",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10150101.webp"
+	},
+	{
+		"AbilityId":10150102,
+		"AbilityName":"Mortal Shot",
+		"AbilityDescription":{
+			"Description":"Passive: Deals Physical Damage equal to 10% of Physical Power to the enemy hit by the last bullet. Reloading speed increases with higher Attack Speeds.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"10/22/34/46/58%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"1"
+				}
+			]
+		},
+		"HeroId":1015,
+		"DefaultKey":"RMB",
+		"YoutubeId":"o7VMSax-a5o",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10150102.webp"
+	},
+	{
+		"AbilityId":10280103,
+		"AbilityName":"Execution by Illusion",
+		"AbilityDescription":{
+			"Description":"Summons an Illusion of the hero to execute all enemies within range. The Illusion appears before one target at a time, dealing Physical Damage equal to 100% of Physical Power. The Illusion continues to find a new target every 0.4 sec until it executes all enemies within range. The hero becomes Invincible while the Illusion is summoned.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"14/12/10/8/6"
+				}
+			]
+		},
+		"HeroId":1028,
+		"DefaultKey":"Q",
+		"YoutubeId":"eNtbXJH25V4",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10280103.webp"
+	},
+	{
+		"AbilityId":10280104,
+		"AbilityName":"Descending",
+		"AbilityDescription":{
+			"Description":"Levitates into the air and quickly descends on a selected location to deal 80(80+20%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/110/140/170/200"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"20%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11.5/11/10.5/10/9.5"
+				}
+			]
+		},
+		"HeroId":1028,
+		"DefaultKey":"E",
+		"YoutubeId":"K2NOQrOR7PQ",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10280104.webp"
+	},
+	{
+		"AbilityId":10280105,
+		"AbilityName":"Summoned Angel of Balance",
+		"AbilityDescription":{
+			"Description":"Transforms into the Angel of Balance for 15 sec, Burning all enemies within range. Deals 30 Magical Damage to Burned victims, but also increases the enemy's Received Damage by 20% for 4 sec. A successful Basic Attack on a Burned enemy deals 17(15+2.5%) Bonus Physical Damage. During the transformation, landing a skill on an enemy applies Burn and Received Damage Increase at the same time.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"30/45/60"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"15/20/25"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Bonus Damage",
+					"Value":"20/30/40%"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"2.5%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"100/85/70"
+				}
+			]
+		},
+		"HeroId":1028,
+		"DefaultKey":"R",
+		"YoutubeId":"0b1haYAniTM",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10280105.webp"
+	},
+	{
+		"AbilityId":10280101,
+		"AbilityName":"Immediate Judgment",
+		"AbilityDescription":{
+			"Description":"Swings an iron mace to deal 69 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1028,
+		"DefaultKey":"LMB",
+		"YoutubeId":"tPC_NejEyoc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10280101.webp"
+	},
+	{
+		"AbilityId":10280102,
+		"AbilityName":"Angel's Wingbeats",
+		"AbilityDescription":{
+			"Description":"Spreads wings to Slow all enemies within range by 25% for 2 sec and deal 155(100+80%) Physical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"100/130/160/190/220"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"70"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10/9/8/7/6"
+				}
+			]
+		},
+		"HeroId":1028,
+		"DefaultKey":"RMB",
+		"YoutubeId":"_Y2_xrqssuo",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10280102.webp"
+	},
+	{
+		"AbilityId":10100103,
+		"AbilityName":"Soul Steal",
+		"AbilityDescription":{
+			"Description":"Passive : Grants Souls every time an enemy is killed with Soul Steal. Killing T-ons or Normal monsters grants 1 Soul, killing Rare monsters grants 3 Souls, killing Epic monsters grants 5 Souls and killing an enemy hero grants 10 Souls. Each Soul increases Max Health by 3.\n\nActive : Steals Souls from targets, dealing 64(50+15%/2%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"50/80/110/140/170"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"15%/2%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"30"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"3"
+				}
+			]
+		},
+		"HeroId":1010,
+		"DefaultKey":"Q",
+		"YoutubeId":"zFIbQavINAw",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10100103.webp"
+	},
+	{
+		"AbilityId":10100104,
+		"AbilityName":"Hollow Breath",
+		"AbilityDescription":{
+			"Description":"Summons Souls to a selected location, Rooting enemies in range for 1.5 sec and dealing 84(80+50%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/125/170/215/260"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"80"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12"
+				}
+			]
+		},
+		"HeroId":1010,
+		"DefaultKey":"E",
+		"YoutubeId":"hdlMA7X6J1U",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10100104.webp"
+	},
+	{
+		"AbilityId":10100105,
+		"AbilityName":"Deadly Declaration",
+		"AbilityDescription":{
+			"Description":"Unleashes a powerful blow with a hammer, Knocking the enemy back and dealing 180(175+60%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"175/275/375"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"80/70/60"
+				}
+			]
+		},
+		"HeroId":1010,
+		"DefaultKey":"R",
+		"YoutubeId":"E9egEuIlZTc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10100105.webp"
+	},
+	{
+		"AbilityId":10100101,
+		"AbilityName":"Hammer of Disaster",
+		"AbilityDescription":{
+			"Description":"Swings a giant hammer to deal 62 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1010,
+		"DefaultKey":"LMB",
+		"YoutubeId":"5ozr1W-rUh0",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10100101.webp"
+	},
+	{
+		"AbilityId":10100102,
+		"AbilityName":"Into the Dark",
+		"AbilityDescription":{
+			"Description":"Quickly charges forward.",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"40"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11/10/9/8/7"
+				}
+			]
+		},
+		"HeroId":1010,
+		"DefaultKey":"RMB",
+		"YoutubeId":"5ozr1W-rUh0",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10100102.webp"
+	},
+	{
+		"AbilityId":10140103,
+		"AbilityName":"Summon Phantom",
+		"AbilityDescription":{
+			"Description":"Commands phantom wolves to deal 72(60+70%) Magical Damage to enemies. Decreases all skill cooldowns by 1 sec and recovers 5% of Max Mana.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/90/120/150/170"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"70%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60/70/80/90/100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"5"
+				}
+			]
+		},
+		"HeroId":1014,
+		"DefaultKey":"Q",
+		"YoutubeId":"Tk6ouP1kpkk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10140103.webp"
+	},
+	{
+		"AbilityId":10140104,
+		"AbilityName":"Phantom Dance",
+		"AbilityDescription":{
+			"Description":"Commands phantom wolves to increase the hero's Movement Speed by 20% and deal 24(20+25%) Magical Damage every sec for 4 sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"20/30/40/50/60"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"25%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"120"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10"
+				}
+			]
+		},
+		"HeroId":1014,
+		"DefaultKey":"E",
+		"YoutubeId":"UTjMIGb0Yx8",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10140104.webp"
+	},
+	{
+		"AbilityId":10140105,
+		"AbilityName":"Call of the Goddess",
+		"AbilityDescription":{
+			"Description":"Passive: Grants a point of Wolf Qi every time any skill hits an enemy. Wolf Qi can stack up to 6 times and lasts for 30 sec.\n\nActive: Commands phantom wolves to attack a selected target. Deals 54(50+20%) Magical Damage per point of Wolf Qi in the stack.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"50/70/90"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"20%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"100/85/70"
+				}
+			]
+		},
+		"HeroId":1014,
+		"DefaultKey":"R",
+		"YoutubeId":"TsgrYSkzYBM",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10140105.webp"
+	},
+	{
+		"AbilityId":10140101,
+		"AbilityName":"Butterfly Dance",
+		"AbilityDescription":{
+			"Description":"Swings a sword to deal 58 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1014,
+		"DefaultKey":"LMB",
+		"YoutubeId":"Fr_i4en2kYk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10140101.webp"
+	},
+	{
+		"AbilityId":10140102,
+		"AbilityName":"Light’s Memory",
+		"AbilityDescription":{
+			"Description":"Charges forward to deal 64(60+25%) Magical Damage to enemies. There is a 3 sec window to reuse the skill.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/90/120/150/180"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"250%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"20/25/30/35/40"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"13/12.5/12/11.5/11"
+				}
+			]
+		},
+		"HeroId":1014,
+		"DefaultKey":"RMB",
+		"YoutubeId":"rq8HXJ-ck-o",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10140102.webp"
+	},
+	{
+		"AbilityId":10090103,
+		"AbilityName":"Rain of Arrows",
+		"AbilityDescription":{
+			"Description":"Rains fire arrows in a selected location for 4 sec, Slowing enemies within range by 35% and dealing 20(15+8%) Physical Damage per sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"15/20/25/30/35"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"8%"
+				},
+				{
+					"Description":"Slow",
+					"Value":"35/40/45/50/55%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"70"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11/10.5/10/9.5/9"
+				}
+			]
+		},
+		"HeroId":1009,
+		"DefaultKey":"Q",
+		"YoutubeId":"HxCxGMounjk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10090103.webp"
+	},
+	{
+		"AbilityId":10090104,
+		"AbilityName":"Swift Arrow",
+		"AbilityDescription":{
+			"Description":"Increases the hero's Attack Speed by 30% and Movement Speed by 40% for 3 sec.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"30/35/40/45/50%"
+				},
+				{
+					"Description":"Movement Speed",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"18/17/16/15/14"
+				}
+			]
+		},
+		"HeroId":1009,
+		"DefaultKey":"E",
+		"YoutubeId":"mMietlzgNO4",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10090104.webp"
+	},
+	{
+		"AbilityId":10090105,
+		"AbilityName":"Hail of Arrows",
+		"AbilityDescription":{
+			"Description":"Enhances the bow, making it effective for AoE attacks for 5 sec. The enhanced bow drastically increases the number of arrows fired by Basic Attack, dealing Damage to all enemies within range. Enhanced side arrows deal Damage equal to 50% of the hero's Physical Power.",
+			"BaseValues":[
+				{
+					"Description":"Duration",
+					"Value":"5/7/9s"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50/55/60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"100/85/70"
+				}
+			]
+		},
+		"HeroId":1009,
+		"DefaultKey":"R",
+		"YoutubeId":"AtpqhfIghfA",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10090105.webp"
+	},
+	{
+		"AbilityId":10090101,
+		"AbilityName":"Arrow of Justice",
+		"AbilityDescription":{
+			"Description":"Fires an arrow to deal 61 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1009,
+		"DefaultKey":"LMB",
+		"YoutubeId":"nnydzWNOcL0",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10090101.webp"
+	},
+	{
+		"AbilityId":10090102,
+		"AbilityName":"Focus",
+		"AbilityDescription":{
+			"Description":"Focuses then fires a powerful arrow that can penetrate through objects, dealing 136(100+60%) Physical Damage to all enemies in the path. Damage increases proportional to time spent focused. Hitting enemies with the skill decreases the Cooldown of Swift Arrow by 2 sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"15/20/25/30/35"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"8"
+				}
+			]
+		},
+		"HeroId":1009,
+		"DefaultKey":"RMB",
+		"YoutubeId":"VQyphWQ-JOU",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10090102.webp"
+	},
+	{
+		"AbilityId":10070103,
+		"AbilityName":"Advance",
+		"AbilityDescription":{
+			"Description":"Raises a steel shield and moves forward, creating a Shield that absorbs 66(50+40%) Damage for 3 sec. Deals 94(90+50%) Magical Damage to enemies hit by the steel shield and launches them Airborne.",
+			"BaseValues":[
+				{
+					"Description":"Shield",
+					"Value":"50/65/80/95/110"
+				},
+				{
+					"Description":"Damage",
+					"Value":"90/120/150/180/210"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Shield",
+					"Value":"40%"
+				},
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"13.5/13/12.5/12/11.5"
+				}
+			]
+		},
+		"HeroId":1007,
+		"DefaultKey":"Q",
+		"YoutubeId":"P2VEE-idV_E",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10070103.webp"
+	},
+	{
+		"AbilityId":10070104,
+		"AbilityName":"Ironclad Wall",
+		"AbilityDescription":{
+			"Description":"Raises a steel shield and moves forward, creating a Shield that absorbs 66(50+40%) Damage for 3 sec. Deals 94(90+50%) Magical Damage to enemies hit by the steel shield and launches them Airborne.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Slow",
+					"Value":"20/30/40/50/60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"80"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"20/18/16/14/12"
+				}
+			]
+		},
+		"HeroId":1007,
+		"DefaultKey":"E",
+		"YoutubeId":"Pi7dJ0Pht2k",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10070104.webp"
+	},
+	{
+		"AbilityId":10070105,
+		"AbilityName":"Unstoppable Power",
+		"AbilityDescription":{
+			"Description":"Leaps into the air and strikes enemies with a steel shield upon landing, launching enemies Airborne and dealing 206(200+80%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"200/280/360"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"110/95/80"
+				}
+			]
+		},
+		"HeroId":1007,
+		"DefaultKey":"R",
+		"YoutubeId":"ZVzzZP5H6Sg",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10070105.webp"
+	},
+	{
+		"AbilityId":10070101,
+		"AbilityName":"Titan's Blow",
+		"AbilityDescription":{
+			"Description":"Swings steel fists to deal 65 Physical Damage.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"10%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1007,
+		"DefaultKey":"LMB",
+		"YoutubeId":"qU2K-zo2L5A",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10070101.webp"
+	},
+	{
+		"AbilityId":10070102,
+		"AbilityName":"Shield Bash",
+		"AbilityDescription":{
+			"Description":"Swings a steel shield to Slow the enemy by 30% for 1.5 sec and deal 95(80+40%/30%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/100/120/140/160"
+				},
+				{
+					"Description":"Slow",
+					"Value":"30/35/40/45/50%"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%/30%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"8/7.5/7/6.5/6"
+				}
+			]
+		},
+		"HeroId":1007,
+		"DefaultKey":"RMB",
+		"YoutubeId":"wTRmumAPC-Y",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10070102.webp"
+	},
+	{
+		"AbilityId":10130103,
+		"AbilityName":"Forest's Wind",
+		"AbilityDescription":{
+			"Description":"Throws a bunch of vines in a straight line that grows for 3.5 sec. The bunch of vines increases the Movement Speed of allies within range by 40% and deals 47(45+8%) Magical Damage to enemies per sec.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"45/60/75/90/105"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"8%"
+				},
+				{
+					"Description":"Movement Speed",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"80"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"11"
+				}
+			]
+		},
+		"HeroId":1013,
+		"DefaultKey":"Q",
+		"YoutubeId":"qBFwsafSrKE",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10130103.webp"
+	},
+	{
+		"AbilityId":10130104,
+		"AbilityName":"Forest's Warning",
+		"AbilityDescription":{
+			"Description":"Throws a magical seed, dealing 87(70+80%) Magical Damage. Using the skill on an enemy hero recovers all Mana used to cast it.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"70/100/130/160/190"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"6"
+				}
+			]
+		},
+		"HeroId":1013,
+		"DefaultKey":"E",
+		"YoutubeId":"zvEBhB1k09s",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10130104.webp"
+	},
+	{
+		"AbilityId":10130105,
+		"AbilityName":"Forest's Judgment",
+		"AbilityDescription":{
+			"Description":"Throws sticky plants at a selected location and makes them grow. The mature plants Pull the enemies toward the center, dealing 333(320+60%) Magical Damage.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"320/410/500"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"60%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"130/120/110"
+				}
+			]
+		},
+		"HeroId":1013,
+		"DefaultKey":"R",
+		"YoutubeId":"JBN2Qw6ukp8",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10130105.webp"
+	},
+	{
+		"AbilityId":10130101,
+		"AbilityName":"Forest's Tears",
+		"AbilityDescription":{
+			"Description":"Throws a seed to deal 57 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1013,
+		"DefaultKey":"LMB",
+		"YoutubeId":"OiM852CWHj8",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10130101.webp"
+	},
+	{
+		"AbilityId":10130102,
+		"AbilityName":"Forest's Will",
+		"AbilityDescription":{
+			"Description":"Throws vines at a selected location that grow for 3.95 sec and Slow enemies within range by 40%. The vines deal 41(40+5%) Magical Damage every 1 sec. Lastly, the vines deal 41(30+50%) Bonus Magical Damage when they disappear.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"40/48/56/64/72"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"30/35/40/45/50"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"5%"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"70/80/90/100/110"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"14"
+				}
+			]
+		},
+		"HeroId":1013,
+		"DefaultKey":"RMB",
+		"YoutubeId":"K2kcR0k_fVk",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10130102.webp"
+	},
+	{
+		"AbilityId":10020103,
+		"AbilityName":"Burn to Ashes!",
+		"AbilityDescription":{
+			"Description":"Tosses a grenade to Slow the enemy by 10% for 1 sec and deal 28(15+20%) Physical Damage. A grenade is created every 10 sec, and up to 3 grenades can be carried at once.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"15/30/45/60/75"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"20%"
+				},
+				{
+					"Description":"Slow",
+					"Value":"10/14/18/22/26%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"30"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"10"
+				}
+			]
+		},
+		"HeroId":1002,
+		"DefaultKey":"Q",
+		"YoutubeId":"XXqWupzCqiQ",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10020103.webp"
+	},
+	{
+		"AbilityId":10020104,
+		"AbilityName":"Boost Mobility",
+		"AbilityDescription":{
+			"Description":"Quickly lunges in the desired direction, enhancing mobility and generating 1 grenade(s).",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"12/11/10/9/8"
+				}
+			]
+		},
+		"HeroId":1002,
+		"DefaultKey":"E",
+		"YoutubeId":"9pu4gKSYFX8",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10020104.webp"
+	},
+	{
+		"AbilityId":10020105,
+		"AbilityName":"Equilibrium",
+		"AbilityDescription":{
+			"Description":"Fires a rocket 7 times in a row to deal 61(30+50%) Physical Damage per rocket.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"30/55/80"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"90/80/70"
+				}
+			]
+		},
+		"HeroId":1002,
+		"DefaultKey":"R",
+		"YoutubeId":"9SRo8vrMWUc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10020105.webp"
+	},
+	{
+		"AbilityId":10020101,
+		"AbilityName":"Pump Action",
+		"AbilityDescription":{
+			"Description":"Fires a handgun to deal 63 Physical Damage to the enemy.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1002,
+		"DefaultKey":"LMB",
+		"YoutubeId":"UjFAX5_GxOA",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10020101.webp"
+	},
+	{
+		"AbilityId":10020102,
+		"AbilityName":"No Mercy",
+		"AbilityDescription":{
+			"Description":"Fires three quick shots with a handgun, dealing Physical Damage equal to 25% of Physical Power per shot.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"25/27.5/30/32.5/35%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"40/45/50/55/60"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"8"
+				}
+			]
+		},
+		"HeroId":1002,
+		"DefaultKey":"RMB",
+		"YoutubeId":"2pAx_UnBpOc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10020102.webp"
+	},
+	{
+		"AbilityId":10330103,
+		"AbilityName":"AI Scanner",
+		"AbilityDescription":{
+			"Description":"Throws a small device in a selected location to install a scanner that detects enemies within range once every 3 sec for 60 sec. Detected enemies are visible to allies for 2 sec.",
+			"BaseValues":[
+				{
+					"Description":"Duration",
+					"Value":"2/4/6/8/10"
+				}
+			],
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"25"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"18"
+				}
+			]
+		},
+		"HeroId":1033,
+		"DefaultKey":"Q",
+		"YoutubeId":"OnufFfzNFaI",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10330103.webp"
+	},
+	{
+		"AbilityId":10330104,
+		"AbilityName":"Space Distortion",
+		"AbilityDescription":{
+			"Description":"Distorts time and space to forcibly move a selected enemy hero back to a location from 3 seconds before.",
+			"BaseValues":false,
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"70"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"28/25/22/19/16"
+				}
+			]
+		},
+		"HeroId":1033,
+		"DefaultKey":"E",
+		"YoutubeId":"qvxnUqe0UwE",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10330104.webp"
+	},
+	{
+		"AbilityId":10330105,
+		"AbilityName":"Ultimate Switch",
+		"AbilityDescription":{
+			"Description":"Stealths the hero and nearby allies with 100% transparency, increasing Movement Speed by 15% for 8 sec.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Movement Speed",
+					"Value":"15%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"150/135/120"
+				}
+			]
+		},
+		"HeroId":1033,
+		"DefaultKey":"R",
+		"YoutubeId":"9Lum1u68hu8",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10330105.webp"
+	},
+	{
+		"AbilityId":10330101,
+		"AbilityName":"Pulse Shot",
+		"AbilityDescription":{
+			"Description":"Fires a pulse gun to deal 60 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1033,
+		"DefaultKey":"LMB",
+		"YoutubeId":"ORAms2Zse48",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10330101.webp"
+	},
+	{
+		"AbilityId":10330102,
+		"AbilityName":"Zero Flag",
+		"AbilityDescription":{
+			"Description":"Takes a shooting stance and fires a pulse that passes through walls to deal 87(80+50%) Magical Damage. Refills all used Mana and decreases the skill's cooldown from 6 to 2 sec if the skill successfully kills an enemy.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/140/200/260/320"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"55/65/75/85/95"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"6"
+				}
+			]
+		},
+		"HeroId":1033,
+		"DefaultKey":"RMB",
+		"YoutubeId":"KuszuTk8xrc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10330102.webp"
+	},
+	{
+		"AbilityId":10300103,
+		"AbilityName":"Round & Round",
+		"AbilityDescription":{
+			"Description":"Spins to cut nearby enemies, dealing 87(60+40%) Physical Damage. Grants a Shield that absorbs 0.2(50+20%) Damage for 3 sec when the skill hits an enemy. 40 Bonus Shield granted for each enemy hit.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/70/80/90/100"
+				},
+				{
+					"Description":"Shield",
+					"Value":"50/70/90/110/130"
+				},
+				{
+					"Description":"Bonus Shield",
+					"Value":"40/50/60/70/80"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%"
+				},
+				{
+					"Description":"Shield",
+					"Value":"20%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"40/50/60/70/80"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"13/12.5/12/11.5/11"
+				}
+			]
+		},
+		"HeroId":1030,
+		"DefaultKey":"Q",
+		"YoutubeId":"s3auC70_CHM",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10300103.webp"
+	},
+	{
+		"AbilityId":10300104,
+		"AbilityName":"Fly High",
+		"AbilityDescription":{
+			"Description":"Jumps to slash upward at an enemy in front, dealing 67(40+40%) Physical Damage and launching the enemy Airborne.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"40/50/60/70/80"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"40%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"60/65/70/75/80"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"14/13/12/11/10"
+				}
+			]
+		},
+		"HeroId":1030,
+		"DefaultKey":"E",
+		"YoutubeId":"NA4PSxDeBgM",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10300104.webp"
+	},
+	{
+		"AbilityId":10300105,
+		"AbilityName":"Five Stars",
+		"AbilityDescription":{
+			"Description":"Attacks a selected enemy hero and nearby enemies 5 times, randomly switching targets. Each attack deals 33(30+50%) Physical Damage and the 5th attack deals 296(250+70%) Physical Damage to all enemies within range. Decreases the Physical Defense of hit enemies by 3% for 5 sec. The effect stacks 5 times.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"30/40/50"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"100/200/300"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"50%"
+				},
+				{
+					"Description":"Bonus Damage",
+					"Value":"70%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"100/90/80"
+				}
+			]
+		},
+		"HeroId":1030,
+		"DefaultKey":"R",
+		"YoutubeId":"bF23edXkGyc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10300105.webp"
+	},
+	{
+		"AbilityId":10300101,
+		"AbilityName":"Le Voyage",
+		"AbilityDescription":{
+			"Description":"Swings a sword to deal 67 Physical Damage to enemies.",
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
+		},
+		"HeroId":1030,
+		"DefaultKey":"LMB",
+		"YoutubeId":"BxHVqRBo98o",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10300101.webp"
+	},
+	{
+		"AbilityId":10300102,
+		"AbilityName":"Leap Through Time",
+		"AbilityDescription":{
+			"Description":"Builds up energy for 1 sec then charges forward, dealing 106(60+70%) Physical Damage with upward slashes to all enemies in their path. The hero's Attack Speed is increased by 10% for 5 sec. Charging distance and Damage can increase if the hero builds up energy for longer. Killing an enemy hero resets the Leap Through Time cooldown.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/95/130/165/200"
+				},
+				{
+					"Description":"Damage",
+					"Value":"10/15/20/25/30%"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"70%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"50/55/60/65/70"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"15/14.5/14/13.5/13"
+				}
+			]
+		},
+		"HeroId":1030,
+		"DefaultKey":"RMB",
+		"YoutubeId":"mM0yIH4PIcs",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10300102.webp"
+	}
+]

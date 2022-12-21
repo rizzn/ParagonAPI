@@ -1,0 +1,3494 @@
+[
+	{
+		"ItemId":30104000,
+		"ChildItemId":false,
+		"ItemName":"Dekima Gemstone of Abundance I",
+		"ItemDescription":{
+			"Passive":"Obtains 3 Gold every 10 sec. Increases Gold obtained to 6 Gold if the hero is out of combat for 6 sec, and grants 3 Bonus Gold for each retreating enemy T-on that dies within range.",
+			"Active":"Grants Watcher's Eye to increase all allies' visibility of the surrounding area for 180 sec. One Watcher's Eye can be granted at a time, and can be recharged upon recalling to the base.",
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"6"
+				},
+				{
+					"Description":"Mana",
+					"Value":"100"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"0.7"
+				}
+			]
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":1,
+		"Price":350,
+		"StartingItem":true,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30104000.webp"
+	},
+	{
+		"ItemId":30101001,
+		"ChildItemId":false,
+		"ItemName":"Dekima Gemstone of Bravery I",
+		"ItemDescription":{
+			"Passive":"Recovers 5 Health upon defeating a T-on.",
+			"Active":"Teleports a short distance forward. (Cooldown: 300 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"7"
+				},
+				{
+					"Description":"Health",
+					"Value":"65"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"0.4"
+				}
+			]
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":1,
+		"Price":350,
+		"StartingItem":true,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101001.webp"
+	},
+	{
+		"ItemId":30103000,
+		"ChildItemId":false,
+		"ItemName":"Dekima Gemstone of Fortitude I",
+		"ItemDescription":{
+			"Passive":"Grants a Shield that absorbs 50 Damage if the hero is out of combat for 6 sec.",
+			"Active":"Teleports a short distance forward. (Cooldown: 300 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"7"
+				},
+				{
+					"Description":"Health",
+					"Value":"120"
+				},
+				{
+					"Description":"Health Regen",
+					"Value":"0.6"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"0.4"
+				}
+			]
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":1,
+		"Price":350,
+		"StartingItem":true,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103000.webp"
+	},
+	{
+		"ItemId":30101006,
+		"ChildItemId":false,
+		"ItemName":"Dekima Gemstone of Tailwinds I",
+		"ItemDescription":{
+			"Passive":"Recovers 5 Health upon defeating a T-on.",
+			"Active":"Charges a short distance forward. (Cooldown: 300 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"3"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"7%"
+				},
+				{
+					"Description":"Health",
+					"Value":"60"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"0.4"
+				}
+			]
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":1,
+		"Price":350,
+		"StartingItem":true,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101006.webp"
+	},
+	{
+		"ItemId":30102000,
+		"ChildItemId":false,
+		"ItemName":"Dekima Gemstone of Vision I",
+		"ItemDescription":{
+			"Passive":"Recovers 7 Mana upon defeating a T-on.",
+			"Active":"Teleports a short distance forward. (Cooldown: 300 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"7"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"12"
+				},
+				{
+					"Description":"Health",
+					"Value":"45"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"0.4"
+				}
+			]
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":1,
+		"Price":350,
+		"StartingItem":true,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102000.webp"
+	},
+	{
+		"ItemId":30101000,
+		"ChildItemId":false,
+		"ItemName":"Destroyer's Stone",
+		"ItemDescription":{
+			"Passive":"Landing a Basic Attack on a monster deals 30 True Damage and recovers 10% Health and 7 Mana. Additionally, when Magic Skills hit monsters, the damage is increased by 30%.",
+			"Active":"Using the skill on T-ons or monsters deals 350-1200 True Damage based on the hero's level. When used on monsters, the skill deals True Damage and recovers Health equal to 10% of Max Health and 100 additional Health. (Cooldown: 60 sec)",
+			"Stats":false
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":1,
+		"Price":350,
+		"StartingItem":true,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101000.webp"
+	},
+	{
+		"ItemId":30900001,
+		"ChildItemId":false,
+		"ItemName":"Health Potion",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Recovers Health by 20 for 20 sec.",
+			"Stats":false
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":5,
+		"Price":50,
+		"StartingItem":true,
+		"Type":"Stackable",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900001.webp"
+	},
+	{
+		"ItemId":30900002,
+		"ChildItemId":false,
+		"ItemName":"Mana Potion",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Recovers Mana by 20 for 20 sec.",
+			"Stats":false
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":5,
+		"Price":50,
+		"StartingItem":true,
+		"Type":"Stackable",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900002.webp"
+	},
+	{
+		"ItemId":30900004,
+		"ChildItemId":false,
+		"ItemName":"Rechargeable Health Ampoule",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Recovers Health by 15 for 15 sec. Can be used up to two times and can be recharged upon recalling to the base.",
+			"Stats":false
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":1,
+		"Price":150,
+		"StartingItem":true,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900004.webp"
+	},
+	{
+		"ItemId":30900005,
+		"ChildItemId":false,
+		"ItemName":"Rechargeable Mana Ampoule",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Recovers Mana by 20 for 20 sec. Can be used up to two times and can be recharged upon recalling to the base.",
+			"Stats":false
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":1,
+		"Price":150,
+		"StartingItem":true,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900005.webp"
+	},
+	{
+		"ItemId":30900003,
+		"ChildItemId":false,
+		"ItemName":"Vitality Potion",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Recovers Health by 20 and Mana by 20 for 20 sec.",
+			"Stats":false
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":5,
+		"Price":50,
+		"StartingItem":true,
+		"Type":"Stackable",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900003.webp"
+	},
+	{
+		"ItemId":30900000,
+		"ChildItemId":false,
+		"ItemName":"Watcher's Eye",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Grants Watcher's Eye to increase visibility of the surrounding area for 180 sec.",
+			"Stats":false
+		},
+		"ItemTier":1,
+		"ItemMaxQuant":3,
+		"Price":50,
+		"StartingItem":true,
+		"Type":"Stackable",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900000.webp"
+	},
+	{
+		"ItemId":30302003,
+		"ChildItemId":false,
+		"ItemName":"Black Sea Stone Bracelet",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"20"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":500,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302003.webp"
+	},
+	{
+		"ItemId":30302002,
+		"ChildItemId":false,
+		"ItemName":"Branch of the World Tree",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"10"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":275,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302002.webp"
+	},
+	{
+		"ItemId":30103006,
+		"ChildItemId":false,
+		"ItemName":"Bright Stone",
+		"ItemDescription":{
+			"Passive":"Recovers 2% of Max Health and 2% of Max Mana per sec for 5 sec every time the hero levels up.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"125"
+				},
+				{
+					"Description":"Mana",
+					"Value":"50"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":1,
+		"Price":400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103006.webp"
+	},
+	{
+		"ItemId":30102004,
+		"ChildItemId":false,
+		"ItemName":"Dekima Energy Reflux",
+		"ItemDescription":{
+			"Passive":"Increases the hero's Max Mana by 5 every time a skill deals Damage to an enemy. Max Mana can be increased up to 300. (Cooldown: 2 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Mana",
+					"Value":"250"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":1,
+		"Price":350,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102004.webp"
+	},
+	{
+		"ItemId":30103001,
+		"ChildItemId":false,
+		"ItemName":"Dew of Recovery",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health Regen",
+					"Value":"1"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":235,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103001.webp"
+	},
+	{
+		"ItemId":30102001,
+		"ChildItemId":false,
+		"ItemName":"Jewel of Vitality",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Mana Regen",
+					"Value":"1"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":250,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102001.webp"
+	},
+	{
+		"ItemId":30102003,
+		"ChildItemId":false,
+		"ItemName":"Mana Gemstone",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Mana",
+					"Value":"250"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":350,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102003.webp"
+	},
+	{
+		"ItemId":30101005,
+		"ChildItemId":false,
+		"ItemName":"Plasma Cutter",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"20"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":800,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101005.webp"
+	},
+	{
+		"ItemId":30103002,
+		"ChildItemId":false,
+		"ItemName":"Ring of Protection",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"10"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":275,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103002.webp"
+	},
+	{
+		"ItemId":30103004,
+		"ChildItemId":false,
+		"ItemName":"Sap of the Sacred Tree",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"100"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":250,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103004.webp"
+	},
+	{
+		"ItemId":30101003,
+		"ChildItemId":false,
+		"ItemName":"Speed Booster",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Attack Speed",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":250,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101003.webp"
+	},
+	{
+		"ItemId":30101004,
+		"ChildItemId":false,
+		"ItemName":"Sword of Conviction",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Critical Rate",
+					"Value":"15%"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":675,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101004.webp"
+	},
+	{
+		"ItemId":30102005,
+		"ChildItemId":false,
+		"ItemName":"Valley Crystal",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"30"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":825,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102005.webp"
+	},
+	{
+		"ItemId":30101002,
+		"ChildItemId":false,
+		"ItemName":"Vishanti Handgun",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"5"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101002.webp"
+	},
+	{
+		"ItemId":30103005,
+		"ChildItemId":false,
+		"ItemName":"Vitality Stone",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"200"
+				},
+				{
+					"Description":"Mana",
+					"Value":"250"
+				}
+			]
+		},
+		"ItemTier":2,
+		"ItemMaxQuant":6,
+		"Price":850,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103005.webp"
+	},
+	{
+		"ItemId":30203002,
+		"ChildItemId":30103004,
+		"ItemName":"Amber",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"300"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":750,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203002.webp"
+	},
+	{
+		"ItemId":30201000,
+		"ChildItemId":30101002,
+		"ItemName":"Ancient Text of Nata",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"12"
+				},
+				{
+					"Description":"Life Steal",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":850,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201000.webp"
+	},
+	{
+		"ItemId":30202008,
+		"ChildItemId":[30302002,30302003],
+		"ItemName":"Apprentice's Hat",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"10"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"20"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":900,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202008.webp"
+	},
+	{
+		"ItemId":30202002,
+		"ChildItemId":[30302003,30103004],
+		"ItemName":"Azsha's Journal",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"15"
+				},
+				{
+					"Description":"Health",
+					"Value":"200"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1050,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202002.webp"
+	},
+	{
+		"ItemId":30202009,
+		"ChildItemId":[30302002,30302002],
+		"ItemName":"Bleeding Epaulet",
+		"ItemDescription":{
+			"Passive":"Deals 35-120 Bonus Magical Damage every time Damage is dealt to an enemy hero. Damage increases based on the hero's level. (10 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"30"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":900,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202009.webp"
+	},
+	{
+		"ItemId":30202009,
+		"ChildItemId":[30302003,30103004],
+		"ItemName":"Carbon Alloy Vest",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"200"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1550,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202009.webp"
+	},
+	{
+		"ItemId":30202003,
+		"ChildItemId":[30302002,30103004],
+		"ItemName":"Dark Magic Textbook",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"20"
+				},
+				{
+					"Description":"Magical Vamp",
+					"Value":"5%"
+				},
+				{
+					"Description":"Health",
+					"Value":"200"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1250,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202003.webp"
+	},
+	{
+		"ItemId":30204004,
+		"ChildItemId":[30104000,30302002,30103004],
+		"ItemName":"Dekima Gemstone of Abundance II",
+		"ItemDescription":{
+			"Passive":"Obtains 5 Gold every 10 sec. Increases the amount of Gold obtained to 8 if the hero is out of combat for 6 sec, and grants 5 Bonus Gold for each retreating enemy T-on that dies within range.",
+			"Active":"Grants Watcher's Eye to increase all allies' visibility of the surrounding area for 180 sec. Two Watcher's Eyes can be granted at a time, and can be recharged upon recalling to the base.",
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"20"
+				},
+				{
+					"Description":"Mana",
+					"Value":"350"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"1"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1250,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30204004.webp"
+	},
+	{
+		"ItemId":30201010,
+		"ChildItemId":[30101001,30101002,30101002],
+		"ItemName":"Dekima Gemstone of Bravery II",
+		"ItemDescription":{
+			"Passive":"Recovers 8 Health upon defeating a T-on.",
+			"Active":"Teleports a short distance forward. (Cooldown: 240 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"20"
+				},
+				{
+					"Description":"Health",
+					"Value":"125"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"0.5"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201010.webp"
+	},
+	{
+		"ItemId":30203010,
+		"ChildItemId":[30103000,30103004,30103004],
+		"ItemName":"Dekima Gemstone of Fortitude II",
+		"ItemDescription":{
+			"Passive":"Grants a Shield that absorbs 125 Damage if the hero is out of combat for 6 sec.",
+			"Active":"Teleports a short distance forward. (Cooldown: 240 sec)",
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"370"
+				},
+				{
+					"Description":"Health Regen",
+					"Value":"0.7"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"0.5"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203010.webp"
+	},
+	{
+		"ItemId":30201014,
+		"ChildItemId":[30101006,30101003,30101002],
+		"ItemName":"Dekima Gemstone of Tailwinds II",
+		"ItemDescription":{
+			"Passive":"Recovers 8 Health upon defeating a T-on.",
+			"Active":"Charges a short distance forward. (Cooldown: 200 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"10"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"20%"
+				},
+				{
+					"Description":"Health",
+					"Value":"95"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"0.5"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201014.webp"
+	},
+	{
+		"ItemId":30202006,
+		"ChildItemId":[30102000,30302002,30302002],
+		"ItemName":"Dekima Gemstone of Vision II",
+		"ItemDescription":{
+			"Passive":"Recovers 10 Mana upon defeating a T-on.",
+			"Active":"Teleports a short distance forward. (Cooldown: 240 sec)",
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"35"
+				},
+				{
+					"Description":"Health",
+					"Value":"60"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"0.5"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202006.webp"
+	},
+	{
+		"ItemId":30201011,
+		"ChildItemId":[30101002,30101002],
+		"ItemName":"Destroyer's Dagger",
+		"ItemDescription":{
+			"Passive":"Dealing Physical Damage to an enemy hero decreases the enemy hero's Healing by 20% for 4 sec each time, affecting both Regeneration and Recovery.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"20"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":900,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201011.webp"
+	},
+	{
+		"ItemId":30201001,
+		"ChildItemId":[30101002,30101002],
+		"ItemName":"Drill Rifle",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"20"
+				},
+				{
+					"Description":"Physical Penetration",
+					"Value":"10"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201001.webp"
+	},
+	{
+		"ItemId":30203008,
+		"ChildItemId":[30103002,30302003],
+		"ItemName":"Enhanced Exoskeleton",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"20"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"25"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1425,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203008.webp"
+	},
+	{
+		"ItemId":30203007,
+		"ChildItemId":[30302003],
+		"ItemName":"Feather of Protection",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"20"
+				},
+				{
+					"Description":"Tenacity",
+					"Value":"30%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203007.webp"
+	},
+	{
+		"ItemId":30201005,
+		"ChildItemId":false,
+		"ItemName":"Giant's Dagger",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201005.webp"
+	},
+	{
+		"ItemId":30203003,
+		"ChildItemId":30302003,
+		"ItemName":"Inquisitor's Prayer Beads",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Removes all debuffs from the hero, except for the Airborne effect. (Cooldown: 80 sec)",
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"25"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1300,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203003.webp"
+	},
+	{
+		"ItemId":30203000,
+		"ChildItemId":30103004,
+		"ItemName":"Kinc Horn",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"200"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":750,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203000.webp"
+	},
+	{
+		"ItemId":30203001,
+		"ChildItemId":[30103002,30103002],
+		"ItemName":"Light Combat Suit",
+		"ItemDescription":{
+			"Passive":"Decreases received Damage from enemies' Basic Attacks by 5%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":750,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203001.webp"
+	},
+	{
+		"ItemId":30202005,
+		"ChildItemId":30302002,
+		"ItemName":"Nightmare",
+		"ItemDescription":{
+			"Passive":"Dealing Magical Damage to an enemy hero decreases the enemy hero's Healing by 25% for 4 sec each time, affecting both Regeneration and Recovery.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"20"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":600,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202005.webp"
+	},
+	{
+		"ItemId":30201012,
+		"ChildItemId":30101005,
+		"ItemName":"Optinium Mace",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"A successful Basic Attack deals Bonus Physical Damage equal to 100% of Physical Power to nearby enemies. (Cooldown: 20 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"20"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":950,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201012.webp"
+	},
+	{
+		"ItemId":30202004,
+		"ChildItemId":30302002,
+		"ItemName":"Orb of Harmony",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"20"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":800,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202004.webp"
+	},
+	{
+		"ItemId":30201007,
+		"ChildItemId":30101005,
+		"ItemName":"Plasma Whip",
+		"ItemDescription":{
+			"Passive":"A successful Basic Attack deals Bonus Physical Damage equal to 30% of Physical Power to nearby enemies. The following effect only applies for Melee attacks.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"20"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201007.webp"
+	},
+	{
+		"ItemId":30202000,
+		"ChildItemId":30302002,
+		"ItemName":"Puncturing Sphere",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"20"
+				},
+				{
+					"Description":"Magical Penetration",
+					"Value":"5"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":700,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202000.webp"
+	},
+	{
+		"ItemId":30201003,
+		"ChildItemId":[30101002,30101002],
+		"ItemName":"Reservist's Pistol",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"15"
+				},
+				{
+					"Description":"Magical Penetration",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":850,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201003.webp"
+	},
+	{
+		"ItemId":30203013,
+		"ChildItemId":[30103004,30103004],
+		"ItemName":"Setricta Mask",
+		"ItemDescription":{
+			"Passive":"Deals 12 Magical Damage to nearby enemies per sec.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"200"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":600,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203013.webp"
+	},
+	{
+		"ItemId":30201009,
+		"ChildItemId":[30101002,30101002],
+		"ItemName":"Sierra Goggles",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"10"
+				},
+				{
+					"Description":"Nullified Physical Defense",
+					"Value":"20%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201009.webp"
+	},
+	{
+		"ItemId":30201002,
+		"ChildItemId":[30101002,30101002,30101003],
+		"ItemName":"Spirit's Handgun",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"20"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"15%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1175,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201002.webp"
+	},
+	{
+		"ItemId":30201008,
+		"ChildItemId":[30101000,30101002,30302002],
+		"ItemName":"Stone Breaker",
+		"ItemDescription":{
+			"Passive":"Landing a Basic Attack on a monster deals 40 True Damage and recovers Health equal to 10% of Damage and 10 Mana. Additionally, when Magic Skills hit monsters, the damage is increased by 40%.",
+			"Active":"Using the skill on T-ons or monsters deals 350-1200 True Damage based on the hero's level. When used on monsters, the skill deals True Damage and recovers Health equal to 10% of Max Health and 100 additional Health. Using the skill on an enemy hero steals 20% of their Movement Speed for 2 sec and deals 30 True Damage per sec for 3 sec. (Cooldown: 60 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"5"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"10"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":1,
+		"Price":1000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201008.webp"
+	},
+	{
+		"ItemId":30203004,
+		"ChildItemId":[30103002,30103002],
+		"ItemName":"Sturdy Combat Suit",
+		"ItemDescription":{
+			"Passive":"Receiving damage from an enemy hero's Basic Attack decreases the enemy hero's Healing by 30% for 3 sec each time, affecting both Regeneration and Recovery.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"25"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":850,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203004.webp"
+	},
+	{
+		"ItemId":30202007,
+		"ChildItemId":30302002,
+		"ItemName":"Tarlia's Branch",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"20"
+				},
+				{
+					"Description":"Nullified Magical Defense",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1050,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202007.webp"
+	},
+	{
+		"ItemId":30203012,
+		"ChildItemId":30103002,
+		"ItemName":"Tattoo of Defense",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":825,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203012.webp"
+	},
+	{
+		"ItemId":30203011,
+		"ChildItemId":30302003,
+		"ItemName":"Tattoo of Resistance",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"40"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203011.webp"
+	},
+	{
+		"ItemId":30202001,
+		"ChildItemId":false,
+		"ItemName":"The Great Scepter",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"40"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1100,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202001.webp"
+	},
+	{
+		"ItemId":30203009,
+		"ChildItemId":[30103001,30103004],
+		"ItemName":"Titan's Bracelet",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"200"
+				},
+				{
+					"Description":"Health Regen",
+					"Value":"1.3"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":800,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203009.webp"
+	},
+	{
+		"ItemId":30203014,
+		"ChildItemId":[30103002,30102003],
+		"ItemName":"Veteran's Belt",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"20"
+				},
+				{
+					"Description":"Mana",
+					"Value":"250"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1050,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203014.webp"
+	},
+	{
+		"ItemId":30201004,
+		"ChildItemId":[30101003,30101003],
+		"ItemName":"Wind Element Collector",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Attack Speed",
+					"Value":"30%"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":750,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201004.webp"
+	},
+	{
+		"ItemId":30203005,
+		"ChildItemId":[30103004,30302003],
+		"ItemName":"World Tree Breastplate",
+		"ItemDescription":{
+			"Passive":"Recovers 10 Health per sec for 3 sec when the hero receives Damage from an enemy hero. (7 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"20"
+				},
+				{
+					"Description":"Health",
+					"Value":"200"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":1100,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203005.webp"
+	},
+	{
+		"ItemId":30201013,
+		"ChildItemId":[30101002,30103004],
+		"ItemName":"Zenith's Hammer",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"10"
+				},
+				{
+					"Description":"Health",
+					"Value":"200"
+				}
+			]
+		},
+		"ItemTier":3,
+		"ItemMaxQuant":6,
+		"Price":900,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201013.webp"
+	},
+	{
+		"ItemId":30302003,
+		"ChildItemId":[30202003,30102005,30202007],
+		"ItemName":"Archon Gospel",
+		"ItemDescription":{
+			"Passive":"Increases Vamp by 5% for Magical Damage for 10 sec every time a skill deals Damage to an enemy. The Increase effect stacks up to 3 times.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"70"
+				},
+				{
+					"Description":"Magical Vamp",
+					"Value":"10%"
+				},
+				{
+					"Description":"Health",
+					"Value":"250"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2950,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302003.webp"
+	},
+	{
+		"ItemId":30303008,
+		"ChildItemId":[30203012,30203000,30103002],
+		"ItemName":"Artificial Gravity Inductor",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Decreases nearby enemies' Attack Speed by 30% and Physical Power by 20% for 3 sec. (Cooldown: 70 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"70"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303008.webp"
+	},
+	{
+		"ItemId":30302011,
+		"ChildItemId":[30102005,30201004,30302002],
+		"ItemName":"Bells of Purification",
+		"ItemDescription":{
+			"Passive":"Decreases the target's Magical Defense by 8% for 3 sec every time a Basic Attack deals Damage to an enemy hero. The effect stacks up to 3 times.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"60"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"40%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2500,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302011.webp"
+	},
+	{
+		"ItemId":30303012,
+		"ChildItemId":[30203008,30302003,30103002],
+		"ItemName":"Berserker's Helm",
+		"ItemDescription":{
+			"Passive":"Decreases the attackers' Attack Speed by 4% and Slows them by 4% for 2 sec every time the hero receives Damage from a Basic Attack. The effect stacks up to 5 times.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"40"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"45"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2800,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303012.webp"
+	},
+	{
+		"ItemId":30303014,
+		"ChildItemId":[30203005,30203007,30103004],
+		"ItemName":"Blacksmith's Scissors",
+		"ItemDescription":{
+			"Passive":"Recovers 2% of Max Health for 5 sec when the hero is hit with a debuff. (30 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"400"
+				},
+				{
+					"Description":"Tenacity",
+					"Value":"30%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303014.webp"
+	},
+	{
+		"ItemId":30302001,
+		"ChildItemId":[30203003,30102005,30202004],
+		"ItemName":"Blue Heart",
+		"ItemDescription":{
+			"Passive":"Grants a Shield that blocks a single skill attack from an enemy hero. (60 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"80"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"35"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302001.webp"
+	},
+	{
+		"ItemId":30301026,
+		"ChildItemId":[30201008,30201013,30102005],
+		"ItemName":"Bone Crasher",
+		"ItemDescription":{
+			"Passive":"Landing a Basic Attack on a monster deals 50 True Damage and recovers Health equal to 10% of Damage and 13 Mana. Additionally, when Magic Skills hit monsters, the damage is increased by 50%.",
+			"Active":"Using the item on T-ons or monsters deals 350-1200 True Damage based on the hero's level. When used on monsters, deals True Damage and recovers Health equal to 10% of Max Health and 100 additional Health. Using the item on an enemy hero steals 30% of their Movement Speed for 2 sec and deals 80 True Damage per sec for 3 sec. (Cooldown: 60 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Health",
+					"Value":"200"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301026.webp"
+	},
+	{
+		"ItemId":30304004,
+		"ChildItemId":[30103005,30203012],
+		"ItemName":"Broken Watch",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Recovers 205-460 Health of nearby ally heroes and T-ons after 2.5 sec. (Cooldown: 80 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"200"
+				},
+				{
+					"Description":"Mana",
+					"Value":"350"
+				},
+				{
+					"Description":"Movement Speed",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2300,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304004.webp"
+	},
+	{
+		"ItemId":30301015,
+		"ChildItemId":[30101005,30201004,30101002],
+		"ItemName":"Carbon Alloy Crossbow",
+		"ItemDescription":{
+			"Passive":"Every successful Basic Attack on the enemy increases the hero's Physical Power by 10 and decreases the enemy's Attack Speed by 8% for 5 sec. (Stacks up to 3 times)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"30%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2800,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301015.webp"
+	},
+	{
+		"ItemId":30304003,
+		"ChildItemId":[30203012,30203000,30203009],
+		"ItemName":"Chain of Unity",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Links a selected ally to the hero and absorbs 20% of the ally's Received Damage. The ring can only link one ally hero and the absorption effect stops if the hero's Health is 30% or below or if the hero moves away from the linked ally.",
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"400"
+				},
+				{
+					"Description":"Health Regen",
+					"Value":"2"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2500,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304003.webp"
+	},
+	{
+		"ItemId":30301023,
+		"ChildItemId":[30201001,30201003,30101002],
+		"ItemName":"Clawed Storm",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Increases the hero's Movement Speed by 20% for 4 sec. (Cooldown: 40 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"45"
+				},
+				{
+					"Description":"Physical Penetration",
+					"Value":"20"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2800,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301023.webp"
+	},
+	{
+		"ItemId":30302021,
+		"ChildItemId":[30102005,30202000,30203002],
+		"ItemName":"Cultist's Blow",
+		"ItemDescription":{
+			"Passive":"If a nearby enemy hero's Health is below 50%, the hero's dealt Damage is increased by 15%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"65"
+				},
+				{
+					"Description":"Magical Penetration",
+					"Value":"15"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2900,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302021.webp"
+	},
+	{
+		"ItemId":30301003,
+		"ChildItemId":[30201009,30201003],
+		"ItemName":"Dekima Cannon",
+		"ItemDescription":{
+			"Passive":"Slows enemies hit with a skill by 25% for 1 sec.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Nullified Physical Defense",
+					"Value":"40%"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3100,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301003.webp"
+	},
+	{
+		"ItemId":30304005,
+		"ChildItemId":[30204004,30102003,30302002],
+		"ItemName":"Dekima Gemstone of Abundance III",
+		"ItemDescription":{
+			"Passive":"Obtains 7 Gold every 10 sec. Increases Gold obtained to 10 Gold if the hero is out of combat for 6 sec, and grants 8 Bonus Gold for each retreating enemy T-on that dies within range.",
+			"Active":"Grants Watcher's Eye to increase all allies' visibility of the surrounding area for 180 sec. Three Watcher's Eyes can be granted at a time, and can be recharged upon recalling to the base.",
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"50"
+				},
+				{
+					"Description":"Mana",
+					"Value":"600"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"2.5"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304005.webp"
+	},
+	{
+		"ItemId":30301013,
+		"ChildItemId":[30201010,30201005],
+		"ItemName":"Dekima Gemstone of Bravery III",
+		"ItemDescription":{
+			"Passive":"Recovers 11 Health upon defeating a T-on.",
+			"Active":"Teleports a short distance forward. (Cooldown: 180 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"55"
+				},
+				{
+					"Description":"Health",
+					"Value":"165"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"1.5"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301013.webp"
+	},
+	{
+		"ItemId":30303010,
+		"ChildItemId":[30203010,30203002,30103001],
+		"ItemName":"Dekima Gemstone of Fortitude III",
+		"ItemDescription":{
+			"Passive":"Grants a Shield that absorbs 200 Damage if the hero is out of combat for 6 sec.",
+			"Active":"Teleports a short distance forward. (Cooldown: 180 sec)",
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"760"
+				},
+				{
+					"Description":"Health Regen",
+					"Value":"3"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"1.5"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303010.webp"
+	},
+	{
+		"ItemId":30301008,
+		"ChildItemId":[30201014,30101003,30101002],
+		"ItemName":"Dekima Gemstone of Tailwinds III",
+		"ItemDescription":{
+			"Passive":"Recovers 11 Health upon defeating a T-on.",
+			"Active":"Charges a short distance forward. (Cooldown: 100 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"15"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"40%"
+				},
+				{
+					"Description":"Health",
+					"Value":"160"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"1.5"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301008.webp"
+	},
+	{
+		"ItemId":30302010,
+		"ChildItemId":[30202006,30202001],
+		"ItemName":"Dekima Gemstone of Vision III",
+		"ItemDescription":{
+			"Passive":"Recovers 13 Mana upon defeating a T-on.",
+			"Active":"Teleports a short distance forward. (Cooldown: 100 sec)",
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"85"
+				},
+				{
+					"Description":"Health",
+					"Value":"110"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"1.5"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302010.webp"
+	},
+	{
+		"ItemId":30301014,
+		"ChildItemId":[30201013,30101005,30103004],
+		"ItemName":"Dual Moon",
+		"ItemDescription":{
+			"Passive":"Slows enemies hit with a Basic Attack by 20% for 1 sec. (Ranged Basic Attack Slows by 10%.)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Health",
+					"Value":"400"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2600,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301014.webp"
+	},
+	{
+		"ItemId":30302006,
+		"ChildItemId":[30202001,30102004,30302002],
+		"ItemName":"Ekidna's Trick",
+		"ItemDescription":{
+			"Passive":"Increases Magical Power equal to 2.5% of Max Mana. Shares the stack effect with Dekima Energy Reflux.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"60"
+				},
+				{
+					"Description":"Mana",
+					"Value":"500"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2700,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302006.webp"
+	},
+	{
+		"ItemId":30301010,
+		"ChildItemId":[30101004,30101003,30101003],
+		"ItemName":"Electric Stone",
+		"ItemDescription":{
+			"Passive":"Deals Magical Damage equal to 50% of Physical Power and 25 Bonus Magical Damage to the target and up to 5 nearby enemies every four Basic Attack hits to the target.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Attack Speed",
+					"Value":"30%"
+				},
+				{
+					"Description":"Critical Rate",
+					"Value":"20%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301010.webp"
+	},
+	{
+		"ItemId":30302000,
+		"ChildItemId":[30202007,30102005,30302002],
+		"ItemName":"Elkima Blaster",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"60"
+				},
+				{
+					"Description":"Nullified Magical Defense",
+					"Value":"50%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302000.webp"
+	},
+	{
+		"ItemId":30302017,
+		"ChildItemId":[30202001,30201004,30302002],
+		"ItemName":"Embodiment of Vengeance",
+		"ItemDescription":{
+			"Passive":"A successful Basic Attack on an enemy deals Magical Damage equal to 20% of Magical Power and 10 Bonus Magical Damage.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"70"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"30%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302017.webp"
+	},
+	{
+		"ItemId":30303015,
+		"ChildItemId":[30201013,30101005,30103004],
+		"ItemName":"Emergency Rescue Unit",
+		"ItemDescription":{
+			"Passive":"Increases the hero's Physical Power by 15%. Also grants a Shield equal to 15% of Max Health for 3 sec if the hero's Health is below 30%. (100 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"400"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2450,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303015.webp"
+	},
+	{
+		"ItemId":30301007,
+		"ChildItemId":[30101005,30201002,30201000],
+		"ItemName":"Emergency Treatment",
+		"ItemDescription":{
+			"Passive":"Increases Life Steal by 20% for 5 sec if the hero's Health is 40% or below. (15 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"55"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"20%"
+				},
+				{
+					"Description":"Life Steal",
+					"Value":"15%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301007.webp"
+	},
+	{
+		"ItemId":30301027,
+		"ChildItemId":[30201002,30101004,30101002],
+		"ItemName":"Fanatic's Dessert",
+		"ItemDescription":{
+			"Passive":"Grants a Shield that absorbs 220-560 Damage for 3 sec if the hero's Health is below 30%. (100 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"20%"
+				},
+				{
+					"Description":"Critical Rate",
+					"Value":"20%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2600,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301027.webp"
+	},
+	{
+		"ItemId":30302008,
+		"ChildItemId":[30102005,30202004,30102003],
+		"ItemName":"Flares ID",
+		"ItemDescription":{
+			"Passive":"Grants a Shield that absorbs Damage equal to 25% of Max Mana when the hero's Health is below 30%. The Shield is granted once every 100 sec for 3 sec.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"65"
+				},
+				{
+					"Description":"Mana",
+					"Value":"400"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2850,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302008.webp"
+	},
+	{
+		"ItemId":30301018,
+		"ChildItemId":[30201001,30101005,30103004],
+		"ItemName":"Frendera's Flask",
+		"ItemDescription":{
+			"Passive":"Staying Stealthed in a Shadow Bush for 3.5 sec enhances the next Basic Attack by applying Bonus Physical Damage equal to 30% of the hero's Physical Attack + 100. (15 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"50"
+				},
+				{
+					"Description":"Physical Penetration",
+					"Value":"18"
+				},
+				{
+					"Description":"Health",
+					"Value":"250"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2900,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301018.webp"
+	},
+	{
+		"ItemId":30302007,
+		"ChildItemId":[30202008,30203002,30202000],
+		"ItemName":"Fruit of Greed",
+		"ItemDescription":{
+			"Passive":"Decreases Magical Defense of nearby enemy heroes by 15%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"70"
+				},
+				{
+					"Description":"Magical Penetration",
+					"Value":"8"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"25"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3100,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302007.webp"
+	},
+	{
+		"ItemId":30301011,
+		"ChildItemId":[30201011,30203000,30101002],
+		"ItemName":"Ghost Axe",
+		"ItemDescription":{
+			"Passive":"Dealing Physical Damage to an enemy hero decreases the enemy hero's Healing by 40% for 4 sec each time, affecting both Regeneration and Recovery.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"45"
+				},
+				{
+					"Description":"Health",
+					"Value":"250"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2550,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301011.webp"
+	},
+	{
+		"ItemId":30302013,
+		"ChildItemId":[30202001,30202004,30302002],
+		"ItemName":"Gloves of Jealousy",
+		"ItemDescription":{
+			"Passive":"Dealing Damage with a Basic Attack within 6 sec of using a skill deals Bonus Magical Damage equal to 75% of Magical Power to the enemy. (4 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"80"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2700,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302013.webp"
+	},
+	{
+		"ItemId":30301016,
+		"ChildItemId":[30201013,30201003,30101002],
+		"ItemName":"Greatsword of the Hurricane",
+		"ItemDescription":{
+			"Passive":"Decreases the enemy's Physical Defense by 4% and increases the hero's Physical Defense by 5 for 6 sec every time Physical Damage is dealt to an enemy hero. The effect stacks up to 7 times.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"35"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"15%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2750,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301016.webp"
+	},
+	{
+		"ItemId":30303004,
+		"ChildItemId":[30203000,30203001,30103002],
+		"ItemName":"Guardian of Haileen",
+		"ItemDescription":{
+			"Passive":"Decreases received Critical Damage by 25%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2375,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303004.webp"
+	},
+	{
+		"ItemId":30303001,
+		"ChildItemId":[30203000,30203002,30203009],
+		"ItemName":"Healing Nano Machines",
+		"ItemDescription":{
+			"Passive":"Recovers 3% of Max Health every sec out of combat for 6 sec.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Health",
+					"Value":"800"
+				},
+				{
+					"Description":"Health Regen",
+					"Value":"8"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303001.webp"
+	},
+	{
+		"ItemId":30304002,
+		"ChildItemId":[30202004,30302003,30102001],
+		"ItemName":"High Priest's Consolation",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Recovers 180-350 Health and removes all debuffs for a selected ally. (Cooldown: 100 sec)",
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"45"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"1.2"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2500,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304002.webp"
+	},
+	{
+		"ItemId":30303007,
+		"ChildItemId":[30203001,30203009,30103002],
+		"ItemName":"High-end Armor",
+		"ItemDescription":{
+			"Passive":"Decreases received Damage from enemies' Basic Attacks and Physical Skills by 12%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"55"
+				},
+				{
+					"Description":"Health",
+					"Value":"250"
+				},
+				{
+					"Description":"Health Regen",
+					"Value":"2.5"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3200,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303007.webp"
+	},
+	{
+		"ItemId":30301006,
+		"ChildItemId":[30101005,30203003,30101004],
+		"ItemName":"Holy Relic of Osyne",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Removes all debuffs from the hero, except for the Airborne effect. Increases Movement Speed by 40% for 2 sec. (Cooldown: 80 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Critical Rate",
+					"Value":"20%"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"35"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3100,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301006.webp"
+	},
+	{
+		"ItemId":30303006,
+		"ChildItemId":[30203014,30203012],
+		"ItemName":"Ice Spirit Gloves",
+		"ItemDescription":{
+			"Passive":"Decreases Attack Speed of nearby enemy heroes by 25%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"70"
+				},
+				{
+					"Description":"Mana",
+					"Value":"400"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2750,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303006.webp"
+	},
+	{
+		"ItemId":30303013,
+		"ChildItemId":[30203012,30203002,30103002],
+		"ItemName":"Malodorous Spray",
+		"ItemDescription":{
+			"Passive":"Decreases Physical Defense of nearby enemy heroes by 15%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"65"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2550,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303013.webp"
+	},
+	{
+		"ItemId":30303005,
+		"ChildItemId":[30203011,30203000],
+		"ItemName":"Mana Black Hole",
+		"ItemDescription":{
+			"Passive":"Decreases the hero's received Magical Damage by 20%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2600,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303005.webp"
+	},
+	{
+		"ItemId":30301005,
+		"ChildItemId":[30201005,30201003,30101003],
+		"ItemName":"Marauder's Watch",
+		"ItemDescription":{
+			"Passive":"A successful Basic Attack on an enemy decreases all skill cooldowns by 0.2 sec.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"50"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"20%"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3100,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301005.webp"
+	},
+	{
+		"ItemId":30302004,
+		"ChildItemId":[30202001,30203012,30202004],
+		"ItemName":"Margot's Stone",
+		"ItemDescription":{
+			"Passive":"A successful Basic Attack on an enemy decreases all skill cooldowns by 0.2 sec.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"70"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"40"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3500,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302004.webp"
+	},
+	{
+		"ItemId":30302019,
+		"ChildItemId":[30202001,30102005,30202004],
+		"ItemName":"Mathematician's Intro to Architecture",
+		"ItemDescription":{
+			"Passive":"Grants a stack of Mathematician's Power every time a skill hits an enemy. (5 sec) A successful skill hit at 2 stacks deals Bonus Magical Damage equal to 30% of Magical Power and recovers the hero's Health by 30% of Magical Power. (Applies to a single target even when an AoE skill is used.)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3250,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302019.webp"
+	},
+	{
+		"ItemId":30301020,
+		"ChildItemId":[30201005,30101003,30101002],
+		"ItemName":"Merchant's Jewelry Box",
+		"ItemDescription":{
+			"Passive":"Deals Bonus Physical Damage equal to 6% of the target's current Health every time a Basic Attack deals Damage to an enemy. For non-hero enemies, deals up to 80 Damage.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"20%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2800,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301020.webp"
+	},
+	{
+		"ItemId":30302002,
+		"ChildItemId":[30201005,30101003,30203002],
+		"ItemName":"Mini Moda",
+		"ItemDescription":{
+			"Passive":"Slows the target by 30% for 1 sec every time skill attack deals Damage to the enemy.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"85"
+				},
+				{
+					"Description":"Health",
+					"Value":"350"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3100,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302002.webp"
+	},
+	{
+		"ItemId":30304000,
+		"ChildItemId":[30203008,30203000],
+		"ItemName":"Miter of the High Priest",
+		"ItemDescription":{
+			"Passive":"Increases Physical Defense by 8 and Magical Defense by 8 for nearby allies.",
+			"Active":"Grants a Shield that absorbs 190-360 Damage to nearby allies for 3 sec. (Cooldown: 80 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"25"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"200"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2700,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304000.webp"
+	},
+	{
+		"ItemId":30302020,
+		"ChildItemId":[30202004,30102003,30102001],
+		"ItemName":"Mutant Po",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Transforms a selected enemy hero into a Mutant for 2 sec. The transformed enemy hero can move but can't use any skills. (Cooldown: 100 sec)",
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Mana",
+					"Value":"300"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"2"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302020.webp"
+	},
+	{
+		"ItemId":30303021,
+		"ChildItemId":[30203011,30203000,30102003],
+		"ItemName":"Pendant of Confinement",
+		"ItemDescription":{
+			"Passive":"A successful Basic Attack on an enemy within 3 sec after using a skill Slows the enemy by 30% for 1.5 sec and deals 150 Bonus Magical Damage to all nearby enemies. (5 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				},
+				{
+					"Description":"Mana",
+					"Value":"350"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"15%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2900,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303021.webp"
+	},
+	{
+		"ItemId":30302005,
+		"ChildItemId":[30202001,30202001,30102005],
+		"ItemName":"Rampaging Toto",
+		"ItemDescription":{
+			"Passive":"Increases the hero's Magical Power by 30%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"120"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3800,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302005.webp"
+	},
+	{
+		"ItemId":30302012,
+		"ChildItemId":[30202002,30202005,30302002],
+		"ItemName":"Sage's Whip",
+		"ItemDescription":{
+			"Passive":"Dealing Magical Damage to an enemy hero decreases the enemy hero's Healing by 40% for 4 sec each time, affecting both Regeneration and Recovery.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"75"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2550,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302012.webp"
+	},
+	{
+		"ItemId":30301019,
+		"ChildItemId":[30201009,30201005],
+		"ItemName":"Setar Chainsaw",
+		"ItemDescription":{
+			"Passive":"Deals 15% Bonus Physical Damage to an enemy hero with higher Max Health than the hero. When the Health difference is more than 1400, Bonus Physical Damage reaches the maximum.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"50"
+				},
+				{
+					"Description":"Nullified Physical Defense",
+					"Value":"40%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3100,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301019.webp"
+	},
+	{
+		"ItemId":30303003,
+		"ChildItemId":[30203012,30203002,30103002],
+		"ItemName":"Shock Energy Battery",
+		"ItemDescription":{
+			"Passive":"Increases Movement Speed by 10% if out of combat for 6 sec. While the Movement Speed boost lasts, a successful Basic Attack on an enemy deals Bonus Physical Damage equal to 50% of the hero's Physical Power. The Movement Speed boost ends upon dealing Damage.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"40"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2500,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303003.webp"
+	},
+	{
+		"ItemId":30301000,
+		"ChildItemId":[30201011,30101004,30101003],
+		"ItemName":"Shortsword of Decay",
+		"ItemDescription":{
+			"Passive":"Dealing Physical Damage to an enemy hero decreases the enemy hero's Healing by 15% for 4 sec each time, affecting both Regeneration and Recovery. The effect stacks up to 3 times.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"30"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"25%"
+				},
+				{
+					"Description":"Critical Rate",
+					"Value":"20%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301000.webp"
+	},
+	{
+		"ItemId":30301001,
+		"ChildItemId":[30201002,30101005,30101003],
+		"ItemName":"Spirit's Armor",
+		"ItemDescription":{
+			"Passive":"Grants Acceleration for 1 sec when a Basic Attack deals Damage to an enemy. The hero becomes Immune to the Basic Attack Movement Penalty.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"25%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2600,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301001.webp"
+	},
+	{
+		"ItemId":30301017,
+		"ChildItemId":[30201012,30201013,30201004],
+		"ItemName":"Spirit's Fang",
+		"ItemDescription":{
+			"Passive":false,
+			"Active":"Deals Physical Damage equal to 150% of Physical Power to nearby enemies and Slows them by 30% for 2 sec. (Cooldown: 20 sec)",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"30%"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2600,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301017.webp"
+	},
+	{
+		"ItemId":30302015,
+		"ChildItemId":[30202002,30102005,30302002],
+		"ItemName":"Spirit's Teardrop",
+		"ItemDescription":{
+			"Passive":"Every Damage-dealing skill attack on an enemy hero deals 10 Magical Damage + 2.5% of Magical Power + Bonus Magical Damage equal to 2% of the target's Max Health every sec for 3 sec.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"65"
+				},
+				{
+					"Description":"Health",
+					"Value":"250"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302015.webp"
+	},
+	{
+		"ItemId":30301021,
+		"ChildItemId":[30201001,30101005,30203002],
+		"ItemName":"Superior Immunity Booster",
+		"ItemDescription":{
+			"Passive":"Grants a Shield that blocks a single skill attack from an enemy hero. (60 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"50"
+				},
+				{
+					"Description":"Physical Penetration",
+					"Value":"10"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301021.webp"
+	},
+	{
+		"ItemId":30303000,
+		"ChildItemId":[30202009,30203000,30302003],
+		"ItemName":"Swamp Cloak",
+		"ItemDescription":{
+			"Passive":"Slows nearby enemy heroes by 15%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"500"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3000,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303000.webp"
+	},
+	{
+		"ItemId":30303019,
+		"ChildItemId":[30203014,30203002,30103006],
+		"ItemName":"Sweet Life",
+		"ItemDescription":{
+			"Passive":"Killing an enemy hero or assisting in a kill recovers 2.5% of Max Health and 2.5% of Max Mana for 5 sec. The Recovery effect is activated once in 5 sec, even if multiple enemy heroes are defeated within 5 sec.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"600"
+				},
+				{
+					"Description":"Mana",
+					"Value":"250"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2900,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303019.webp"
+	},
+	{
+		"ItemId":30303016,
+		"ChildItemId":[30203005,30203009,30302003],
+		"ItemName":"Trea's Band",
+		"ItemDescription":{
+			"Passive":"Increases all Health Recovery and Shield effects granted to the hero by 30%.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"450"
+				},
+				{
+					"Description":"Health Regen",
+					"Value":"2"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"5%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3100,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303016.webp"
+	},
+	{
+		"ItemId":30301004,
+		"ChildItemId":[30201005,30101005,30101004],
+		"ItemName":"Treasured Sword of the Kingdom",
+		"ItemDescription":{
+			"Passive":"Increases Critical Damage by 25% if Critical Rate is 50% or higher.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"70"
+				},
+				{
+					"Description":"Critical Rate",
+					"Value":"20%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3700,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301004.webp"
+	},
+	{
+		"ItemId":30301009,
+		"ChildItemId":[30201007,30201000,30203000],
+		"ItemName":"Vamp Sword",
+		"ItemDescription":{
+			"Passive":"A successful Basic Attack deals Bonus Physical Damage equal to 50% of Physical Power to nearby enemies. The following effect only applies for Melee attacks",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"40"
+				},
+				{
+					"Description":"All Vamp",
+					"Value":"8%"
+				},
+				{
+					"Description":"Health",
+					"Value":"150"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2700,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301009.webp"
+	},
+	{
+		"ItemId":30304001,
+		"ChildItemId":[30202004,30102003,30102001],
+		"ItemName":"Victorious Footstep",
+		"ItemDescription":{
+			"Passive":"Increases Movement Speed by 5% for nearby allies.",
+			"Active":"Increases Movement Speed by 30% for the hero and ally heroes within range for 4.5 sec. (Cooldown: 70 sec)",
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"50"
+				},
+				{
+					"Description":"Mana",
+					"Value":"400"
+				},
+				{
+					"Description":"Mana Regen",
+					"Value":"1"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2450,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304001.webp"
+	},
+	{
+		"ItemId":30302018,
+		"ChildItemId":[30202001,30202000,30302002],
+		"ItemName":"Vitality Lenses",
+		"ItemDescription":{
+			"Passive":"A successful skill hit on an enemy hero increases the hero's Magical Penetration by 20 after 2 sec. The effect lasts for 2 sec. (15 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"80"
+				},
+				{
+					"Description":"Magical Penetration",
+					"Value":"10"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2900,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302018.webp"
+	},
+	{
+		"ItemId":30302022,
+		"ChildItemId":[30202001,30202009,30302002],
+		"ItemName":"Witch's Shoes",
+		"ItemDescription":{
+			"Passive":"Deals Magical Damage equal to 20% of Magical Power and 120 Bonus Magical Damage every time a skill deals Damage to an enemy hero. Increases the hero's Movement Speed by 20% for 1.5 sec. (10 sec)",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Magical Power",
+					"Value":"90"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":2800,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302022.webp"
+	},
+	{
+		"ItemId":30302009,
+		"ChildItemId":[30201011,30202001,30302002],
+		"ItemName":"Witch's Vial",
+		"ItemDescription":{
+			"Passive":"A successful Basic Attack on an enemy increases Vamp of all Damage by 8% for 4 sec. Using any skills except for Basic Attacks recovers 10 Mana.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"35"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"70"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3300,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302009.webp"
+	},
+	{
+		"ItemId":30303011,
+		"ChildItemId":[30203008,30203013,30103002],
+		"ItemName":"Ximmia's Toy",
+		"ItemDescription":{
+			"Passive":"Deals 34-51 Magical Damage every sec to all nearby enemies based on the hero's level. Damage is increased by 25% for T-ons and by 100% for monsters.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"40"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"30"
+				},
+				{
+					"Description":"Health",
+					"Value":"250"
+				},
+				{
+					"Description":"Cooldown Reduction",
+					"Value":"10%"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3300,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303011.webp"
+	},
+	{
+		"ItemId":30303002,
+		"ChildItemId":[30202009,30203004,30302003],
+		"ItemName":"Zinc's Claw Barrier",
+		"ItemDescription":{
+			"Passive":"Deals 34-51 Magical Damage every sec to all nearby enemies based on the hero's level. Damage is increased by 25% for T-ons and by 100% for monsters.",
+			"Active":false,
+			"Stats":[
+				{
+					"Description":"Physical Defense",
+					"Value":"35"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"300"
+				}
+			]
+		},
+		"ItemTier":4,
+		"ItemMaxQuant":1,
+		"Price":3400,
+		"StartingItem":false,
+		"Type":"Item",
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303002.webp"
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"RoleId":1,
+		"RoleName":"Warrior",
+		"RoleDescription":{
+			"FirstDescription":"This class boasts incredible skills in both offense and defense.",
+			"SecondDescription":"Warriors are usually played on the Offlane (Solo-Lane) or in the Jungle."
+		},
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/roles/1.webp"
+	},
+	{
+		"RoleId":2,
+		"RoleName":"Tank",
+		"RoleDescription":{
+			"FirstDescription":"This class is all about keeping pace with the enemy, and taking attack after attack with your excellent defensive capabilities.",
+			"SecondDescription":"Tanks are mostly played on the Offlane, in the Jungle or as Support on the Duo-Lane."
+		},
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/roles/2.webp"
+	},
+	{
+		"RoleId":3,
+		"RoleName":"Assassin",
+		"RoleDescription":{
+			"FirstDescription":"This class destroys the enemy with outstanding mobility and explosive firepower.",
+			"SecondDescription":"Assassin Heroes specialize in dealing a huge amount of damage in a short time."
+		},
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/roles/3.webp"
+	},
+	{
+		"RoleId":4,
+		"RoleName":"Caster",
+		"RoleDescription":{
+			"FirstDescription":"This class affects combat using various skills and firepower.",
+			"SecondDescription":"As a Caster you are usually responsible for the Midlane or in some cases the Solo-Lane."
+		},
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/roles/4.webp"
+	},
+	{
+		"RoleId":5,
+		"RoleName":"Ranger",
+		"RoleDescription":{
+			"FirstDescription":"This class has the potential to steadily chip away at enemies through basic attacks.",
+			"SecondDescription":"Rangers (or Ranged Carries) are usually played on the Safelane."
+		},
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/roles/5.webp"
+	},
+	{
+		"RoleId":6,
+		"RoleName":"Support",
+		"RoleDescription":{
+			"FirstDescription":"This class controls combat by protecting allies and affecting the battle in various ways.",
+			"SecondDescription":"The Support is usually played on the Safelane (Duo-Lane) - together with the allied Ranged Carry."
+		},
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/roles/6.webp"
+	}
+]

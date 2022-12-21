@@ -1,0 +1,164 @@
+[
+	{
+		"RankId":1,
+		"RankName":"Placement Matches",
+		"Promotion":false,
+		"Demotion":false,
+		"PremadePlays":false,
+		"Matching":[1,10],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/placement.webp"
+	},
+	{
+		"RankId":2,
+		"RankName":"Bronze 3",
+		"Promotion":false,
+		"Demotion":false,
+		"PremadePlays":[2,7],
+		"Matching":[2,7],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/bronze.webp"
+	},
+	{
+		"RankId":3,
+		"RankName":"Bronze 2",
+		"Promotion":false,
+		"Demotion":true,
+		"PremadePlays":[2,7],
+		"Matching":[2,7],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/bronze.webp"
+	},
+	{
+		"RankId":4,
+		"RankName":"Bronze 1",
+		"Promotion":true,
+		"Demotion":true,
+		"PremadePlays":[2,7],
+		"Matching":[2,7],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/bronze.webp"
+	},
+	{
+		"RankId":5,
+		"RankName":"Silver 3",
+		"Promotion":false,
+		"Demotion":false,
+		"PremadePlays":[2,10],
+		"Matching":[2,10],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/silver.webp"
+	},
+	{
+		"RankId":6,
+		"RankName":"Silver 2",
+		"Promotion":false,
+		"Demotion":true,
+		"PremadePlays":[2,10],
+		"Matching":[2,10],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/silver.webp"
+	},
+	{
+		"RankId":7,
+		"RankName":"Silver 1",
+		"Promotion":true,
+		"Demotion":true,
+		"PremadePlays":[2,10],
+		"Matching":[2,10],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/silver.webp"
+	},
+	{
+		"RankId":8,
+		"RankName":"Gold 3",
+		"Promotion":false,
+		"Demotion":false,
+		"PremadePlays":[5,13],
+		"Matching":[5,13],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/gold.webp"
+	},
+	{
+		"RankId":9,
+		"RankName":"Gold 2",
+		"Promotion":false,
+		"Demotion":true,
+		"PremadePlays":[5,13],
+		"Matching":[5,13],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/gold.webp"
+	},
+	{
+		"RankId":10,
+		"RankName":"Gold 1",
+		"Promotion":true,
+		"Demotion":true,
+		"PremadePlays":[5,13],
+		"Matching":[5,13],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/gold.webp"
+	},
+	{
+		"RankId":11,
+		"RankName":"Platinum 3",
+		"Promotion":false,
+		"Demotion":false,
+		"PremadePlays":[8,16],
+		"Matching":[8,16],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/platinum.webp"
+	},
+	{
+		"RankId":12,
+		"RankName":"Platinum 2",
+		"Promotion":false,
+		"Demotion":true,
+		"PremadePlays":[8,16],
+		"Matching":[8,16],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/platinum.webp"
+	},
+	{
+		"RankId":13,
+		"RankName":"Platinum 1",
+		"Promotion":true,
+		"Demotion":true,
+		"PremadePlays":[8,16],
+		"Matching":[8,16],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/platinum.webp"
+	},
+	{
+		"RankId":14,
+		"RankName":"Diamond 3",
+		"Promotion":false,
+		"Demotion":false,
+		"PremadePlays":[11,16],
+		"Matching":[11,16],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/diamond.webp"
+	},
+	{
+		"RankId":15,
+		"RankName":"Diamond 2",
+		"Promotion":false,
+		"Demotion":true,
+		"PremadePlays":[11,16],
+		"Matching":[11,16],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/diamond.webp"
+	},
+	{
+		"RankId":16,
+		"RankName":"Diamond 1",
+		"Promotion":false,
+		"Demotion":true,
+		"PremadePlays":[11,16],
+		"Matching":[11,16],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/diamond.webp"
+	},
+	{
+		"RankId":17,
+		"RankName":"Master",
+		"Promotion":false,
+		"Demotion":true,
+		"PremadePlays":false,
+		"Matching":[14,17],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/master.webp"
+	},
+	{
+		"RankId":17,
+		"RankName":"Grand Master",
+		"Promotion":false,
+		"Demotion":true,
+		"PremadePlays":false,
+		"Matching":[14,17],
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/ranks/grandmaster.webp"
+	}
+]
