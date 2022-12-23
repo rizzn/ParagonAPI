@@ -2940,7 +2940,7 @@
 		"AbilityId":10100103,
 		"AbilityName":"Soul Steal",
 		"AbilityDescription":{
-			"Description":"Passive : Grants Souls every time an enemy is killed with Soul Steal. Killing T-ons or Normal monsters grants 1 Soul, killing Rare monsters grants 3 Souls, killing Epic monsters grants 5 Souls and killing an enemy hero grants 10 Souls. Each Soul increases Max Health by 3.\n\nActive : Steals Souls from targets, dealing 64(50+15%/2%) Magical Damage.",
+			"Description":"Passive : Grants Souls every time an enemy is killed with Soul Steal. Killing T-ons or Normal monsters grants 1 Soul, killing Rare monsters grants 3 Souls, killing Epic monsters grants 5 Souls and killing an enemy hero grants 10 Souls. Each Soul increases Max Health by 3.\n\nActive : Steals Souls from targets, dealing 64(50+15%/2%h) Magical Damage.",
 			"BaseValues":[
 				{
 					"Description":"Damage",
@@ -3442,7 +3442,7 @@
 		"AbilityId":10070104,
 		"AbilityName":"Ironclad Wall",
 		"AbilityDescription":{
-			"Description":"Raises a steel shield and moves forward, creating a Shield that absorbs 66(50+40%) Damage for 3 sec. Deals 94(90+50%) Magical Damage to enemies hit by the steel shield and launches them Airborne.",
+			"Description":"Throws a steel shield to a desired direction to create a barrier that blocks all projectiles for 6 sec. Enemies who respass the barrier are Slowed by 20% for 2 sec.",
 			"BaseValues":false,
 			"Scaling":[
 				{
