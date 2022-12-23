@@ -1,0 +1,51 @@
+[
+	{
+		"TierId":1,
+		"TierName":"S+",
+		"TierDescription":"Extremely overpowered heroes you should be able to win the game with.",
+		"TierColor":"#ff7f7f",
+		"HeroId":[1004,1001,1006]
+	},
+	{
+		"TierId":2,
+		"TierName":"S",
+		"TierDescription":"Very powerful heroes in fact of carry potential.",
+		"TierColor":"#ffbf7f",
+		"HeroId":[1007,1026,1017,1002,1009]
+	},
+	{
+		"TierId":3,
+		"TierName":"A+",
+		"TierDescription":"Strong picks to normally win your lane with.",
+		"TierColor":"#ffdf7f",
+		"HeroId":[1025,1020,1022,1013,1010]
+	},
+	{
+		"TierId":4,
+		"TierName":"A",
+		"TierDescription":"Solid heroes you can always pick without worrying.",
+		"TierColor":"#ffff7f",
+		"HeroId":[1023,1031,1015,1033,1030,1011]
+	},
+	{
+		"TierId":5,
+		"TierName":"B",
+		"TierDescription":"Not too strong overall, they might need a slight buff.",
+		"TierColor":"#7fff7f",
+		"HeroId":[1005,1028,1012,1014,1027]
+	},
+	{
+		"TierId":6,
+		"TierName":"C",
+		"TierDescription":"Weak picks in fact of pressure and lane dominance.",
+		"TierColor":"#7fffff",
+		"HeroId":[1016,1003]
+	},
+	{
+		"TierId":7,
+		"TierName":"D",
+		"TierDescription":"Don't play. Very bad heroes you most likely lose with.",
+		"TierColor":"#7fbfff",
+		"HeroId":[1019]
+	}
+]

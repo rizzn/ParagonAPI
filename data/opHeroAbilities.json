@@ -428,7 +428,7 @@
 		"AbilityId":10270102,
 		"AbilityName":"Spin Slash",
 		"AbilityDescription":{
-			"Description":"Passive: Defeating an enemy hero with Spin Slash recovers 10% of the hero's Max Health. Defeating enemy T-ons or monsters recovers 2% of the hero's Max Health.\n\nActive: Spins quickly to deal 91(80+icon55%) Magical Damage to enemies.",
+			"Description":"Passive: Defeating an enemy hero with Spin Slash recovers 10% of the hero's Max Health. Defeating enemy T-ons or monsters recovers 2% of the hero's Max Health.\n\nActive: Spins quickly to deal 91(80+55%) Magical Damage to enemies.",
 			"BaseValues":[
 				{
 					"Description":"Damage",
@@ -807,7 +807,7 @@
 		"AbilityId":10260104,
 		"AbilityName":"Speed Gate",
 		"AbilityDescription":{
-			"Description":"Throws a circular device to install an Electric Line that increases Movement Speed by 25% for all allies passing through for 4 sec and deals 57(50+ 30%) Magical Damage to enemies.",
+			"Description":"Throws a circular device to install an Electric Line that increases Movement Speed by 25% for all allies passing through for 4 sec and deals 57(50+30%) Magical Damage to enemies.",
 			"BaseValues":[
 				{
 					"Description":"Damage",
@@ -1808,7 +1808,7 @@
 	},
 	{
 		"AbilityId":10110102,
-		"AbilityName":"Rumble",
+		"AbilityName":"Crecent Moon",
 		"AbilityDescription":{
 			"Description":"Deals 89(80+60%) Magical Damage to enemies within range and resets the next Basic Attack's cooldown. Using Crescent Moon while the Rumble sword is still plunged in the ground deals the same amount of Damage in the area.\nThe hero gains Thunder and Lightning status, allowing the hero to deal 39(30+65%) Bonus Magical Damage when the next Basic Attack hits an enemy.",
 			"BaseValues":[
@@ -2248,6 +2248,39 @@
 		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10250104.webp"
 	},
 	{
+		"AbilityId":10250105,
+		"AbilityName":"Great Roar",
+		"AbilityDescription":{
+			"Description":"Plays the drum for 4 sec, Slowing nearby enemies by 50% and dealing 41(40+10%) Magical Damage every 0.6 sec. At the end of the performance, hit enemies are launched Airborne.",
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"40/60/80"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"10%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"100"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"100/85/70"
+				}
+			]
+		},
+		"HeroId":1025,
+		"DefaultKey":"R",
+		"YoutubeId":"8e52N3VIfHg",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10250105.webp"
+	},	
+	{
 		"AbilityId":10250101,
 		"AbilityName":"Ba Dum!",
 		"AbilityDescription":{
@@ -2472,7 +2505,7 @@
 		"AbilityId":10040103,
 		"AbilityName":"Savage Heave",
 		"AbilityDescription":{
-			"Description":"Pulls a boulder out of the ground. Using the skill again throws the boulder, Stunning the hit enemy for 2 sec and dealing 103(100+50%) Magical Damage.",
+			"Description":"Pulls a boulder out of the ground. Stunning the hit enemy for 2 sec and dealing 103(100+50%) Magical Damage.",
 			"BaseValues":[
 				{
 					"Description":"Damage",
@@ -2603,7 +2636,7 @@
 		"AbilityId":10040102,
 		"AbilityName":"Menacing Arrival",
 		"AbilityDescription":{
-			"Description":"Slashes with claws to deal 64 Physical Damage to the enemy.",
+			"Description":"Leaps to a selected location and lands to deal 62(60+40%) Magical Damage to an enemy hero within range. Using Menacing Arrival while preparing Savage Heave Stuns the enemy for 2 sec and deals 30 Bonus Magical Damage.",
 			"BaseValues":[
 				{
 					"Description":"Damage",
