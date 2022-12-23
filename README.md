@@ -12,6 +12,8 @@ A lot of data is collected by the extracted .pak files, some comes from the Wiki
 ## How can I use the data?
 You can use it anyway or everywhere you want. Either host the files locally or use the API endpoint. For more information visit: http://api.paragonhub.net:3001/
 
+Self host the images? [Download assets here](https://cdn.paragonhub.net/download/assets.zip)
+
 ## Will there be an official API?
 Yes. An Official API was confirmed on the official Overprime Discord by the Team! Theres no confirmed ETA, but most likely with or after the official release of the game.
 

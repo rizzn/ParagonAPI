@@ -40,7 +40,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1016.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1016.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1016.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1016.webp"
 	},
 	{
 		"HeroId":1019,
@@ -83,7 +85,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1019.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1019.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1019.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1019.webp"
 	},
 	{
 		"HeroId":1027,
@@ -126,7 +130,9 @@
 		"Difficulty":"Hard",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1027.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1027.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1027.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1027.webp"
 	},
 	{
 		"HeroId":1031,
@@ -169,7 +175,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1031.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1031.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1031.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1031.webp"
 	},
 	{
 		"HeroId":1020,
@@ -212,7 +220,9 @@
 		"Difficulty":"Easy",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1020.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1020.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1020.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1020.webp"
 	},
 	{
 		"HeroId":1026,
@@ -255,7 +265,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1026.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1026.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1026.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1026.webp"
 	},
 	{
 		"HeroId":1012,
@@ -298,7 +310,9 @@
 		"Difficulty":"Easy",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1012.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1012.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1012.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1012.webp"
 	},
 	{
 		"HeroId":1006,
@@ -341,7 +355,9 @@
 		"Difficulty":"Easy",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1006.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1006.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1006.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1006.webp"
 	},
 	{
 		"HeroId":1022,
@@ -384,7 +400,9 @@
 		"Difficulty":"Hard",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1022.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1022.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1022.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1022.webp"
 	},
 	{
 		"HeroId":1005,
@@ -427,7 +445,9 @@
 		"Difficulty":"Hard",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1005.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1005.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1005.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1005.webp"
 	},
 	{
 		"HeroId":1023,
@@ -470,7 +490,9 @@
 		"Difficulty":"Easy",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1023.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1023.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1023.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1023.webp"
 	},
 	{
 		"HeroId":1011,
@@ -513,7 +535,9 @@
 		"Difficulty":"Hard",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1011.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1011.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1011.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1011.webp"
 	},
 	{
 		"HeroId":1001,
@@ -556,7 +580,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1001.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1001.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1001.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1001.webp"
 	},
 	{
 		"HeroId":1003,
@@ -599,7 +625,9 @@
 		"Difficulty":"Easy",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1003.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1003.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1003.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1003.webp"
 	},
 	{
 		"HeroId":1025,
@@ -642,7 +670,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1025.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1025.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1025.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1025.webp"
 	},
 	{
 		"HeroId":1017,
@@ -685,7 +715,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1017.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1017.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1017.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1017.webp"
 	},
 	{
 		"HeroId":1004,
@@ -728,7 +760,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1004.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1004.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1004.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1004.webp"
 	},
 	{
 		"HeroId":1015,
@@ -771,7 +805,9 @@
 		"Difficulty":"Hard",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1015.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1015.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1015.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1015.webp"
 	},
 	{
 		"HeroId":1028,
@@ -814,7 +850,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1028.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1028.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1028.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1028.webp"
 	},
 	{
 		"HeroId":1010,
@@ -857,7 +895,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1010.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1010.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1010.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1010.webp"
 	},
 	{
 		"HeroId":1014,
@@ -900,7 +940,9 @@
 		"Difficulty":"Hard",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1014.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1014.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1014.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1014.webp"
 	},
 	{
 		"HeroId":1009,
@@ -943,7 +985,9 @@
 		"Difficulty":"Easy",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1009.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1009.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1009.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1009.webp"
 	},
 	{
 		"HeroId":1007,
@@ -986,7 +1030,9 @@
 		"Difficulty":"Easy",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1007.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1007.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1007.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1007.webp"
 	},
 	{
 		"HeroId":1013,
@@ -1029,7 +1075,9 @@
 		"Difficulty":"Easy",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1013.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1013.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1013.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1013.webp"
 	},
 	{
 		"HeroId":1002,
@@ -1072,7 +1120,9 @@
 		"Difficulty":"Easy",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1002.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1002.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1002.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1002.webp"
 	},
 	{
 		"HeroId":1033,
@@ -1115,7 +1165,9 @@
 		"Difficulty":"Average",
 		"PriceGems":70,
 		"PriceGold":2000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1033.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1033.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1033.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1033.webp"
 	},
 	{
 		"HeroId":1030,
@@ -1158,6 +1210,8 @@
 		"Difficulty":"Average",
 		"PriceGems":210,
 		"PriceGold":6000,
-		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/1030.webp"
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1030.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1030.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1030.webp"
 	}
 ]
