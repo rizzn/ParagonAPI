@@ -26,7 +26,7 @@
 		"Price":350,
 		"StartingItem":true,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30104000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30104000.webp"
 	},
 	{
 		"ItemId":30101001,
@@ -55,7 +55,7 @@
 		"Price":350,
 		"StartingItem":true,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30101001.webp"
 	},
 	{
 		"ItemId":30103000,
@@ -88,7 +88,7 @@
 		"Price":350,
 		"StartingItem":true,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30103000.webp"
 	},
 	{
 		"ItemId":30101006,
@@ -121,7 +121,7 @@
 		"Price":350,
 		"StartingItem":true,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101006.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30101006.webp"
 	},
 	{
 		"ItemId":30102000,
@@ -154,7 +154,7 @@
 		"Price":350,
 		"StartingItem":true,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30102000.webp"
 	},
 	{
 		"ItemId":30101000,
@@ -170,7 +170,7 @@
 		"Price":350,
 		"StartingItem":true,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30101000.webp"
 	},
 	{
 		"ItemId":30900001,
@@ -186,7 +186,7 @@
 		"Price":50,
 		"StartingItem":true,
 		"Type":"Stackable",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30900001.webp"
 	},
 	{
 		"ItemId":30900002,
@@ -202,7 +202,7 @@
 		"Price":50,
 		"StartingItem":true,
 		"Type":"Stackable",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30900002.webp"
 	},
 	{
 		"ItemId":30900004,
@@ -218,7 +218,7 @@
 		"Price":150,
 		"StartingItem":true,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30900004.webp"
 	},
 	{
 		"ItemId":30900005,
@@ -234,7 +234,7 @@
 		"Price":150,
 		"StartingItem":true,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30900005.webp"
 	},
 	{
 		"ItemId":30900003,
@@ -250,7 +250,7 @@
 		"Price":50,
 		"StartingItem":true,
 		"Type":"Stackable",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30900003.webp"
 	},
 	{
 		"ItemId":30900000,
@@ -266,7 +266,7 @@
 		"Price":50,
 		"StartingItem":true,
 		"Type":"Stackable",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30900000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30900000.webp"
 	},
 	{
 		"ItemId":30302003,
@@ -287,7 +287,7 @@
 		"Price":500,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302003.webp"
 	},
 	{
 		"ItemId":30302002,
@@ -308,7 +308,7 @@
 		"Price":275,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302002.webp"
 	},
 	{
 		"ItemId":30103006,
@@ -333,7 +333,7 @@
 		"Price":400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103006.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30103006.webp"
 	},
 	{
 		"ItemId":30102004,
@@ -354,7 +354,7 @@
 		"Price":350,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30102004.webp"
 	},
 	{
 		"ItemId":30103001,
@@ -375,7 +375,7 @@
 		"Price":235,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30103001.webp"
 	},
 	{
 		"ItemId":30102001,
@@ -396,7 +396,7 @@
 		"Price":250,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30102001.webp"
 	},
 	{
 		"ItemId":30102003,
@@ -417,7 +417,7 @@
 		"Price":350,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30102003.webp"
 	},
 	{
 		"ItemId":30101005,
@@ -438,7 +438,7 @@
 		"Price":800,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30101005.webp"
 	},
 	{
 		"ItemId":30103002,
@@ -459,7 +459,7 @@
 		"Price":275,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30103002.webp"
 	},
 	{
 		"ItemId":30103004,
@@ -480,7 +480,7 @@
 		"Price":250,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30103004.webp"
 	},
 	{
 		"ItemId":30101003,
@@ -501,7 +501,7 @@
 		"Price":250,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30101003.webp"
 	},
 	{
 		"ItemId":30101004,
@@ -522,7 +522,7 @@
 		"Price":675,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30101004.webp"
 	},
 	{
 		"ItemId":30102005,
@@ -543,7 +543,7 @@
 		"Price":825,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30102005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30102005.webp"
 	},
 	{
 		"ItemId":30101002,
@@ -564,7 +564,7 @@
 		"Price":200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30101002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30101002.webp"
 	},
 	{
 		"ItemId":30103005,
@@ -589,7 +589,7 @@
 		"Price":850,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30103005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30103005.webp"
 	},
 	{
 		"ItemId":30203002,
@@ -610,7 +610,7 @@
 		"Price":750,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203002.webp"
 	},
 	{
 		"ItemId":30201000,
@@ -635,7 +635,7 @@
 		"Price":850,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201000.webp"
 	},
 	{
 		"ItemId":30202008,
@@ -660,7 +660,7 @@
 		"Price":900,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202008.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202008.webp"
 	},
 	{
 		"ItemId":30202002,
@@ -685,7 +685,7 @@
 		"Price":1050,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202002.webp"
 	},
 	{
 		"ItemId":30202009,
@@ -706,7 +706,7 @@
 		"Price":900,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202009.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202009.webp"
 	},
 	{
 		"ItemId":30203006,
@@ -731,7 +731,7 @@
 		"Price":1550,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203006.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203006.webp"
 	},
 	{
 		"ItemId":30202003,
@@ -760,7 +760,7 @@
 		"Price":1250,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202003.webp"
 	},
 	{
 		"ItemId":30204004,
@@ -789,7 +789,7 @@
 		"Price":1250,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30204004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30204004.webp"
 	},
 	{
 		"ItemId":30201010,
@@ -818,7 +818,7 @@
 		"Price":1400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201010.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201010.webp"
 	},
 	{
 		"ItemId":30203010,
@@ -847,7 +847,7 @@
 		"Price":1400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203010.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203010.webp"
 	},
 	{
 		"ItemId":30201014,
@@ -880,7 +880,7 @@
 		"Price":1400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201014.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201014.webp"
 	},
 	{
 		"ItemId":30202006,
@@ -909,7 +909,7 @@
 		"Price":1400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202006.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202006.webp"
 	},
 	{
 		"ItemId":30201011,
@@ -930,7 +930,7 @@
 		"Price":900,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201011.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201011.webp"
 	},
 	{
 		"ItemId":30201001,
@@ -955,7 +955,7 @@
 		"Price":1000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201001.webp"
 	},
 	{
 		"ItemId":30203008,
@@ -984,7 +984,7 @@
 		"Price":1425,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203008.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203008.webp"
 	},
 	{
 		"ItemId":30203007,
@@ -1009,7 +1009,7 @@
 		"Price":1000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203007.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203007.webp"
 	},
 	{
 		"ItemId":30201005,
@@ -1030,7 +1030,7 @@
 		"Price":1200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201005.webp"
 	},
 	{
 		"ItemId":30203003,
@@ -1051,7 +1051,7 @@
 		"Price":1300,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203003.webp"
 	},
 	{
 		"ItemId":30203000,
@@ -1076,7 +1076,7 @@
 		"Price":750,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203000.webp"
 	},
 	{
 		"ItemId":30203001,
@@ -1097,7 +1097,7 @@
 		"Price":750,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203001.webp"
 	},
 	{
 		"ItemId":30202005,
@@ -1118,7 +1118,7 @@
 		"Price":600,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202005.webp"
 	},
 	{
 		"ItemId":30201012,
@@ -1139,7 +1139,7 @@
 		"Price":950,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201012.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201012.webp"
 	},
 	{
 		"ItemId":30202004,
@@ -1164,7 +1164,7 @@
 		"Price":800,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202004.webp"
 	},
 	{
 		"ItemId":30201007,
@@ -1185,7 +1185,7 @@
 		"Price":1000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201007.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201007.webp"
 	},
 	{
 		"ItemId":30202000,
@@ -1210,7 +1210,7 @@
 		"Price":700,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202000.webp"
 	},
 	{
 		"ItemId":30201003,
@@ -1235,7 +1235,7 @@
 		"Price":850,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201003.webp"
 	},
 	{
 		"ItemId":30203013,
@@ -1256,7 +1256,7 @@
 		"Price":600,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203013.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203013.webp"
 	},
 	{
 		"ItemId":30201009,
@@ -1281,7 +1281,7 @@
 		"Price":1200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201009.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201009.webp"
 	},
 	{
 		"ItemId":30201002,
@@ -1306,7 +1306,7 @@
 		"Price":1175,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201002.webp"
 	},
 	{
 		"ItemId":30201008,
@@ -1331,7 +1331,7 @@
 		"Price":1000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201008.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201008.webp"
 	},
 	{
 		"ItemId":30203004,
@@ -1352,7 +1352,7 @@
 		"Price":850,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203004.webp"
 	},
 	{
 		"ItemId":30202007,
@@ -1377,7 +1377,7 @@
 		"Price":1050,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202007.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202007.webp"
 	},
 	{
 		"ItemId":30203012,
@@ -1398,7 +1398,7 @@
 		"Price":825,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203012.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203012.webp"
 	},
 	{
 		"ItemId":30203011,
@@ -1419,7 +1419,7 @@
 		"Price":1000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203011.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203011.webp"
 	},
 	{
 		"ItemId":30202001,
@@ -1440,7 +1440,7 @@
 		"Price":1100,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30202001.webp"
 	},
 	{
 		"ItemId":30203009,
@@ -1465,7 +1465,7 @@
 		"Price":800,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203009.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203009.webp"
 	},
 	{
 		"ItemId":30203014,
@@ -1494,7 +1494,7 @@
 		"Price":1050,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203014.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203014.webp"
 	},
 	{
 		"ItemId":30201004,
@@ -1515,7 +1515,7 @@
 		"Price":750,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201004.webp"
 	},
 	{
 		"ItemId":30203005,
@@ -1540,7 +1540,7 @@
 		"Price":1100,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30203005.webp"
 	},
 	{
 		"ItemId":30201013,
@@ -1565,7 +1565,7 @@
 		"Price":900,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30201013.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30201013.webp"
 	},
 	{
 		"ItemId":30302003,
@@ -1594,7 +1594,7 @@
 		"Price":2950,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302003.webp"
 	},
 	{
 		"ItemId":30303008,
@@ -1623,7 +1623,7 @@
 		"Price":3000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303008.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303008.webp"
 	},
 	{
 		"ItemId":30302011,
@@ -1648,7 +1648,7 @@
 		"Price":2500,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302011.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302011.webp"
 	},
 	{
 		"ItemId":30303012,
@@ -1677,7 +1677,7 @@
 		"Price":2800,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303012.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303012.webp"
 	},
 	{
 		"ItemId":30303014,
@@ -1706,7 +1706,7 @@
 		"Price":2400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303014.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303014.webp"
 	},
 	{
 		"ItemId":30302001,
@@ -1735,7 +1735,7 @@
 		"Price":3400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302001.webp"
 	},
 	{
 		"ItemId":30301026,
@@ -1764,7 +1764,7 @@
 		"Price":3000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301026.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301026.webp"
 	},
 	{
 		"ItemId":30304004,
@@ -1797,7 +1797,7 @@
 		"Price":2300,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30304004.webp"
 	},
 	{
 		"ItemId":30301015,
@@ -1822,7 +1822,7 @@
 		"Price":2800,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301015.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301015.webp"
 	},
 	{
 		"ItemId":30304003,
@@ -1855,7 +1855,7 @@
 		"Price":2500,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30304003.webp"
 	},
 	{
 		"ItemId":30301023,
@@ -1884,7 +1884,7 @@
 		"Price":2800,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301023.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301023.webp"
 	},
 	{
 		"ItemId":30302021,
@@ -1913,7 +1913,7 @@
 		"Price":2900,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302021.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302021.webp"
 	},
 	{
 		"ItemId":30301003,
@@ -1942,7 +1942,7 @@
 		"Price":3100,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301003.webp"
 	},
 	{
 		"ItemId":30304005,
@@ -1971,7 +1971,7 @@
 		"Price":3200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30304005.webp"
 	},
 	{
 		"ItemId":30301013,
@@ -2000,7 +2000,7 @@
 		"Price":3200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301013.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301013.webp"
 	},
 	{
 		"ItemId":30303010,
@@ -2029,7 +2029,7 @@
 		"Price":3200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303010.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303010.webp"
 	},
 	{
 		"ItemId":30301008,
@@ -2062,7 +2062,7 @@
 		"Price":3200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301008.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301008.webp"
 	},
 	{
 		"ItemId":30302010,
@@ -2091,7 +2091,7 @@
 		"Price":3200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302010.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302010.webp"
 	},
 	{
 		"ItemId":30301014,
@@ -2116,7 +2116,7 @@
 		"Price":2600,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301014.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301014.webp"
 	},
 	{
 		"ItemId":30302006,
@@ -2141,7 +2141,7 @@
 		"Price":2700,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302006.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302006.webp"
 	},
 	{
 		"ItemId":30301010,
@@ -2166,7 +2166,7 @@
 		"Price":2000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301010.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301010.webp"
 	},
 	{
 		"ItemId":30302000,
@@ -2191,7 +2191,7 @@
 		"Price":3000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302000.webp"
 	},
 	{
 		"ItemId":30302017,
@@ -2216,7 +2216,7 @@
 		"Price":2400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302017.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302017.webp"
 	},
 	{
 		"ItemId":30303015,
@@ -2237,7 +2237,7 @@
 		"Price":2450,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303015.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303015.webp"
 	},
 	{
 		"ItemId":30301007,
@@ -2266,7 +2266,7 @@
 		"Price":3200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301007.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301007.webp"
 	},
 	{
 		"ItemId":30301027,
@@ -2295,7 +2295,7 @@
 		"Price":2600,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301027.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301027.webp"
 	},
 	{
 		"ItemId":30302008,
@@ -2324,7 +2324,7 @@
 		"Price":2850,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302008.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302008.webp"
 	},
 	{
 		"ItemId":30301018,
@@ -2353,7 +2353,7 @@
 		"Price":2900,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301018.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301018.webp"
 	},
 	{
 		"ItemId":30302007,
@@ -2386,7 +2386,7 @@
 		"Price":3100,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302007.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302007.webp"
 	},
 	{
 		"ItemId":30301011,
@@ -2415,7 +2415,7 @@
 		"Price":2550,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301011.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301011.webp"
 	},
 	{
 		"ItemId":30302013,
@@ -2440,7 +2440,7 @@
 		"Price":2700,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302013.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302013.webp"
 	},
 	{
 		"ItemId":30301016,
@@ -2469,7 +2469,7 @@
 		"Price":2750,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301016.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301016.webp"
 	},
 	{
 		"ItemId":30303004,
@@ -2498,7 +2498,7 @@
 		"Price":2375,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303004.webp"
 	},
 	{
 		"ItemId":30303001,
@@ -2527,7 +2527,7 @@
 		"Price":3000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303001.webp"
 	},
 	{
 		"ItemId":30304002,
@@ -2560,7 +2560,7 @@
 		"Price":2500,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30304002.webp"
 	},
 	{
 		"ItemId":30303007,
@@ -2589,7 +2589,7 @@
 		"Price":3200,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303007.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303007.webp"
 	},
 	{
 		"ItemId":30301006,
@@ -2618,7 +2618,7 @@
 		"Price":3100,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301006.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301006.webp"
 	},
 	{
 		"ItemId":30303006,
@@ -2647,7 +2647,7 @@
 		"Price":2750,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303006.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303006.webp"
 	},
 	{
 		"ItemId":30303013,
@@ -2672,7 +2672,7 @@
 		"Price":2550,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303013.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303013.webp"
 	},
 	{
 		"ItemId":30303005,
@@ -2701,7 +2701,7 @@
 		"Price":2600,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303005.webp"
 	},
 	{
 		"ItemId":30301005,
@@ -2730,7 +2730,7 @@
 		"Price":3100,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301005.webp"
 	},
 	{
 		"ItemId":30302004,
@@ -2759,7 +2759,7 @@
 		"Price":3500,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302004.webp"
 	},
 	{
 		"ItemId":30302019,
@@ -2784,7 +2784,7 @@
 		"Price":3250,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302019.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302019.webp"
 	},
 	{
 		"ItemId":30301020,
@@ -2809,7 +2809,7 @@
 		"Price":2800,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301020.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301020.webp"
 	},
 	{
 		"ItemId":30302002,
@@ -2834,7 +2834,7 @@
 		"Price":3100,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302002.webp"
 	},
 	{
 		"ItemId":30304000,
@@ -2867,7 +2867,7 @@
 		"Price":2700,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30304000.webp"
 	},
 	{
 		"ItemId":30302020,
@@ -2900,7 +2900,7 @@
 		"Price":2400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302020.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302020.webp"
 	},
 	{
 		"ItemId":30303021,
@@ -2933,7 +2933,7 @@
 		"Price":2900,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303021.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303021.webp"
 	},
 	{
 		"ItemId":30302005,
@@ -2954,7 +2954,7 @@
 		"Price":3800,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302005.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302005.webp"
 	},
 	{
 		"ItemId":30302012,
@@ -2979,7 +2979,7 @@
 		"Price":2550,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302012.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302012.webp"
 	},
 	{
 		"ItemId":30301019,
@@ -3004,7 +3004,7 @@
 		"Price":3100,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301019.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301019.webp"
 	},
 	{
 		"ItemId":30303003,
@@ -3029,7 +3029,7 @@
 		"Price":2500,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303003.webp"
 	},
 	{
 		"ItemId":30301000,
@@ -3058,7 +3058,7 @@
 		"Price":2400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301000.webp"
 	},
 	{
 		"ItemId":30301001,
@@ -3083,7 +3083,7 @@
 		"Price":2600,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301001.webp"
 	},
 	{
 		"ItemId":30301017,
@@ -3112,7 +3112,7 @@
 		"Price":2600,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301017.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301017.webp"
 	},
 	{
 		"ItemId":30302015,
@@ -3137,7 +3137,7 @@
 		"Price":2400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302015.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302015.webp"
 	},
 	{
 		"ItemId":30301021,
@@ -3166,7 +3166,7 @@
 		"Price":3000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301021.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301021.webp"
 	},
 	{
 		"ItemId":30303000,
@@ -3195,7 +3195,7 @@
 		"Price":3000,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303000.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303000.webp"
 	},
 	{
 		"ItemId":30303019,
@@ -3228,7 +3228,7 @@
 		"Price":2900,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303019.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303019.webp"
 	},
 	{
 		"ItemId":30303016,
@@ -3261,7 +3261,7 @@
 		"Price":3100,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303016.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303016.webp"
 	},
 	{
 		"ItemId":30301004,
@@ -3286,7 +3286,7 @@
 		"Price":3700,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301004.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301004.webp"
 	},
 	{
 		"ItemId":30301009,
@@ -3319,7 +3319,7 @@
 		"Price":2700,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30301009.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30301009.webp"
 	},
 	{
 		"ItemId":30304001,
@@ -3352,7 +3352,7 @@
 		"Price":2450,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30304001.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30304001.webp"
 	},
 	{
 		"ItemId":30302018,
@@ -3377,7 +3377,7 @@
 		"Price":2900,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302018.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302018.webp"
 	},
 	{
 		"ItemId":30302022,
@@ -3402,7 +3402,7 @@
 		"Price":2800,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302022.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302022.webp"
 	},
 	{
 		"ItemId":30302009,
@@ -3427,7 +3427,7 @@
 		"Price":3300,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30302009.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302009.webp"
 	},
 	{
 		"ItemId":30303011,
@@ -3460,7 +3460,7 @@
 		"Price":3300,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303011.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303011.webp"
 	},
 	{
 		"ItemId":30303002,
@@ -3489,6 +3489,6 @@
 		"Price":3400,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30303002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303002.webp"
 	}
 ]
