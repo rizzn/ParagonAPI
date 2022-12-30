@@ -709,7 +709,7 @@
 		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202009.webp"
 	},
 	{
-		"ItemId":30202009,
+		"ItemId":30203006,
 		"ChildItemId":[30302003,30103004],
 		"ItemName":"Carbon Alloy Vest",
 		"ItemDescription":{
@@ -731,7 +731,7 @@
 		"Price":1550,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30202009.webp"
+		"ItemURL":"https://cdn.paragonhub.net/assets/icons/items/30203006.webp"
 	},
 	{
 		"ItemId":30202003,
