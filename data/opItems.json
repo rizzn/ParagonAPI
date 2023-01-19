@@ -34,7 +34,7 @@
 		"ItemName":"Dekima Gemstone of Bravery I",
 		"ItemDescription":{
 			"Passive":"Recovers 5 Health upon defeating a T-on.",
-			"Active":"Teleports a short distance forward. (Cooldown: 300 sec)",
+			"Active":"Teleports a short distance forward. (300 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -63,7 +63,7 @@
 		"ItemName":"Dekima Gemstone of Fortitude I",
 		"ItemDescription":{
 			"Passive":"Grants a Shield that absorbs 50 Damage if the hero is out of combat for 6 sec.",
-			"Active":"Teleports a short distance forward. (Cooldown: 300 sec)",
+			"Active":"Teleports a short distance forward. (300 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -96,7 +96,7 @@
 		"ItemName":"Dekima Gemstone of Tailwinds I",
 		"ItemDescription":{
 			"Passive":"Recovers 5 Health upon defeating a T-on.",
-			"Active":"Charges a short distance forward. (Cooldown: 300 sec)",
+			"Active":"Charges a short distance forward. (300 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -129,7 +129,7 @@
 		"ItemName":"Dekima Gemstone of Vision I",
 		"ItemDescription":{
 			"Passive":"Recovers 7 Mana upon defeating a T-on.",
-			"Active":"Teleports a short distance forward. (Cooldown: 300 sec)",
+			"Active":"Teleports a short distance forward. (300 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -162,7 +162,7 @@
 		"ItemName":"Destroyer's Stone",
 		"ItemDescription":{
 			"Passive":"Landing a Basic Attack on a monster deals 30 True Damage and recovers 10% Health and 7 Mana. Additionally, when Magic Skills hit monsters, the damage is increased by 30%.",
-			"Active":"Using the skill on T-ons or monsters deals 350-1200 True Damage based on the hero's level. When used on monsters, the skill deals True Damage and recovers Health equal to 10% of Max Health and 100 additional Health. (Cooldown: 60 sec)",
+			"Active":"Using the skill on T-ons or monsters deals 350-1200 True Damage based on the hero's level. When used on monsters, the skill deals True Damage and recovers Health equal to 10% of Max Health and 100 additional Health. (60 sec)",
 			"Stats":false
 		},
 		"ItemTier":1,
@@ -340,7 +340,7 @@
 		"ChildItemId":false,
 		"ItemName":"Dekima Energy Reflux",
 		"ItemDescription":{
-			"Passive":"Increases the hero's Max Mana by 5 every time a skill deals Damage to an enemy. Max Mana can be increased up to 300. (Cooldown: 2 sec)",
+			"Passive":"Increases the hero's Max Mana by 5 every time a skill deals Damage to an enemy. Max Mana can be increased up to 300. (2 sec)",
 			"Active":false,
 			"Stats":[
 				{
@@ -797,7 +797,7 @@
 		"ItemName":"Dekima Gemstone of Bravery II",
 		"ItemDescription":{
 			"Passive":"Recovers 8 Health upon defeating a T-on.",
-			"Active":"Teleports a short distance forward. (Cooldown: 240 sec)",
+			"Active":"Teleports a short distance forward. (240 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -826,7 +826,7 @@
 		"ItemName":"Dekima Gemstone of Fortitude II",
 		"ItemDescription":{
 			"Passive":"Grants a Shield that absorbs 125 Damage if the hero is out of combat for 6 sec.",
-			"Active":"Teleports a short distance forward. (Cooldown: 240 sec)",
+			"Active":"Teleports a short distance forward. (240 sec)",
 			"Stats":[
 				{
 					"Description":"Health",
@@ -855,7 +855,7 @@
 		"ItemName":"Dekima Gemstone of Tailwinds II",
 		"ItemDescription":{
 			"Passive":"Recovers 8 Health upon defeating a T-on.",
-			"Active":"Charges a short distance forward. (Cooldown: 200 sec)",
+			"Active":"Charges a short distance forward. (200 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -888,7 +888,7 @@
 		"ItemName":"Dekima Gemstone of Vision II",
 		"ItemDescription":{
 			"Passive":"Recovers 10 Mana upon defeating a T-on.",
-			"Active":"Teleports a short distance forward. (Cooldown: 240 sec)",
+			"Active":"Teleports a short distance forward. (240 sec)",
 			"Stats":[
 				{
 					"Description":"Magical Power",
@@ -1038,7 +1038,7 @@
 		"ItemName":"Inquisitor's Prayer Beads",
 		"ItemDescription":{
 			"Passive":false,
-			"Active":"Removes all debuffs from the hero, except for the Airborne effect. (Cooldown: 80 sec)",
+			"Active":"Removes all debuffs from the hero, except for the Airborne effect. (80 sec)",
 			"Stats":[
 				{
 					"Description":"Magical Defense",
@@ -1126,7 +1126,7 @@
 		"ItemName":"Optinium Mace",
 		"ItemDescription":{
 			"Passive":false,
-			"Active":"A successful Basic Attack deals Bonus Physical Damage equal to 100% of Physical Power to nearby enemies. (Cooldown: 20 sec)",
+			"Active":"A successful Basic Attack deals Bonus Physical Damage equal to 100% of Physical Power to nearby enemies. (20 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -1314,7 +1314,7 @@
 		"ItemName":"Stone Breaker",
 		"ItemDescription":{
 			"Passive":"Landing a Basic Attack on a monster deals 40 True Damage and recovers Health equal to 10% of Damage and 10 Mana. Additionally, when Magic Skills hit monsters, the damage is increased by 40%.",
-			"Active":"Using the skill on T-ons or monsters deals 350-1200 True Damage based on the hero's level. When used on monsters, the skill deals True Damage and recovers Health equal to 10% of Max Health and 100 additional Health. Using the skill on an enemy hero steals 20% of their Movement Speed for 2 sec and deals 30 True Damage per sec for 3 sec. (Cooldown: 60 sec)",
+			"Active":"Using the skill on T-ons or monsters deals 350-1200 True Damage based on the hero's level. When used on monsters, the skill deals True Damage and recovers Health equal to 10% of Max Health and 100 additional Health. Using the skill on an enemy hero steals 20% of their Movement Speed for 2 sec and deals 30 True Damage per sec for 3 sec. (60 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -1602,7 +1602,7 @@
 		"ItemName":"Artificial Gravity Inductor",
 		"ItemDescription":{
 			"Passive":false,
-			"Active":"Decreases nearby enemies' Attack Speed by 30% and Physical Power by 20% for 3 sec. (Cooldown: 70 sec)",
+			"Active":"Decreases nearby enemies' Attack Speed by 30% and Physical Power by 20% for 3 sec. (70 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Defense",
@@ -1743,7 +1743,7 @@
 		"ItemName":"Bone Crasher",
 		"ItemDescription":{
 			"Passive":"Landing a Basic Attack on a monster deals 50 True Damage and recovers Health equal to 10% of Damage and 13 Mana. Additionally, when Magic Skills hit monsters, the damage is increased by 50%.",
-			"Active":"Using the item on T-ons or monsters deals 350-1200 True Damage based on the hero's level. When used on monsters, deals True Damage and recovers Health equal to 10% of Max Health and 100 additional Health. Using the item on an enemy hero steals 30% of their Movement Speed for 2 sec and deals 80 True Damage per sec for 3 sec. (Cooldown: 60 sec)",
+			"Active":"Using the item on T-ons or monsters deals 350-1200 True Damage based on the hero's level. When used on monsters, deals True Damage and recovers Health equal to 10% of Max Health and 100 additional Health. Using the item on an enemy hero steals 30% of their Movement Speed for 2 sec and deals 80 True Damage per sec for 3 sec. (60 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -1772,7 +1772,7 @@
 		"ItemName":"Broken Watch",
 		"ItemDescription":{
 			"Passive":false,
-			"Active":"Recovers 205-460 Health of nearby ally heroes and T-ons after 2.5 sec. (Cooldown: 80 sec)",
+			"Active":"Recovers 205-460 Health of nearby ally heroes and T-ons after 2.5 sec. (80 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Defense",
@@ -1863,7 +1863,7 @@
 		"ItemName":"Clawed Storm",
 		"ItemDescription":{
 			"Passive":false,
-			"Active":"Increases the hero's Movement Speed by 20% for 4 sec. (Cooldown: 40 sec)",
+			"Active":"Increases the hero's Movement Speed by 20% for 4 sec. (40 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -1979,7 +1979,7 @@
 		"ItemName":"Dekima Gemstone of Bravery III",
 		"ItemDescription":{
 			"Passive":"Recovers 11 Health upon defeating a T-on.",
-			"Active":"Teleports a short distance forward. (Cooldown: 180 sec)",
+			"Active":"Teleports a short distance forward. (180 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -2008,7 +2008,7 @@
 		"ItemName":"Dekima Gemstone of Fortitude III",
 		"ItemDescription":{
 			"Passive":"Grants a Shield that absorbs 200 Damage if the hero is out of combat for 6 sec.",
-			"Active":"Teleports a short distance forward. (Cooldown: 180 sec)",
+			"Active":"Teleports a short distance forward. (180 sec)",
 			"Stats":[
 				{
 					"Description":"Health",
@@ -2037,7 +2037,7 @@
 		"ItemName":"Dekima Gemstone of Tailwinds III",
 		"ItemDescription":{
 			"Passive":"Recovers 11 Health upon defeating a T-on.",
-			"Active":"Charges a short distance forward. (Cooldown: 100 sec)",
+			"Active":"Charges a short distance forward. (100 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -2070,7 +2070,7 @@
 		"ItemName":"Dekima Gemstone of Vision III",
 		"ItemDescription":{
 			"Passive":"Recovers 13 Mana upon defeating a T-on.",
-			"Active":"Teleports a short distance forward. (Cooldown: 100 sec)",
+			"Active":"Teleports a short distance forward. (100 sec)",
 			"Stats":[
 				{
 					"Description":"Magical Power",
@@ -2535,7 +2535,7 @@
 		"ItemName":"High Priest's Consolation",
 		"ItemDescription":{
 			"Passive":false,
-			"Active":"Recovers 180-350 Health and removes all debuffs for a selected ally. (Cooldown: 100 sec)",
+			"Active":"Recovers 180-350 Health and removes all debuffs for a selected ally. (100 sec)",
 			"Stats":[
 				{
 					"Description":"Magical Power",
@@ -2597,7 +2597,7 @@
 		"ItemName":"Holy Relic of Osyne",
 		"ItemDescription":{
 			"Passive":false,
-			"Active":"Removes all debuffs from the hero, except for the Airborne effect. Increases Movement Speed by 40% for 2 sec. (Cooldown: 80 sec)",
+			"Active":"Removes all debuffs from the hero, except for the Airborne effect. Increases Movement Speed by 40% for 2 sec. (80 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -2737,7 +2737,7 @@
 		"ChildItemId":[30202001,30203012,30202004],
 		"ItemName":"Margot's Stone",
 		"ItemDescription":{
-			"Passive":"A successful Basic Attack on an enemy decreases all skill cooldowns by 0.2 sec.",
+			"Passive":"Becomes Invincible and unable to take any actions for 2.5 sec. (100 sec)",
 			"Active":false,
 			"Stats":[
 				{
@@ -2842,7 +2842,7 @@
 		"ItemName":"Miter of the High Priest",
 		"ItemDescription":{
 			"Passive":"Increases Physical Defense by 8 and Magical Defense by 8 for nearby allies.",
-			"Active":"Grants a Shield that absorbs 190-360 Damage to nearby allies for 3 sec. (Cooldown: 80 sec)",
+			"Active":"Grants a Shield that absorbs 190-360 Damage to nearby allies for 3 sec. (80 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Defense",
@@ -2875,7 +2875,7 @@
 		"ItemName":"Mutant Po",
 		"ItemDescription":{
 			"Passive":false,
-			"Active":"Transforms a selected enemy hero into a Mutant for 2 sec. The transformed enemy hero can move but can't use any skills. (Cooldown: 100 sec)",
+			"Active":"Transforms a selected enemy hero into a Mutant for 2 sec. The transformed enemy hero can move but can't use any skills. (100 sec)",
 			"Stats":[
 				{
 					"Description":"Magical Power",
@@ -3087,7 +3087,7 @@
 		"ItemName":"Spirit's Fang",
 		"ItemDescription":{
 			"Passive":false,
-			"Active":"Deals Physical Damage equal to 150% of Physical Power to nearby enemies and Slows them by 30% for 2 sec. (Cooldown: 20 sec)",
+			"Active":"Deals Physical Damage equal to 150% of Physical Power to nearby enemies and Slows them by 30% for 2 sec. (20 sec)",
 			"Stats":[
 				{
 					"Description":"Physical Power",
@@ -3323,7 +3323,7 @@
 		"ItemName":"Victorious Footstep",
 		"ItemDescription":{
 			"Passive":"Increases Movement Speed by 5% for nearby allies.",
-			"Active":"Increases Movement Speed by 30% for the hero and ally heroes within range for 4.5 sec. (Cooldown: 70 sec)",
+			"Active":"Increases Movement Speed by 30% for the hero and ally heroes within range for 4.5 sec. (70 sec)",
 			"Stats":[
 				{
 					"Description":"Magical Power",
@@ -3463,7 +3463,7 @@
 		"ChildItemId":[30202009,30203004,30302003],
 		"ItemName":"Zinc's Claw Barrier",
 		"ItemDescription":{
-			"Passive":"Deals 34-51 Magical Damage every sec to all nearby enemies based on the hero's level. Damage is increased by 25% for T-ons and by 100% for monsters.",
+			"Passive":"Reflects 7% of all the hero's received Damage. Also decreases enemie's Healing by 30% for 3 sec, affecting both Regeneration and Recovery.",
 			"Active":false,
 			"Stats":[
 				{
