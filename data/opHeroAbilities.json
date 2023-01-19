@@ -4309,6 +4309,7 @@
 		"AbilityId":10360105,
 		"AbilityName":"100 Million Lights",
 		"AbilityDescription":{
+			"Description":"A successful Basic Attack on an enemy summons a Clone, who stays in the summoned area for 4 sec and deals 15% of Wukong's Physical Power as Physical Damage every attack. Wukong's clone has a Base Attack Speed of 1, which increases by 0.7 every time the skill level increases.",
 			"BaseValues":[
 				{
 					"Description":"Attack Speed",
