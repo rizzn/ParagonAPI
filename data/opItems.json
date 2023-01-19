@@ -2679,7 +2679,7 @@
 		"ChildItemId":[30203011,30203000],
 		"ItemName":"Mana Black Hole",
 		"ItemDescription":{
-			"Passive":"Decreases the hero's received Magical Damage by 20%.",
+			"Passive":"Decreases the hero's received Magical Damage by 15%.",
 			"Active":false,
 			"Stats":[
 				{
@@ -2907,7 +2907,7 @@
 		"ChildItemId":[30203011,30203000,30102003],
 		"ItemName":"Pendant of Confinement",
 		"ItemDescription":{
-			"Passive":"A successful Basic Attack on an enemy within 3 sec after using a skill Slows the enemy by 30% for 1.5 sec and deals 150 Bonus Magical Damage to all nearby enemies. (5 sec)",
+			"Passive":"A successful Basic Attack on an enemy within 3 sec after using a skill Slows the enemy by 30% for 1.5 sec and deals 120 Bonus Magical Damage to all nearby enemies. (Upon successful Ranged Basic Attack, Slows the enemy by 15% and deals 60 Magical Damage.) (10 sec)",
 			"Active":false,
 			"Stats":[
 				{
@@ -2919,18 +2919,14 @@
 					"Value":"300"
 				},
 				{
-					"Description":"Mana",
-					"Value":"350"
-				},
-				{
 					"Description":"Cooldown Reduction",
-					"Value":"15%"
+					"Value":"10%"
 				}
 			]
 		},
 		"ItemTier":4,
 		"ItemMaxQuant":1,
-		"Price":2900,
+		"Price":2800,
 		"StartingItem":false,
 		"Type":"Item",
 		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30303021.webp"
@@ -3202,7 +3198,7 @@
 		"ChildItemId":[30203014,30203002,30103006],
 		"ItemName":"Sweet Life",
 		"ItemDescription":{
-			"Passive":"Killing an enemy hero or assisting in a kill recovers 2.5% of Max Health and 2.5% of Max Mana for 5 sec. The Recovery effect is activated once in 5 sec, even if multiple enemy heroes are defeated within 5 sec.",
+			"Passive":"Killing an enemy hero or assisting in a kill recovers 2.5% of Max Health and 2.5% of Max Mana for 5 sec. The Recovery effect is activated once in 5 sec, even if multiple enemy heroes are defeated within 20 sec.",
 			"Active":false,
 			"Stats":[
 				{
@@ -3211,7 +3207,7 @@
 				},
 				{
 					"Description":"Health",
-					"Value":"600"
+					"Value":"500"
 				},
 				{
 					"Description":"Mana",
