@@ -173,7 +173,7 @@
 			"Abilities":[10310103,10310104,10310105,10310101,10310102]
 		},
 		"RoleId":6,
-		"PositionId":4,
+		"PositionId":2,
 		"Traits":[12,2,5,1],
 		"Difficulty":"Average",
 		"PriceGems":70,
@@ -1236,9 +1236,55 @@
 		"Difficulty":"Average",
 		"PriceGems":210,
 		"PriceGold":6000,
-		"Latest":true,
+		"Latest":false,
 		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1030.webp",
 		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1030.webp",
 		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1030.webp"
+	},
+	{
+		"HeroId":1036,
+		"HeroName":"Wukong",
+		"HeroTitle":"Cool Guy",
+		"HeroDescription":{
+			"Lore":"Wukong was born a 'Laros', a sage from the planet Etanus, but raised amongst the Huahn. He became best friends with Feng Mao, who grew up to be an elder of the Huahn. He is bright and positive and likes to pull pranks and socialize. He seeks to recover Feng Mao's lost memories of their childhood together and to find the ancient Huahn text, 'The Book of Huahn'.",
+			"Specification":"Wukong and Feng Mao used to be travelling companions. When Sun Wukong became too annoying, Feng trapped him in a cave and left. 100 years later, Sun Wukong is free and on his way to Agora to resume annoying Feng Mao. Wukong is a deadly and elusive melee carry, capable of farming faster than any other hero.",
+			"Stats":[
+				{
+					"Description":"Physical Power",
+					"Value":"100"
+				},
+				{
+					"Description":"Magical Power",
+					"Value":"0"
+				},
+				{
+					"Description":"Attack Speed",
+					"Value":"50"
+				},
+				{
+					"Description":"Health",
+					"Value":"70"
+				},
+				{
+					"Description":"Physical Defense",
+					"Value":"65"
+				},
+				{
+					"Description":"Magical Defense",
+					"Value":"60"
+				}
+			],
+			"Abilities":[10360103,10360104,10360105,10360101,10360102]
+		},
+		"RoleId":1,
+		"PositionId":1,
+		"Traits":[13,3,1,7,5],
+		"Difficulty":"Easy",
+		"PriceGems":70,
+		"PriceGold":2000,
+		"Latest":true,
+		"BannerUrl":"https://cdn.paragonhub.net/assets/icons/heroes/banners/1036.webp",
+		"CardUrl":"https://cdn.paragonhub.net/assets/icons/heroes/cards/1036.webp",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/heroes/avatars/1036.webp"
 	}
 ]

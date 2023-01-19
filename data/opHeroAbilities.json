@@ -283,8 +283,18 @@
 		"AbilityName":"Suppress",
 		"AbilityDescription":{
 			"Description":"Throws a pulse bomb at an area, dealing 118(100+85%) Magical Damage to enemies within range. Recovers 5 Mana per enemy hit.",
-			"BaseValues":false,
-			"Scaling":false,
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"80/130/180/230/280"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
 			"Misc":[
 				{
 					"Description":"Mana Costs",
@@ -342,7 +352,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"115/165/215/265/315"
+					"Value":"95/140/185/230/275"
 				}
 			],
 			"Scaling":[
@@ -375,7 +385,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"350/450/550"
+					"Value":"300/375/450"
 				}
 			],
 			"Scaling":[
@@ -432,7 +442,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"80/125/170/215/260"
+					"Value":"70/100/130/160/190"
 				}
 			],
 			"Scaling":[
@@ -772,13 +782,13 @@
 	},
 	{
 		"AbilityId":10260103,
-		"AbilityName":"Obsessive Bombs",
+		"AbilityName":"Obsessive Bomb",
 		"AbilityDescription":{
 			"Description":"Fires Obsessive Bombs that stick to all targets. Obsessive Bombs explode after 2.5 sec, dealing 135(120+65%) Magical Damage to all enemies within range.",
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"120/190/260/330/400"
+					"Value":"70/120/180/240/300"
 				}
 			],
 			"Scaling":[
@@ -848,7 +858,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"400/570/740"
+					"Value":"250/350/450"
 				}
 			],
 			"Scaling":[
@@ -942,7 +952,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"110/160/210/260/310"
+					"Value":"95/135/175/215/255"
 				}
 			],
 			"Scaling":[
@@ -1248,7 +1258,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"120/190/260/330/400"
+					"Value":"85/125/175/225/275"
 				}
 			],
 			"Scaling":[
@@ -1313,18 +1323,22 @@
 			"Description":"Soars up in the air and mercilessly rains missiles on a selected location for 2.8 sec, dealing 480(455+130%) Magical Damage to all enemies within range. The last missile explosion deals 50% Bonus Magical Damage.",
 			"BaseValues":[
 				{
-					"Description":"Damage",
-					"Value":"455/650/845"
+					"Description":"Damage / Hit",
+					"Value":"25/35/45"
 				},
 				{
-					"Description":"Bonus Damage",
-					"Value":"50%"
+					"Description":"Last Hit damage",
+					"Value":"200/275/350"
 				}
 			],
 			"Scaling":[
 				{
-					"Description":"Damage",
-					"Value":"130%"
+					"Description":"Damage / Hit",
+					"Value":"10%"
+				},
+				{
+					"Description":"Last Hit Damage",
+					"Value":"150%"
 				}
 			],
 			"Misc":[
@@ -2043,7 +2057,7 @@
 			"BaseValues":[
 				{
 					"Description":"Shield",
-					"Value":"80/110/140/170/200"
+					"Value":"70/90/120/150/180"
 				},
 				{
 					"Description":"Bonus Damage",
@@ -2149,7 +2163,7 @@
 			"BaseValues":[
 				{
 					"Description":"Shield",
-					"Value":"100/140/180/220/260"
+					"Value":"90/125/160/195/230"
 				}
 			],
 			"Scaling":[
@@ -2173,7 +2187,7 @@
 				},
 				{
 					"Description":"Duration",
-					"Value":"3/3.25/3.5/3.75/4"
+					"Value":"2/2.25/2.5/2.75/3"
 				}
 			]
 		},
@@ -2378,7 +2392,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"10/14/18/22/26"
+					"Value":"8/11/14/17/20"
 				}
 			],
 			"Scaling":[
@@ -2505,7 +2519,7 @@
 		"AbilityId":10040103,
 		"AbilityName":"Savage Heave",
 		"AbilityDescription":{
-			"Description":"Pulls a boulder out of the ground. Stunning the hit enemy for 2 sec and dealing 103(100+50%) Magical Damage.",
+			"Description":"Pulls a boulder out of the ground. Stunning the hit enemy for 1.5 sec and dealing 103(100+50%) Magical Damage.",
 			"BaseValues":[
 				{
 					"Description":"Damage",
@@ -3156,7 +3170,11 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"20/30/40/50/60"
+					"Value":"15/21.25/27.5/33.75/40"
+				},
+				{
+					"Description":"Recovery",
+					"Value":"3/5/7.5/10/12.5%"
 				}
 			],
 			"Scaling":[
@@ -3601,7 +3619,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"45/60/75/90/105"
+					"Value":"30/40/50/60/70"
 				}
 			],
 			"Scaling":[
@@ -3671,7 +3689,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"320/410/500"
+					"Value":"220/300/380"
 				}
 			],
 			"Scaling":[
@@ -3728,7 +3746,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"40/48/56/64/72"
+					"Value":"35/40/45/50/55"
 				},
 				{
 					"Description":"Bonus Damage",
@@ -4017,7 +4035,7 @@
 			"BaseValues":[
 				{
 					"Description":"Damage",
-					"Value":"80/140/200/260/320"
+					"Value":"60/105/150/195/240"
 				}
 			],
 			"Scaling":[
@@ -4132,7 +4150,7 @@
 				},
 				{
 					"Description":"Bonus Damage",
-					"Value":"100/200/300"
+					"Value":"80/160/240"
 				}
 			],
 			"Scaling":[
@@ -4221,5 +4239,75 @@
 		"DefaultKey":"RMB",
 		"YoutubeId":"mM0yIH4PIcs",
 		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10300102.webp"
+	},
+	{
+		"AbilityId":10360103,
+		"AbilityName":"Cloud",
+		"AbilityDescription":{
+			"Description":"Can leap by pressing the jump key while mid-air. After learning Change Stance, different landing actions and bonus effects are available depending on stance.\n\nStrike:\nStrikes the enemy with the staff upon landing, Slowing them by 30% for 2 sec and dealing 115(60+80%) Physical Damage.\n\nNimble:\nCan walk in the air while leaping, increasing Movement Speed by 20% for 4 sec.",
+			"BaseValues":[],
+			"Scaling":[],
+			"Misc":[]
+		},
+		"HeroId":1036,
+		"DefaultKey":"Q",
+		"YoutubeId":"GE1QyGUEWgw",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10360103.webp"
+	},
+	{
+		"AbilityId":10360104,
+		"AbilityName":"Change Stance",
+		"AbilityDescription":{
+			"Description":"Can change Stance to Strike or Nimble. Bonus effects change for each stance.\n\nPassive: 25% chance to leave Mihu's Mark on all T-ons or Normal monsters. Mihu's Mark is continuously applied to all monsters that are created.\n\nBonus Effects\nStrike:\nGrans 10 bonus Gold if a monster bearing Mihu's Mark is killed.\n\nNimble:\nRecovers 45 Health if a monster bearing Mihu's Mark is killed.",
+			"BaseValues":[],
+			"Scaling":[],
+			"Misc":[]
+		},
+		"HeroId":1036,
+		"DefaultKey":"E",
+		"YoutubeId":"EBR_FXWFU60",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10360104.webp"
+	},
+	{
+		"AbilityId":10360105,
+		"AbilityName":"100 Million Lights",
+		"AbilityDescription":{
+			"Description":"A successful Basic Attack on an enemy summons a Clone, who stays in the summoned area for 4 sec and deals 15% of Wukong's Physical Power as Physical Damage every attack. Wukong's clone has a Base Attack Speed of 1, which increases by 0.7 every time the skill level increases.",
+			"BaseValues":[],
+			"Scaling":[],
+			"Misc":[]
+		},
+		"HeroId":1036,
+		"DefaultKey":"R",
+		"YoutubeId":"WiAOdgXE1tc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10360105.webp"
+	},
+	{
+		"AbilityId":10360101,
+		"AbilityName":"Staff of Mihu",
+		"AbilityDescription":{
+			"Description":"Swings the Staff of Mihu to deal 88 Physical Damage to enemies.",
+			"BaseValues":[],
+			"Scaling":[],
+			"Misc":[]
+		},
+		"HeroId":1036,
+		"DefaultKey":"LMB",
+		"YoutubeId":"obsPQ-ltGdc",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10360101.webp"
+	},
+	{
+		"AbilityId":10360102,
+		"AbilityName":"Two Birds, One Stone",
+		"AbilityDescription":{
+			"Description":"Extends the Staff of Mihu. After learning Change Stance, different landing actions and bonus effects are available depending on stance.\n\nStrike:\nPushes away an enemy hit by the staff and Stuns them for 1 sec, dealing 105(60+65%) Physical Damage.\n\nNimble:\nPlunges the extended staff into the ground and leaps towards the direction faced.",
+			"BaseValues":[],
+			"Scaling":[],
+			"Misc":[]
+		},
+		"HeroId":1036,
+		"DefaultKey":"RMB",
+		"YoutubeId":"Uxlj6hBobsY",
+		"IconUrl":"https://cdn.paragonhub.net/assets/icons/abilities/10360102.webp"
 	}
 ]
