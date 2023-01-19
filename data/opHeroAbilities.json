@@ -4245,9 +4245,32 @@
 		"AbilityName":"Cloud",
 		"AbilityDescription":{
 			"Description":"Can leap by pressing the jump key while mid-air. After learning Change Stance, different landing actions and bonus effects are available depending on stance.\n\nStrike:\nStrikes the enemy with the staff upon landing, Slowing them by 30% for 2 sec and dealing 115(60+80%) Physical Damage.\n\nNimble:\nCan walk in the air while leaping, increasing Movement Speed by 20% for 4 sec.",
-			"BaseValues":[],
-			"Scaling":[],
-			"Misc":[]
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/100/140/180/220"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"80%"
+				},
+				{
+					"Description":"Movement Speed",
+					"Value":"20/25/30/35/40%"
+				},
+				{
+					"Description":"Slow",
+					"Value":"30%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"12/11/10/9/8s"
+				}
+			]
 		},
 		"HeroId":1036,
 		"DefaultKey":"Q",
@@ -4259,9 +4282,23 @@
 		"AbilityName":"Change Stance",
 		"AbilityDescription":{
 			"Description":"Can change Stance to Strike or Nimble. Bonus effects change for each stance.\n\nPassive: 25% chance to leave Mihu's Mark on all T-ons or Normal monsters. Mihu's Mark is continuously applied to all monsters that are created.\n\nBonus Effects\nStrike:\nGrans 10 bonus Gold if a monster bearing Mihu's Mark is killed.\n\nNimble:\nRecovers 45 Health if a monster bearing Mihu's Mark is killed.",
-			"BaseValues":[],
-			"Scaling":[],
-			"Misc":[]
+			"BaseValues":[
+				{
+					"Description":"Bonus Gold",
+					"Value":"10/14/18/22/26"
+				},
+				{
+					"Description":"Heal",
+					"Value":"45/60/75/90/105"
+				}
+			],
+			"Scaling":false,
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"1"
+				}
+			]
 		},
 		"HeroId":1036,
 		"DefaultKey":"E",
@@ -4272,10 +4309,19 @@
 		"AbilityId":10360105,
 		"AbilityName":"100 Million Lights",
 		"AbilityDescription":{
-			"Description":"A successful Basic Attack on an enemy summons a Clone, who stays in the summoned area for 4 sec and deals 15% of Wukong's Physical Power as Physical Damage every attack. Wukong's clone has a Base Attack Speed of 1, which increases by 0.7 every time the skill level increases.",
-			"BaseValues":[],
-			"Scaling":[],
-			"Misc":[]
+			"BaseValues":[
+				{
+					"Description":"Attack Speed",
+					"Value":"1/1.7/2.4"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"15/20/25%"
+				}
+			],
+			"Misc":false
 		},
 		"HeroId":1036,
 		"DefaultKey":"R",
@@ -4287,9 +4333,19 @@
 		"AbilityName":"Staff of Mihu",
 		"AbilityDescription":{
 			"Description":"Swings the Staff of Mihu to deal 88 Physical Damage to enemies.",
-			"BaseValues":[],
-			"Scaling":[],
-			"Misc":[]
+			"BaseValues":false,
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"100%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Cooldown",
+					"Value":"Attack Speed/s"
+				}
+			]
 		},
 		"HeroId":1036,
 		"DefaultKey":"LMB",
@@ -4301,9 +4357,28 @@
 		"AbilityName":"Two Birds, One Stone",
 		"AbilityDescription":{
 			"Description":"Extends the Staff of Mihu. After learning Change Stance, different landing actions and bonus effects are available depending on stance.\n\nStrike:\nPushes away an enemy hit by the staff and Stuns them for 1 sec, dealing 105(60+65%) Physical Damage.\n\nNimble:\nPlunges the extended staff into the ground and leaps towards the direction faced.",
-			"BaseValues":[],
-			"Scaling":[],
-			"Misc":[]
+			"BaseValues":[
+				{
+					"Description":"Damage",
+					"Value":"60/85/110/135/155"
+				}
+			],
+			"Scaling":[
+				{
+					"Description":"Damage",
+					"Value":"65%"
+				}
+			],
+			"Misc":[
+				{
+					"Description":"Mana Costs",
+					"Value":"90"
+				},
+				{
+					"Description":"Cooldown",
+					"Value":"14/13/12/11/10s"
+				}
+			]
 		},
 		"HeroId":1036,
 		"DefaultKey":"RMB",
