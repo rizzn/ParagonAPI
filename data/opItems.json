@@ -959,7 +959,7 @@
 	},
 	{
 		"ItemId":30203008,
-		"ChildItemId":[30103002,30302003],
+		"ChildItemId":[30103002,30103003],
 		"ItemName":"Enhanced Exoskeleton",
 		"ItemDescription":{
 			"Passive":false,
