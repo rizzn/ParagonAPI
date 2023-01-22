@@ -269,7 +269,7 @@
 		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30900000.webp"
 	},
 	{
-		"ItemId":30302003,
+		"ItemId":30103003,
 		"ChildItemId":false,
 		"ItemName":"Black Sea Stone Bracelet",
 		"ItemDescription":{
@@ -287,10 +287,10 @@
 		"Price":500,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302003.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30103003.webp"
 	},
 	{
-		"ItemId":30302002,
+		"ItemId":30102002,
 		"ChildItemId":false,
 		"ItemName":"Branch of the World Tree",
 		"ItemDescription":{
@@ -308,7 +308,7 @@
 		"Price":275,
 		"StartingItem":false,
 		"Type":"Item",
-		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30302002.webp"
+		"ItemUrl":"https://cdn.paragonhub.net/assets/icons/items/30102002.webp"
 	},
 	{
 		"ItemId":30103006,
@@ -639,7 +639,7 @@
 	},
 	{
 		"ItemId":30202008,
-		"ChildItemId":[30302002,30302003],
+		"ChildItemId":[30102002,30103003],
 		"ItemName":"Apprentice's Hat",
 		"ItemDescription":{
 			"Passive":false,
@@ -664,7 +664,7 @@
 	},
 	{
 		"ItemId":30202002,
-		"ChildItemId":[30302003,30103004],
+		"ChildItemId":[30102002,30103004],
 		"ItemName":"Azsha's Journal",
 		"ItemDescription":{
 			"Passive":false,
@@ -689,7 +689,7 @@
 	},
 	{
 		"ItemId":30202009,
-		"ChildItemId":[30302002,30302002],
+		"ChildItemId":[30102002,30102002],
 		"ItemName":"Bleeding Epaulet",
 		"ItemDescription":{
 			"Passive":"Deals 35-120 Bonus Magical Damage every time Damage is dealt to an enemy hero. Damage increases based on the hero's level. (10 sec)",
@@ -710,7 +710,7 @@
 	},
 	{
 		"ItemId":30203006,
-		"ChildItemId":[30302003,30103004],
+		"ChildItemId":[30103003,30103004],
 		"ItemName":"Carbon Alloy Vest",
 		"ItemDescription":{
 			"Passive":false,
@@ -735,7 +735,7 @@
 	},
 	{
 		"ItemId":30202003,
-		"ChildItemId":[30302002,30103004],
+		"ChildItemId":[30102002,30103004],
 		"ItemName":"Dark Magic Textbook",
 		"ItemDescription":{
 			"Passive":false,
@@ -764,7 +764,7 @@
 	},
 	{
 		"ItemId":30204004,
-		"ChildItemId":[30104000,30302002,30103004],
+		"ChildItemId":[30104000,30102002,30103004],
 		"ItemName":"Dekima Gemstone of Abundance II",
 		"ItemDescription":{
 			"Passive":"Obtains 5 Gold every 10 sec. Increases the amount of Gold obtained to 8 if the hero is out of combat for 6 sec, and grants 5 Bonus Gold for each retreating enemy T-on that dies within range.",
@@ -884,7 +884,7 @@
 	},
 	{
 		"ItemId":30202006,
-		"ChildItemId":[30102000,30302002,30302002],
+		"ChildItemId":[30102000,30102002,30102002],
 		"ItemName":"Dekima Gemstone of Vision II",
 		"ItemDescription":{
 			"Passive":"Recovers 10 Mana upon defeating a T-on.",
@@ -988,7 +988,7 @@
 	},
 	{
 		"ItemId":30203007,
-		"ChildItemId":[30302003],
+		"ChildItemId":30103003,
 		"ItemName":"Feather of Protection",
 		"ItemDescription":{
 			"Passive":false,
@@ -1034,7 +1034,7 @@
 	},
 	{
 		"ItemId":30203003,
-		"ChildItemId":30302003,
+		"ChildItemId":30103003,
 		"ItemName":"Inquisitor's Prayer Beads",
 		"ItemDescription":{
 			"Passive":false,
@@ -1101,7 +1101,7 @@
 	},
 	{
 		"ItemId":30202005,
-		"ChildItemId":30302002,
+		"ChildItemId":30102002,
 		"ItemName":"Nightmare",
 		"ItemDescription":{
 			"Passive":"Dealing Magical Damage to an enemy hero decreases the enemy hero's Healing by 25% for 4 sec each time, affecting both Regeneration and Recovery.",
@@ -1143,7 +1143,7 @@
 	},
 	{
 		"ItemId":30202004,
-		"ChildItemId":30302002,
+		"ChildItemId":30102002,
 		"ItemName":"Orb of Harmony",
 		"ItemDescription":{
 			"Passive":false,
@@ -1189,7 +1189,7 @@
 	},
 	{
 		"ItemId":30202000,
-		"ChildItemId":30302002,
+		"ChildItemId":30102002,
 		"ItemName":"Puncturing Sphere",
 		"ItemDescription":{
 			"Passive":false,
@@ -1310,7 +1310,7 @@
 	},
 	{
 		"ItemId":30201008,
-		"ChildItemId":[30101000,30101002,30302002],
+		"ChildItemId":[30101000,30101002,30102002],
 		"ItemName":"Stone Breaker",
 		"ItemDescription":{
 			"Passive":"Landing a Basic Attack on a monster deals 40 True Damage and recovers Health equal to 10% of Damage and 10 Mana. Additionally, when Magic Skills hit monsters, the damage is increased by 40%.",
@@ -1356,7 +1356,7 @@
 	},
 	{
 		"ItemId":30202007,
-		"ChildItemId":30302002,
+		"ChildItemId":30102002,
 		"ItemName":"Tarlia's Branch",
 		"ItemDescription":{
 			"Passive":false,
@@ -1402,7 +1402,7 @@
 	},
 	{
 		"ItemId":30203011,
-		"ChildItemId":30302003,
+		"ChildItemId":30103003,
 		"ItemName":"Tattoo of Resistance",
 		"ItemDescription":{
 			"Passive":false,
@@ -1519,7 +1519,7 @@
 	},
 	{
 		"ItemId":30203005,
-		"ChildItemId":[30103004,30302003],
+		"ChildItemId":[30103004,30103003],
 		"ItemName":"World Tree Breastplate",
 		"ItemDescription":{
 			"Passive":"Recovers 10 Health per sec for 3 sec when the hero receives Damage from an enemy hero. (7 sec)",
@@ -1569,7 +1569,7 @@
 	},
 	{
 		"ItemId":30302003,
-		"ChildItemId":[30202003,30102005,30202007],
+		"ChildItemId":[30202003,30102005,30102002],
 		"ItemName":"Archon Gospel",
 		"ItemDescription":{
 			"Passive":"Increases Vamp by 5% for Magical Damage for 10 sec every time a skill deals Damage to an enemy. The Increase effect stacks up to 3 times.",
@@ -1627,7 +1627,7 @@
 	},
 	{
 		"ItemId":30302011,
-		"ChildItemId":[30102005,30201004,30302002],
+		"ChildItemId":[30102005,30201004,30102002],
 		"ItemName":"Bells of Purification",
 		"ItemDescription":{
 			"Passive":"Decreases the target's Magical Defense by 8% for 3 sec every time a Basic Attack deals Damage to an enemy hero. The effect stacks up to 3 times.",
@@ -1652,7 +1652,7 @@
 	},
 	{
 		"ItemId":30303012,
-		"ChildItemId":[30203008,30302003,30103002],
+		"ChildItemId":[30203008,30103003,30103002],
 		"ItemName":"Berserker's Helm",
 		"ItemDescription":{
 			"Passive":"Decreases the attackers' Attack Speed by 4% and Slows them by 4% for 2 sec every time the hero receives Damage from a Basic Attack. The effect stacks up to 5 times.",
@@ -1946,7 +1946,7 @@
 	},
 	{
 		"ItemId":30304005,
-		"ChildItemId":[30204004,30102003,30302002],
+		"ChildItemId":[30204004,30102003,30102002],
 		"ItemName":"Dekima Gemstone of Abundance III",
 		"ItemDescription":{
 			"Passive":"Obtains 7 Gold every 10 sec. Increases Gold obtained to 10 Gold if the hero is out of combat for 6 sec, and grants 8 Bonus Gold for each retreating enemy T-on that dies within range.",
@@ -2120,7 +2120,7 @@
 	},
 	{
 		"ItemId":30302006,
-		"ChildItemId":[30202001,30102004,30302002],
+		"ChildItemId":[30202001,30102004,30102002],
 		"ItemName":"Ekidna's Trick",
 		"ItemDescription":{
 			"Passive":"Increases Magical Power equal to 2.5% of Max Mana. Shares the stack effect with Dekima Energy Reflux.",
@@ -2170,7 +2170,7 @@
 	},
 	{
 		"ItemId":30302000,
-		"ChildItemId":[30202007,30102005,30302002],
+		"ChildItemId":[30202007,30102005,30102002],
 		"ItemName":"Elkima Blaster",
 		"ItemDescription":{
 			"Passive":false,
@@ -2195,7 +2195,7 @@
 	},
 	{
 		"ItemId":30302017,
-		"ChildItemId":[30202001,30201004,30302002],
+		"ChildItemId":[30202001,30201004,30102002],
 		"ItemName":"Embodiment of Vengeance",
 		"ItemDescription":{
 			"Passive":"A successful Basic Attack on an enemy deals Magical Damage equal to 20% of Magical Power and 10 Bonus Magical Damage.",
@@ -2419,7 +2419,7 @@
 	},
 	{
 		"ItemId":30302013,
-		"ChildItemId":[30202001,30202004,30302002],
+		"ChildItemId":[30202001,30202004,30102002],
 		"ItemName":"Gloves of Jealousy",
 		"ItemDescription":{
 			"Passive":"Dealing Damage with a Basic Attack within 6 sec of using a skill deals Bonus Magical Damage equal to 75% of Magical Power to the enemy. (4 sec)",
@@ -2531,7 +2531,7 @@
 	},
 	{
 		"ItemId":30304002,
-		"ChildItemId":[30202004,30302003,30102001],
+		"ChildItemId":[30202004,30103003,30102001],
 		"ItemName":"High Priest's Consolation",
 		"ItemDescription":{
 			"Passive":false,
@@ -2565,7 +2565,7 @@
 	{
 		"ItemId":30303007,
 		"ChildItemId":[30203001,30203009,30103002],
-		"ItemName":"High-end Armor",
+		"ItemName":"High End Armor",
 		"ItemDescription":{
 			"Passive":"Decreases received Damage from enemies' Basic Attacks and Physical Skills by 12%.",
 			"Active":false,
@@ -2904,7 +2904,7 @@
 	},
 	{
 		"ItemId":30303021,
-		"ChildItemId":[30203011,30203000,30102003],
+		"ChildItemId":[30203011,30203000],
 		"ItemName":"Pendant of Confinement",
 		"ItemDescription":{
 			"Passive":"A successful Basic Attack on an enemy within 3 sec after using a skill Slows the enemy by 30% for 1.5 sec and deals 120 Bonus Magical Damage to all nearby enemies. (Upon successful Ranged Basic Attack, Slows the enemy by 15% and deals 60 Magical Damage.) (10 sec)",
@@ -2954,7 +2954,7 @@
 	},
 	{
 		"ItemId":30302012,
-		"ChildItemId":[30202002,30202005,30302002],
+		"ChildItemId":[30202002,30202005,30102002],
 		"ItemName":"Sage's Whip",
 		"ItemDescription":{
 			"Passive":"Dealing Magical Damage to an enemy hero decreases the enemy hero's Healing by 40% for 4 sec each time, affecting both Regeneration and Recovery.",
@@ -3112,7 +3112,7 @@
 	},
 	{
 		"ItemId":30302015,
-		"ChildItemId":[30202002,30102005,30302002],
+		"ChildItemId":[30202002,30102005,30102002],
 		"ItemName":"Spirit's Teardrop",
 		"ItemDescription":{
 			"Passive":"Every Damage-dealing skill attack on an enemy hero deals 10 Magical Damage + 2.5% of Magical Power + Bonus Magical Damage equal to 2% of the target's Max Health every sec for 3 sec.",
@@ -3166,7 +3166,7 @@
 	},
 	{
 		"ItemId":30303000,
-		"ChildItemId":[30202009,30203000,30302003],
+		"ChildItemId":[30203006,30203000,30103003],
 		"ItemName":"Swamp Cloak",
 		"ItemDescription":{
 			"Passive":"Slows nearby enemy heroes by 15%.",
@@ -3228,7 +3228,7 @@
 	},
 	{
 		"ItemId":30303016,
-		"ChildItemId":[30203005,30203009,30302003],
+		"ChildItemId":[30203005,30203009,30103003],
 		"ItemName":"Trea's Band",
 		"ItemDescription":{
 			"Passive":"Increases all Health Recovery and Shield effects granted to the hero by 30%.",
@@ -3352,7 +3352,7 @@
 	},
 	{
 		"ItemId":30302018,
-		"ChildItemId":[30202001,30202000,30302002],
+		"ChildItemId":[30202001,30202000,30102002],
 		"ItemName":"Vitality Lenses",
 		"ItemDescription":{
 			"Passive":"A successful skill hit on an enemy hero increases the hero's Magical Penetration by 20 after 2 sec. The effect lasts for 2 sec. (15 sec)",
@@ -3377,7 +3377,7 @@
 	},
 	{
 		"ItemId":30302022,
-		"ChildItemId":[30202001,30202009,30302002],
+		"ChildItemId":[30202001,30202009,30102002],
 		"ItemName":"Witch's Shoes",
 		"ItemDescription":{
 			"Passive":"Deals Magical Damage equal to 20% of Magical Power and 120 Bonus Magical Damage every time a skill deals Damage to an enemy hero. Increases the hero's Movement Speed by 20% for 1.5 sec. (10 sec)",
@@ -3402,7 +3402,7 @@
 	},
 	{
 		"ItemId":30302009,
-		"ChildItemId":[30201011,30202001,30302002],
+		"ChildItemId":[30201005,30202001,30102002],
 		"ItemName":"Witch's Vial",
 		"ItemDescription":{
 			"Passive":"A successful Basic Attack on an enemy increases Vamp of all Damage by 8% for 4 sec. Using any skills except for Basic Attacks recovers 10 Mana.",
@@ -3460,7 +3460,7 @@
 	},
 	{
 		"ItemId":30303002,
-		"ChildItemId":[30202009,30203004,30302003],
+		"ChildItemId":[30203006,30203004,30103003],
 		"ItemName":"Zinc's Claw Barrier",
 		"ItemDescription":{
 			"Passive":"Reflects 7% of all the hero's received Damage. Also decreases enemie's Healing by 30% for 3 sec, affecting both Regeneration and Recovery.",
