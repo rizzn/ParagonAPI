@@ -593,7 +593,7 @@
 	},
 	{
 		"ItemId":30203002,
-		"ChildItemId":30103004,
+		"ChildItemId":[30103004],
 		"ItemName":"Amber",
 		"ItemDescription":{
 			"Passive":false,
@@ -614,7 +614,7 @@
 	},
 	{
 		"ItemId":30201000,
-		"ChildItemId":30101002,
+		"ChildItemId":[30101002],
 		"ItemName":"Ancient Text of Nata",
 		"ItemDescription":{
 			"Passive":false,
@@ -988,7 +988,7 @@
 	},
 	{
 		"ItemId":30203007,
-		"ChildItemId":30103003,
+		"ChildItemId":[30103003],
 		"ItemName":"Feather of Protection",
 		"ItemDescription":{
 			"Passive":false,
@@ -1034,7 +1034,7 @@
 	},
 	{
 		"ItemId":30203003,
-		"ChildItemId":30103003,
+		"ChildItemId":[30103003],
 		"ItemName":"Inquisitor's Prayer Beads",
 		"ItemDescription":{
 			"Passive":false,
@@ -1055,7 +1055,7 @@
 	},
 	{
 		"ItemId":30203000,
-		"ChildItemId":30103004,
+		"ChildItemId":[30103004],
 		"ItemName":"Kinc Horn",
 		"ItemDescription":{
 			"Passive":false,
@@ -1101,7 +1101,7 @@
 	},
 	{
 		"ItemId":30202005,
-		"ChildItemId":30102002,
+		"ChildItemId":[30102002],
 		"ItemName":"Nightmare",
 		"ItemDescription":{
 			"Passive":"Dealing Magical Damage to an enemy hero decreases the enemy hero's Healing by 25% for 4 sec each time, affecting both Regeneration and Recovery.",
@@ -1122,7 +1122,7 @@
 	},
 	{
 		"ItemId":30201012,
-		"ChildItemId":30101005,
+		"ChildItemId":[30101005],
 		"ItemName":"Optinium Mace",
 		"ItemDescription":{
 			"Passive":false,
@@ -1143,7 +1143,7 @@
 	},
 	{
 		"ItemId":30202004,
-		"ChildItemId":30102002,
+		"ChildItemId":[30102002],
 		"ItemName":"Orb of Harmony",
 		"ItemDescription":{
 			"Passive":false,
@@ -1168,7 +1168,7 @@
 	},
 	{
 		"ItemId":30201007,
-		"ChildItemId":30101005,
+		"ChildItemId":[30101005],
 		"ItemName":"Plasma Whip",
 		"ItemDescription":{
 			"Passive":"A successful Basic Attack deals Bonus Physical Damage equal to 30% of Physical Power to nearby enemies. The following effect only applies for Melee attacks.",
@@ -1189,7 +1189,7 @@
 	},
 	{
 		"ItemId":30202000,
-		"ChildItemId":30102002,
+		"ChildItemId":[30102002],
 		"ItemName":"Puncturing Sphere",
 		"ItemDescription":{
 			"Passive":false,
@@ -1356,7 +1356,7 @@
 	},
 	{
 		"ItemId":30202007,
-		"ChildItemId":30102002,
+		"ChildItemId":[30102002],
 		"ItemName":"Tarlia's Branch",
 		"ItemDescription":{
 			"Passive":false,
@@ -1381,7 +1381,7 @@
 	},
 	{
 		"ItemId":30203012,
-		"ChildItemId":30103002,
+		"ChildItemId":[30103002],
 		"ItemName":"Tattoo of Defense",
 		"ItemDescription":{
 			"Passive":false,
@@ -1402,7 +1402,7 @@
 	},
 	{
 		"ItemId":30203011,
-		"ChildItemId":30103003,
+		"ChildItemId":[30103003],
 		"ItemName":"Tattoo of Resistance",
 		"ItemDescription":{
 			"Passive":false,
